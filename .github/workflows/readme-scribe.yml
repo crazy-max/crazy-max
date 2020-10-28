@@ -1,0 +1,39 @@
+name: readme-scribe
+
+on:
+  schedule:
+    - cron: '0 0 */1 * *'
+  push:
+    branches:
+      - 'master'
+  pull_request:
+    branches:
+      - 'master'
+
+jobs:
+  readme-scribe:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v2.3.3
+      -
+        uses: muesli/readme-scribe@v0.1
+        with:
+          template: templates/README.md.tpl
+          writeTo: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      -
+        uses: actions/upload-artifact@v1
+        with:
+          name: README.md
+          path: README.md
+      -
+        uses: stefanzweifel/git-auto-commit-action@v4.7.2
+        if: github.event_name != 'pull_request'
+        with:
+          commit_message: 'Update generated README'
+          branch: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
