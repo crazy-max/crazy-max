@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) - DokuWiki Docker image based on Alpine Linux and Nginx (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (today)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.7.0](https://github.com/crazy-max/diun/releases/tag/v4.7.0), today) - Receive notifications when an image is updated on a Docker registry
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.4.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.4.0), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v1.5.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v1.5.0), 1 day ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) ([v1.7.0](https://github.com/crazy-max/ghaction-docker-meta/releases/tag/v1.7.0), 2 days ago) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker
-- [crazy-max/ghaction-dockerhub-mirror](https://github.com/crazy-max/ghaction-dockerhub-mirror) ([v1.0.0](https://github.com/crazy-max/ghaction-dockerhub-mirror/releases/tag/v1.0.0), 2 days ago) - :octocat: GitHub Action to mirror a DockerHub repo to another registry
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.1.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.1.0), today) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
+- [librenms/librenms](https://github.com/librenms/librenms) ([1.69](https://github.com/librenms/librenms/releases/tag/1.69), 1 day ago) - Community-based GPL-licensed network monitoring system
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.1.1](https://github.com/crazy-max/ftpgrab/releases/tag/v7.1.1), 1 day ago) - Grab your files periodically from a remote FTP or SFTP server easily
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.7.0](https://github.com/crazy-max/diun/releases/tag/v4.7.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.4.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.4.0), 2 days ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
