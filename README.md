@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (today)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (1 day ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (2 days ago)
-- [portapps/oracle-jdk-portable](https://github.com/portapps/oracle-jdk-portable) - 🚀 Oracle JDK portable for Windows (2 days ago)
+- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (today)
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (today)
+- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (today)
 
 #### 👨‍💻 Repositories I created recently
 
