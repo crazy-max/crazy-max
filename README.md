@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (today)
-- [docker/login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry (2 days ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (3 days ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (3 days ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
+- [neard/neard.github.io](https://github.com/neard/neard.github.io) - 🌍 Neard&#39;s website (1 day ago)
+- [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack (1 day ago)
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.104.1](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.104.1), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.4.0](https://github.com/crazy-max/gonfig/releases/tag/v0.4.0), 4 days ago) - Lightweight config handling for Go
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.3.0), 6 days ago) - :octocat: GitHub Action for GoReleaser
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.0.5](https://github.com/regclient/regclient/releases/tag/v0.0.5), 6 days ago) - Docker and OCI Registry Client in Go and regctl command line.
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ([4.34.0](https://github.com/crazy-max/WindowsSpyBlocker/releases/tag/4.34.0), 1 week ago) - Block spying and tracking on Windows
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) ([v2.2.0](https://github.com/crazy-max/ghaction-github-pages/releases/tag/v2.2.0), 1 day ago) - :octocat: GitHub Action to deploy to GitHub Pages
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.104.1](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.104.1), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.4.0](https://github.com/crazy-max/gonfig/releases/tag/v0.4.0), 5 days ago) - Lightweight config handling for Go
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.3.0), 1 week ago) - :octocat: GitHub Action for GoReleaser
