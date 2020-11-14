@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
-- [neard/neard.github.io](https://github.com/neard/neard.github.io) - 🌍 Neard&#39;s website (1 day ago)
-- [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack (1 day ago)
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image based on Alpine Linux (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (1 day ago)
+- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) - 🚀 Borderless Gaming portable for Windows  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) ([v2.2.0](https://github.com/crazy-max/ghaction-github-pages/releases/tag/v2.2.0), 1 day ago) - :octocat: GitHub Action to deploy to GitHub Pages
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.104.1](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.104.1), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.4.0](https://github.com/crazy-max/gonfig/releases/tag/v0.4.0), 5 days ago) - Lightweight config handling for Go
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.3.0), 1 week ago) - :octocat: GitHub Action for GoReleaser
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([78.4.3-38](https://github.com/portapps/stormhen-portable/releases/tag/78.4.3-38), 1 day ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) ([1.51.1-49](https://github.com/portapps/vscodium-portable/releases/tag/1.51.1-49), 1 day ago) - 🚀 VSCodium portable for Windows
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.51.1-40](https://github.com/portapps/vscode-portable/releases/tag/1.51.1-40), 1 day ago) - 🚀 Visual Studio Code portable for Windows
+- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) ([9.5.6-2](https://github.com/portapps/borderless-gaming-portable/releases/tag/9.5.6-2), 1 day ago) - 🚀 Borderless Gaming portable for Windows 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
