@@ -25,7 +25,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       -
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: README.md
           path: README.md
