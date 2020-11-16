@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (2 days ago)
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (2 days ago)
-- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) - 🚀 Borderless Gaming portable for Windows  (2 days ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (today)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (today)
+- [portapps/innosetup-portable](https://github.com/portapps/innosetup-portable) - 🚀 Inno Setup portable for Windows  (today)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.8.1](https://github.com/crazy-max/diun/releases/tag/v4.8.1), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([78.4.3-38](https://github.com/portapps/stormhen-portable/releases/tag/78.4.3-38), 2 days ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) ([1.51.1-49](https://github.com/portapps/vscodium-portable/releases/tag/1.51.1-49), 2 days ago) - 🚀 VSCodium portable for Windows
-- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.51.1-40](https://github.com/portapps/vscode-portable/releases/tag/1.51.1-40), 2 days ago) - 🚀 Visual Studio Code portable for Windows
-- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) ([9.5.6-2](https://github.com/portapps/borderless-gaming-portable/releases/tag/9.5.6-2), 2 days ago) - 🚀 Borderless Gaming portable for Windows 
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([7.34.0-46](https://github.com/portapps/postman-portable/releases/tag/7.34.0-46), today) - 🚀 Postman portable for Windows
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.66.0.77-87](https://github.com/portapps/skype-portable/releases/tag/8.66.0.77-87), today) - 🚀 Skype portable for Windows 
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([86.0.4240.193-7](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/86.0.4240.193-7), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/innosetup-portable](https://github.com/portapps/innosetup-portable) ([6.1.2-4](https://github.com/portapps/innosetup-portable/releases/tag/6.1.2-4), 1 day ago) - 🚀 Inno Setup portable for Windows 
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.2.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.2.0), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
