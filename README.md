@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (today)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (today)
-- [portapps/innosetup-portable](https://github.com/portapps/innosetup-portable) - 🚀 Inno Setup portable for Windows  (today)
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (today)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [portapps/innosetup-portable](https://github.com/portapps/innosetup-portable) - 🚀 Inno Setup portable for Windows  (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([7.34.0-46](https://github.com/portapps/postman-portable/releases/tag/7.34.0-46), today) - 🚀 Postman portable for Windows
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.66.0.77-87](https://github.com/portapps/skype-portable/releases/tag/8.66.0.77-87), today) - 🚀 Skype portable for Windows 
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([86.0.4240.193-7](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/86.0.4240.193-7), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
-- [portapps/innosetup-portable](https://github.com/portapps/innosetup-portable) ([6.1.2-4](https://github.com/portapps/innosetup-portable/releases/tag/6.1.2-4), 1 day ago) - 🚀 Inno Setup portable for Windows 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.2.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.2.0), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.9.0](https://github.com/crazy-max/diun/releases/tag/v4.9.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.0.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.0.0), 1 day ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([7.34.0-46](https://github.com/portapps/postman-portable/releases/tag/7.34.0-46), 1 day ago) - 🚀 Postman portable for Windows
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.66.0.77-87](https://github.com/portapps/skype-portable/releases/tag/8.66.0.77-87), 1 day ago) - 🚀 Skype portable for Windows 
