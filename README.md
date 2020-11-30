@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (2 days ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (4 days ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (4 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (4 days ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (4 days ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (today)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (5 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.8.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.8.0-rc3), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) ([v1.8.5](https://github.com/crazy-max/ghaction-docker-meta/releases/tag/v1.8.5), 5 days ago) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v3.0.2](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v3.0.2), 5 days ago) - :octocat: GitHub Action to easily import a GPG key
-- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.6.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.6.0), 6 days ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.4.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.4.0), today) - :octocat: GitHub Action for GoReleaser
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.2.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.2.0), 1 day ago) - Grab your files periodically from a remote FTP or SFTP server easily
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.148.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.148.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.8.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.8.0-rc3), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) ([v1.8.5](https://github.com/crazy-max/ghaction-docker-meta/releases/tag/v1.8.5), 6 days ago) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker
