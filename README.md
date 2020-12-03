@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (1 day ago)
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (2 days ago)
+- [portapps/innosetup-portable](https://github.com/portapps/innosetup-portable) - 🚀 Inno Setup portable for Windows  (today)
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) - 🚀 Insomnia REST Client portable for Windows (today)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (today)
+- [portapps/franz-portable](https://github.com/portapps/franz-portable) - 🚀 Franz portable for Windows (today)
+- [portapps/hlsw-portable](https://github.com/portapps/hlsw-portable) - 🚀 Half-Life Server Watch (HLSW) portable for Windows (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.0.0-beta.1](https://github.com/portapps/portapps/releases/tag/v3.0.0-beta.1), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.4.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.4.0), 2 days ago) - :octocat: GitHub Action for GoReleaser
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.2.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.2.0), 3 days ago) - Grab your files periodically from a remote FTP or SFTP server easily
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.8.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.8.0-rc3), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.1.0](https://github.com/regclient/regclient/releases/tag/v0.1.0), 1 day ago) - Docker and OCI Registry Client in Go and regctl command line.
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.4.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.4.1), 1 day ago) - :octocat: GitHub Action for GoReleaser
+- [librenms/librenms](https://github.com/librenms/librenms) ([1.70.1](https://github.com/librenms/librenms/releases/tag/1.70.1), 1 day ago) - Community-based GPL-licensed network monitoring system
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.0.0](https://github.com/portapps/portapps/releases/tag/v3.0.0), 1 day ago) - 🛰 Collection of portable apps for Windows
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
