@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (1 day ago)
-- [portapps/kitty-portable](https://github.com/portapps/kitty-portable) - 🚀 KiTTY portable for Windows  (1 day ago)
-- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (1 day ago)
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - 🚀 IntelliJ IDEA Ultimate portable for Windows  (1 day ago)
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) - 🚀 Visual Studio Code portable for Windows (1 day ago)
+- [neard/neard.github.io](https://github.com/neard/neard.github.io) - 🌍 Neard&#39;s website (1 day ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
+- [neard/neard](https://github.com/neard/neard) - 🎲 Portable WAMP software stack (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) ([v2.3.0](https://github.com/crazy-max/ghaction-virustotal/releases/tag/v2.3.0), 1 day ago) - :octocat: GitHub Action to upload and scan files with VirusTotal
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2020.3-31](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2020.3-31), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2020.3-45](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2020.3-45), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.2.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.2.1-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.1.0-11](https://github.com/portapps/nextcloud-portable/releases/tag/3.1.0-11), 1 day ago) - 🚀 Nextcloud portable for Windows
+- [neard/neard](https://github.com/neard/neard) ([v1.8.2](https://github.com/neard/neard/releases/tag/v1.8.2), 1 day ago) - 🎲 Portable WAMP software stack
+- [neard/module-php](https://github.com/neard/module-php) ([r33](https://github.com/neard/module-php/releases/tag/r33), 1 day ago) - 📦 PHP module for Neard project
+- [neard/modules-untouched](https://github.com/neard/modules-untouched) ([php-r20](https://github.com/neard/modules-untouched/releases/tag/php-r20), 1 day ago) - Mirror of all modules binaries untouched from their original locations for Neard project
+- [neard/prerequisites](https://github.com/neard/prerequisites) ([r11](https://github.com/neard/prerequisites/releases/tag/r11), 1 day ago) - ⚙️ Prerequisites required before any use of Neard
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) ([1.52.0-50](https://github.com/portapps/vscodium-portable/releases/tag/1.52.0-50), 1 day ago) - 🚀 VSCodium portable for Windows
