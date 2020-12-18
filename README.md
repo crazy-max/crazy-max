@@ -26,7 +26,7 @@
 
 #### ❤️ Sponsors
 - [Yumin](https://github.com/itsbagpack) (3 weeks ago)
-- [](https://github.com/nokoa77) (3 months ago)
+- _Anonymous_ (3 months ago)
 - [Aaron Gershman](https://github.com/aegershman) (4 months ago)
 - [Steven Yuan](https://github.com/syuan100) (4 months ago)
 - [Rancoud](https://github.com/rancoud) (5 months ago)
