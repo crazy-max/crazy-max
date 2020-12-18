@@ -14,3 +14,11 @@
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
+
+#### ❤️ Sponsors
+
+{{- range sponsors 5 }}
+- [{{ .User.Name }}]({{ .User.URL }}) ({{ humanize .CreatedAt }})
+{{- end }}
+
+Thanks again for your support, it is much appreciated! 🙏
