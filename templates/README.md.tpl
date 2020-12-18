@@ -18,7 +18,7 @@
 #### ❤️ Sponsors
 
 {{- range sponsors 5 }}
-- {{ if (eq .User.Name "Mary") }}_Anonymous_{{ else }}[{{ .User.Name }}]({{ .User.URL }}){{ end }} ({{ humanize .CreatedAt }})
+- {{ if (eq .User.Name "") }}_Anonymous_{{ else }}[{{ .User.Name }}]({{ .User.URL }}){{ end }} ({{ humanize .CreatedAt }})
 {{- end }}
 
 Thanks again for your support, it is much appreciated! 🙏
