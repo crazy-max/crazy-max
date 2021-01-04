@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (2 days ago)
-- [crazy-max/docker-artifactory](https://github.com/crazy-max/docker-artifactory) - JFrog Artifactory Docker images (4 days ago)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/wire-portable](https://github.com/portapps/wire-portable) - 🚀 Wire portable for Windows (1 day ago)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ([4.34.2](https://github.com/crazy-max/WindowsSpyBlocker/releases/tag/4.34.2), 2 days ago) - Block spying and tracking on Windows
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.2.0](https://github.com/regclient/regclient/releases/tag/v0.2.0), 2 days ago) - Docker and OCI Registry Client in Go and regctl command line.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.151.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.151.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.5.11-5](https://github.com/portapps/cryptomator-portable/releases/tag/1.5.11-5), 1 week ago) - 🚀 Cryptomator portable for Windows
-- [portapps/terminus-portable](https://github.com/portapps/terminus-portable) ([1.0.122-2](https://github.com/portapps/terminus-portable/releases/tag/1.0.122-2), 1 week ago) - 🚀 Terminus portable for Windows 
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ([v1.9.0](https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.9.0), 1 day ago) - Create jobs on a time-based schedule on Docker Swarm
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) ([7.3.1-41](https://github.com/portapps/dbeaver-portable/releases/tag/7.3.1-41), 1 day ago) - 🚀 DBeaver portable for Windows
+- [portapps/wire-portable](https://github.com/portapps/wire-portable) ([3.21.3932-12](https://github.com/portapps/wire-portable/releases/tag/3.21.3932-12), 1 day ago) - 🚀 Wire portable for Windows
+- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) ([9.5.6-3](https://github.com/portapps/borderless-gaming-portable/releases/tag/9.5.6-3), 1 day ago) - 🚀 Borderless Gaming portable for Windows 
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.10.0-4](https://github.com/portapps/ueli-portable/releases/tag/8.10.0-4), 1 day ago) - 🚀 ueli portable for Windows
 
 #### ❤️ Sponsors
 - [Yumin Wong](https://github.com/itsbagpack) (1 month ago)
