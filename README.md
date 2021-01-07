@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (1 day ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/handbrake-portable](https://github.com/portapps/handbrake-portable) - 🚀 HandBrake portable for Windows (1 day ago)
+- [portapps/qbittorrent-portable](https://github.com/portapps/qbittorrent-portable) - 🚀 qBittorrent portable for Windows (1 day ago)
+- [portapps/oracle-jdk-portable](https://github.com/portapps/oracle-jdk-portable) - 🚀 Oracle JDK portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.3.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.3.0), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.1.1](https://github.com/docker/setup-buildx-action/releases/tag/v1.1.1), 1 day ago) - GitHub Action to set up Docker Buildx
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.11.0](https://github.com/crazy-max/diun/releases/tag/v4.11.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.152.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.152.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ([v1.9.0](https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.9.0), 3 days ago) - Create jobs on a time-based schedule on Docker Swarm
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) ([v2.4.1](https://github.com/crazy-max/ghaction-virustotal/releases/tag/v2.4.1), 1 day ago) - :octocat: GitHub Action to upload and scan files with VirusTotal
+- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) ([2.2.26-9](https://github.com/portapps/gnupg-portable/releases/tag/2.2.26-9), 1 day ago) - 🚀 GnuPG portable for Windows
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([87.0.4280.88-8](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/87.0.4280.88-8), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/caprine-portable](https://github.com/portapps/caprine-portable) ([2.51.2-32](https://github.com/portapps/caprine-portable/releases/tag/2.51.2-32), 1 day ago) - 🚀 Caprine portable for Windows
+- [portapps/franz-portable](https://github.com/portapps/franz-portable) ([5.6.1-11](https://github.com/portapps/franz-portable/releases/tag/5.6.1-11), 1 day ago) - 🚀 Franz portable for Windows
 
 #### ❤️ Sponsors
 - [Yumin Wong](https://github.com/itsbagpack) (1 month ago)
