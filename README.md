@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (2 days ago)
-- [crazy-max/ghaction-docker-buildx](https://github.com/crazy-max/ghaction-docker-buildx) - :octocat: GitHub Action to set up Docker Buildx (6 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 week ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 week ago)
-- [crazy-max/crazy-max.github.io](https://github.com/crazy-max/crazy-max.github.io) - Homepage (1 week ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/mirc-portable](https://github.com/portapps/mirc-portable) - 🚀 mIRC portable for Windows (1 day ago)
+- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - 🚀 WhatsApp portable for Windows (1 day ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
+- [portapps/kitty-portable](https://github.com/portapps/kitty-portable) - 🚀 KiTTY portable for Windows  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [containers/image](https://github.com/containers/image) ([v5.10.0](https://github.com/containers/image/releases/tag/v5.10.0), 1 day ago) - Work with containers&#39; images
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([20.0.6-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/20.0.6-r0), 2 days ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
-- [crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan) ([1.25.0-r0](https://github.com/crazy-max/docker-shodan/releases/tag/1.25.0-r0), 2 days ago) - Shodan Docker image based on Alpine Linux
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210123.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210123.1), 3 days ago) - GitHub Actions virtual environments
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.2.1](https://github.com/regclient/regclient/releases/tag/v0.2.1), 1 week ago) - Docker and OCI Registry Client in Go and regctl command line.
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([3.0.2-21](https://github.com/portapps/waterfox-portable/releases/tag/3.0.2-21), 1 day ago) - 🚀 Waterfox portable for Windows 
+- [portapps/kitty-portable](https://github.com/portapps/kitty-portable) ([0.74.4.6-34](https://github.com/portapps/kitty-portable/releases/tag/0.74.4.6-34), 1 day ago) - 🚀 KiTTY portable for Windows 
+- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) ([2.2100.7-27](https://github.com/portapps/whatsapp-portable/releases/tag/2.2100.7-27), 1 day ago) - 🚀 WhatsApp portable for Windows
+- [portapps/mirc-portable](https://github.com/portapps/mirc-portable) ([7.64-12](https://github.com/portapps/mirc-portable/releases/tag/7.64-12), 1 day ago) - 🚀 mIRC portable for Windows
+- [containers/image](https://github.com/containers/image) ([v5.10.1](https://github.com/containers/image/releases/tag/v5.10.1), 1 day ago) - Work with containers&#39; images
 
 #### ❤️ Sponsors
 - [Yumin Wong](https://github.com/itsbagpack) (2 months ago)
