@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/crazy-max.github.io](https://github.com/crazy-max/crazy-max.github.io) - Homepage (today)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (2 days ago)
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (2 days ago)
-- [crazy-max/docker-artifactory](https://github.com/crazy-max/docker-artifactory) - JFrog Artifactory Docker images (2 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (1 day ago)
+- [crazy-max/crazy-max.github.io](https://github.com/crazy-max/crazy-max.github.io) - Homepage (1 day ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (3 days ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210131.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210131.1), 1 day ago) - GitHub Actions virtual environments
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.1-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.1-r0), 2 days ago) - Alpine Linux with s6 overlay
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.2.0](https://github.com/docker/bake-action/releases/tag/v1.2.0), 4 days ago) - :octocat: GitHub Action to build with Buildx Bake
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v3.1.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v3.1.0), 4 days ago) - :octocat: GitHub Action to easily import a GPG key
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([3.0.2-21](https://github.com/portapps/waterfox-portable/releases/tag/3.0.2-21), 5 days ago) - 🚀 Waterfox portable for Windows 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.105.0-beta.3](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.105.0-beta.3), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
+- [librenms/docker](https://github.com/librenms/docker) ([21.1.0-r0](https://github.com/librenms/docker/releases/tag/21.1.0-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.3-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.3-r0), 1 day ago) - Docker in Docker (DinD) image
+- [librenms/librenms](https://github.com/librenms/librenms) ([21.1.0](https://github.com/librenms/librenms/releases/tag/21.1.0), 1 day ago) - Community-based GPL-licensed network monitoring system
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210131.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210131.1), 2 days ago) - GitHub Actions virtual environments
 
 #### ❤️ Sponsors
 - [Yumin Wong](https://github.com/itsbagpack) (2 months ago)
