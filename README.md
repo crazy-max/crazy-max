@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (3 days ago)
-- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (3 days ago)
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (3 days ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (4 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (1 day ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210202.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210202.1), 3 days ago) - GitHub Actions virtual environments
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.105.0-beta.3](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.105.0-beta.3), 4 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [librenms/docker](https://github.com/librenms/docker) ([21.1.0-r0](https://github.com/librenms/docker/releases/tag/21.1.0-r0), 4 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.3-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.3-r0), 4 days ago) - Docker in Docker (DinD) image
-- [librenms/librenms](https://github.com/librenms/librenms) ([21.1.0](https://github.com/librenms/librenms/releases/tag/21.1.0), 4 days ago) - Community-based GPL-licensed network monitoring system
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([78.7.1-51](https://github.com/portapps/phyrox-esr-portable/releases/tag/78.7.1-51), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([85.0.1-54](https://github.com/portapps/phyrox-portable/releases/tag/85.0.1-54), 1 day ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([86.0b5-39](https://github.com/portapps/phyrox-developer-portable/releases/tag/86.0b5-39), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.3-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.3-r0), 1 day ago) - qBittorrent Docker image based on Alpine Linux
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2021.2.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2021.2.1-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
 
 #### ❤️ Sponsors
 - [Yumin Wong](https://github.com/itsbagpack) (2 months ago)
