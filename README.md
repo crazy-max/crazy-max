@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (2 days ago)
-- [crazy-max/docker-artifactory](https://github.com/crazy-max/docker-artifactory) - JFrog Artifactory Docker images (3 days ago)
-- [crazy-max/docker-xray](https://github.com/crazy-max/docker-xray) - JFrog Xray Docker images (3 days ago)
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (5 days ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server image based on Alpine Linux  (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (3 days ago)
+- [crazy-max/docker-xray](https://github.com/crazy-max/docker-xray) - JFrog Xray Docker images (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.13.1-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.13.1-r0), 1 day ago) - Unbound Docker image based on Alpine Linux
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.105.0](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.105.0), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v1.0.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v1.0.0), 2 days ago) - :octocat: GitHub Action to check Docker system status in your workflow
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.12.0](https://github.com/crazy-max/diun/releases/tag/v4.12.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
-- [containers/image](https://github.com/containers/image) ([v5.10.2](https://github.com/containers/image/releases/tag/v5.10.2), 2 days ago) - Work with containers&#39; images
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.13.2-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.13.2-r0), 1 day ago) - EJT License Server image based on Alpine Linux 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([26301-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/26301-r0), 1 day ago) - JetBrains License Server Docker image
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.13.1-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.13.1-r0), 2 days ago) - Unbound Docker image based on Alpine Linux
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.105.0](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.105.0), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
 
 #### ❤️ Sponsors
 - [Yumin Wong](https://github.com/itsbagpack) (2 months ago)
