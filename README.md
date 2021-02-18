@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 - [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
-- [portapps/emby-theater-portable](https://github.com/portapps/emby-theater-portable) - 🚀 Emby Theater portable for Windows (1 day ago)
-- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) - 🚀 Borderless Gaming portable for Windows  (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [librenms/docker](https://github.com/librenms/docker) ([21.2.0-r0](https://github.com/librenms/docker/releases/tag/21.2.0-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.0-r4](https://github.com/anonaddy/docker/releases/tag/0.7.0-r4), 1 day ago) - AnonAddy Docker image based on Alpine Linux
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r0), 1 day ago) - Alpine Linux with s6 overlay
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([8.0.5-48](https://github.com/portapps/postman-portable/releases/tag/8.0.5-48), 1 day ago) - 🚀 Postman portable for Windows
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r1](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r1), 1 day ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r4-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r4-r0), 1 day ago) - RRDcached Docker image based on Alpine Linux
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v2.3.0](https://github.com/docker/build-push-action/releases/tag/v2.3.0), 1 day ago) - :octocat: GitHub Action to build and push Docker images with Buildx
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210216.3](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210216.3), 1 day ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Sponsors
-- _Anonymous_ (5 days ago)
+- _Anonymous_ (6 days ago)
 - [Yumin Wong](https://github.com/itsbagpack) (2 months ago)
 - _Anonymous_ (5 months ago)
 - [Steven Yuan](https://github.com/syuan100) (6 months ago)
