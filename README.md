@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (1 day ago)
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([21.0.0-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/21.0.0-r0), today) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([7.13.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/7.13.0-r0), 1 day ago) - GitHub Linguist Docker image based on Alpine Linux
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2021.2.2-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2021.2.2-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r4](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r4), 2 days ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210220.1), 2 days ago) - GitHub Actions virtual environments
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r7](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r7), today) - Alpine Linux with s6 overlay
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([0.1.0-beta.15-r2](https://github.com/crazy-max/docker-flarum/releases/tag/0.1.0-beta.15-r2), 1 day ago) - Flarum Docker image based on Alpine Linux
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.2.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.2.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([21.0.0-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/21.0.0-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([7.13.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/7.13.0-r0), 2 days ago) - GitHub Linguist Docker image based on Alpine Linux
 
 #### ❤️ Sponsors
 - _Anonymous_ (1 week ago)
