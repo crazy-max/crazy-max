@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (2 days ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image based on Alpine Linux (today)
+- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (today)
+- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) - DokuWiki Docker image based on Alpine Linux and Nginx (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server image based on Alpine Linux  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([21.0.0-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/21.0.0-r1), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.2.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.2.1-r0), 1 day ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.13.0](https://github.com/crazy-max/diun/releases/tag/v4.13.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.4-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.4-r0), 2 days ago) - Docker in Docker (DinD) image
+- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) ([1.8.0-r14](https://github.com/crazy-max/docker-firefox-syncserver/releases/tag/1.8.0-r14), today) - Firefox Sync Server Docker image based on Python Alpine Linux
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([0.1.0-beta.15-r3](https://github.com/crazy-max/docker-flarum/releases/tag/0.1.0-beta.15-r3), 1 day ago) - Flarum Docker image based on Alpine Linux
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.14-r1](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.14-r1), 1 day ago) - EJT License Server image based on Alpine Linux 
+- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2020-07-29-r7](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2020-07-29-r7), 1 day ago) - DokuWiki Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.3-r1](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.3-r1), 1 day ago) - qBittorrent Docker image based on Alpine Linux
 
 #### ❤️ Sponsors
 - _Anonymous_ (2 weeks ago)
