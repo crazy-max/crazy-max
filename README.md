@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image based on Alpine Linux (today)
-- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (today)
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) - DokuWiki Docker image based on Alpine Linux and Nginx (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server image based on Alpine Linux  (1 day ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) ([1.8.0-r14](https://github.com/crazy-max/docker-firefox-syncserver/releases/tag/1.8.0-r14), today) - Firefox Sync Server Docker image based on Python Alpine Linux
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([0.1.0-beta.15-r3](https://github.com/crazy-max/docker-flarum/releases/tag/0.1.0-beta.15-r3), 1 day ago) - Flarum Docker image based on Alpine Linux
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.14-r1](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.14-r1), 1 day ago) - EJT License Server image based on Alpine Linux 
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2020-07-29-r7](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2020-07-29-r7), 1 day ago) - DokuWiki Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.3-r1](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.3-r1), 1 day ago) - qBittorrent Docker image based on Alpine Linux
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) ([1.19.0-r1](https://github.com/crazy-max/docker-healthchecks/releases/tag/1.19.0-r1), 1 day ago) - Healthchecks Docker image based on Alpine Linux
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r7](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r7), 1 day ago) - Alpine Linux with s6 overlay
+- [containers/image](https://github.com/containers/image) ([v5.10.5](https://github.com/containers/image/releases/tag/v5.10.5), 1 day ago) - Work with containers&#39; images
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210302.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210302.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([21.0.0-r2](https://github.com/crazy-max/docker-nextcloud/releases/tag/21.0.0-r2), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
 
 #### ❤️ Sponsors
 - _Anonymous_ (2 weeks ago)
