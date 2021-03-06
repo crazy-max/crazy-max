@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (today)
-- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) - 🚀 Android Studio portable for Windows (today)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (today)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
+- [portapps/oracle-jdk-portable](https://github.com/portapps/oracle-jdk-portable) - 🚀 Oracle JDK portable for Windows (1 day ago)
+- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
+- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) - 🚀 Borderless Gaming portable for Windows  (1 day ago)
+- [portapps/franz-portable](https://github.com/portapps/franz-portable) - 🚀 Franz portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.3.0](https://github.com/portapps/portapps/releases/tag/v3.3.0), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) ([4.1.2-16](https://github.com/portapps/android-studio-portable/releases/tag/4.1.2-16), 1 day ago) - 🚀 Android Studio portable for Windows
-- [portapps/terminus-portable](https://github.com/portapps/terminus-portable) ([1.0.134-3](https://github.com/portapps/terminus-portable/releases/tag/1.0.134-3), 1 day ago) - 🚀 Terminus portable for Windows 
-- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.7.22-39](https://github.com/portapps/element-portable/releases/tag/1.7.22-39), 1 day ago) - 🚀 Element portable for Windows
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.1.3-12](https://github.com/portapps/nextcloud-portable/releases/tag/3.1.3-12), 1 day ago) - 🚀 Nextcloud portable for Windows
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r5](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r5), 1 day ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.2.1-r3](https://github.com/crazy-max/docker-matomo/releases/tag/4.2.1-r3), 1 day ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.3.0](https://github.com/portapps/portapps/releases/tag/v3.3.0), 2 days ago) - 🛰 Collection of portable apps for Windows
+- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) ([4.1.2-16](https://github.com/portapps/android-studio-portable/releases/tag/4.1.2-16), 2 days ago) - 🚀 Android Studio portable for Windows
 
 #### ❤️ Sponsors
 - _Anonymous_ (3 weeks ago)
