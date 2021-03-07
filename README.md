@@ -2,27 +2,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
-- [portapps/oracle-jdk-portable](https://github.com/portapps/oracle-jdk-portable) - 🚀 Oracle JDK portable for Windows (1 day ago)
-- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
-- [portapps/borderless-gaming-portable](https://github.com/portapps/borderless-gaming-portable) - 🚀 Borderless Gaming portable for Windows  (1 day ago)
-- [portapps/franz-portable](https://github.com/portapps/franz-portable) - 🚀 Franz portable for Windows (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser
 - [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User
 - [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow
 - [crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan) - Shodan Docker image based on Alpine Linux
 - [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - :octocat: GitHub Action to expose GitHub runtime to the workflow
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image based on Alpine Linux
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r5](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r5), 1 day ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.2.1-r3](https://github.com/crazy-max/docker-matomo/releases/tag/4.2.1-r3), 1 day ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.3.0](https://github.com/portapps/portapps/releases/tag/v3.3.0), 2 days ago) - 🛰 Collection of portable apps for Windows
-- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) ([4.1.2-16](https://github.com/portapps/android-studio-portable/releases/tag/4.1.2-16), 2 days ago) - 🚀 Android Studio portable for Windows
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.14.1](https://github.com/crazy-max/yasu/releases/tag/v1.14.1), 1 day ago) - Yet Another Switch User
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.159.0-r2](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.159.0-r2), 1 day ago) - Cross compilation helper for GoReleaser
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r6](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r6), 1 day ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.2.1-r3](https://github.com/crazy-max/docker-matomo/releases/tag/4.2.1-r3), 2 days ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Sponsors
 - _Anonymous_ (3 weeks ago)
