@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (2 days ago)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.14.1](https://github.com/crazy-max/yasu/releases/tag/v1.14.1), 1 day ago) - Yet Another Switch User
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.159.0-r2](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.159.0-r2), 1 day ago) - Cross compilation helper for GoReleaser
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r6](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r6), 1 day ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.2.1-r3](https://github.com/crazy-max/docker-matomo/releases/tag/4.2.1-r3), 2 days ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.159.0-r3](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.159.0-r3), 1 day ago) - Cross compilation helper for GoReleaser
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.3-r3](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.3-r3), 1 day ago) - qBittorrent Docker image based on Alpine Linux
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.4.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.4.0), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.14.1](https://github.com/crazy-max/yasu/releases/tag/v1.14.1), 2 days ago) - Yet Another Switch User
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r6](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r6), 2 days ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
 
 #### ❤️ Sponsors
 - _Anonymous_ (3 weeks ago)
