@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (3 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (3 days ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (1 day ago)
+- [crazy-max/crazy-max.github.io](https://github.com/crazy-max/crazy-max.github.io) - Homepage (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210309.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210309.0), 1 day ago) - GitHub Actions virtual environments
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.3-r5](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.3-r5), 1 day ago) - qBittorrent Docker image based on Alpine Linux
-- [librenms/docker](https://github.com/librenms/docker) ([21.2.0-r2](https://github.com/librenms/docker/releases/tag/21.2.0-r2), 3 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.2-r0](https://github.com/anonaddy/docker/releases/tag/0.7.2-r0), 3 days ago) - AnonAddy Docker image based on Alpine Linux
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.105.2](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.105.2), 3 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.15-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.15-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) ([v1.2.0](https://github.com/crazy-max/ghaction-dump-context/releases/tag/v1.2.0), 1 day ago) - :octocat: GitHub Action composite to dump context
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.2](https://github.com/crazy-max/xgo/releases/tag/v0.6.2), 1 day ago) - Go CGO cross compiler
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v1.6.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v1.6.0), 1 day ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210309.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210309.0), 2 days ago) - GitHub Actions virtual environments
 
 #### ❤️ Sponsors
-- [Nat Friedman](https://github.com/nat) (1 day ago)
-- _Anonymous_ (4 weeks ago)
+- [Nat Friedman](https://github.com/nat) (2 days ago)
+- _Anonymous_ (1 month ago)
 - [Yumin Wong](https://github.com/itsbagpack) (3 months ago)
 - _Anonymous_ (6 months ago)
 - [Steven Yuan](https://github.com/syuan100) (7 months ago)
