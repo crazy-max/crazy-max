@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
-- [crazy-max/crazy-max.github.io](https://github.com/crazy-max/crazy-max.github.io) - Homepage (2 days ago)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (2 days ago)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (today)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (today)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (today)
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - 🚀 IntelliJ IDEA Ultimate portable for Windows  (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.15-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.15-r0), 2 days ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
-- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) ([v1.2.0](https://github.com/crazy-max/ghaction-dump-context/releases/tag/v1.2.0), 2 days ago) - :octocat: GitHub Action composite to dump context
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.2](https://github.com/crazy-max/xgo/releases/tag/v0.6.2), 2 days ago) - Go CGO cross compiler
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v1.6.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v1.6.0), 2 days ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210309.0](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210309.0), 3 days ago) - GitHub Actions virtual environments
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.4](https://github.com/crazy-max/xgo/releases/tag/v0.6.4), today) - Go CGO cross compiler
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) ([21.0.0-42](https://github.com/portapps/dbeaver-portable/releases/tag/21.0.0-42), 1 day ago) - 🚀 DBeaver portable for Windows
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.14.0](https://github.com/crazy-max/diun/releases/tag/v4.14.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210314.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210314.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.15-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.15-r0), 3 days ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
 
 #### ❤️ Sponsors
-- [Nat Friedman](https://github.com/nat) (3 days ago)
+- [Nat Friedman](https://github.com/nat) (4 days ago)
 - _Anonymous_ (1 month ago)
 - [Yumin Wong](https://github.com/itsbagpack) (3 months ago)
 - _Anonymous_ (6 months ago)
