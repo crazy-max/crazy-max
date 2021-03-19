@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (today)
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
 - [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (today)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.2.1-r4](https://github.com/crazy-max/docker-matomo/releases/tag/4.2.1-r4), 1 day ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2021.3.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2021.3.1-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r7](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r7), 1 day ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([26498-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/26498-r0), 1 day ago) - JetBrains License Server Docker image
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu16/20210317.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu16%2F20210317.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r8](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r8), 1 day ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [librenms/docker](https://github.com/librenms/docker) ([21.2.0-r3](https://github.com/librenms/docker/releases/tag/21.2.0-r3), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) ([1.19.0-r3](https://github.com/crazy-max/docker-healthchecks/releases/tag/1.19.0-r3), 1 day ago) - Healthchecks Docker image based on Alpine Linux
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([21.0.0-r4](https://github.com/crazy-max/docker-nextcloud/releases/tag/21.0.0-r4), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r4-r1](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r4-r1), 1 day ago) - RRDcached Docker image based on Alpine Linux
 
 #### ❤️ Sponsors
-- [Bret Fisher](https://github.com/BretFisher) (1 day ago)
-- [Nat Friedman](https://github.com/nat) (6 days ago)
+- [Bret Fisher](https://github.com/BretFisher) (2 days ago)
+- [Nat Friedman](https://github.com/nat) (1 week ago)
 - _Anonymous_ (1 month ago)
 - [Yumin Wong](https://github.com/itsbagpack) (3 months ago)
 - _Anonymous_ (6 months ago)
