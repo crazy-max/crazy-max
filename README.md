@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (1 day ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (2 days ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (2 days ago)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.4.1-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.4.1-r0), 1 day ago) - qBittorrent Docker image based on Alpine Linux
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.161.1-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.161.1-r0), 2 days ago) - Cross compilation helper for GoReleaser
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.68.0.96-89](https://github.com/portapps/skype-portable/releases/tag/8.68.0.96-89), 3 days ago) - 🚀 Skype portable for Windows 
-- [portapps/qbittorrent-portable](https://github.com/portapps/qbittorrent-portable) ([4.3.3-16](https://github.com/portapps/qbittorrent-portable/releases/tag/4.3.3-16), 3 days ago) - 🚀 qBittorrent portable for Windows
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r10](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r10), 1 day ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) ([v1.4.0](https://github.com/crazy-max/ghaction-upx/releases/tag/v1.4.0), 1 day ago) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.4.1-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.4.1-r0), 2 days ago) - qBittorrent Docker image based on Alpine Linux
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.161.1-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.161.1-r0), 3 days ago) - Cross compilation helper for GoReleaser
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Sponsors
-- [Max Schoening](https://github.com/max) (3 days ago)
-- [dy](https://github.com/dyipon) (5 days ago)
+- [Max Schoening](https://github.com/max) (4 days ago)
+- [dy](https://github.com/dyipon) (6 days ago)
 - [Bret Fisher](https://github.com/BretFisher) (1 week ago)
 - [Nat Friedman](https://github.com/nat) (2 weeks ago)
 - _Anonymous_ (1 month ago)
