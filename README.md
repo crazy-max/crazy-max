@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (today)
-- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (1 day ago)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (1 day ago)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (today)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (today)
+- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - :octocat: GitHub Action to build with Buildx Bake (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.5.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.5.0), 1 day ago) - :octocat: GitHub Action for GoReleaser
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v1.1.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v1.1.0), 1 day ago) - :octocat: GitHub Action to set up containerd
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) ([v1.4.0](https://github.com/crazy-max/ghaction-hugo/releases/tag/v1.4.0), 1 day ago) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites
-- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) ([v2.2.0](https://github.com/crazy-max/ghaction-github-status/releases/tag/v2.2.0), 1 day ago) - :octocat: GitHub Action to check GitHub Status in your workflow
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) ([v2.1.1](https://github.com/crazy-max/ghaction-docker-meta/releases/tag/v2.1.1), 1 day ago) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 1 day ago) - GitHub Actions virtual environments
+- [docker/bake-action](https://github.com/docker/bake-action) ([v1.3.0](https://github.com/docker/bake-action/releases/tag/v1.3.0), 1 day ago) - :octocat: GitHub Action to build with Buildx Bake
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.5.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.5.0), 2 days ago) - :octocat: GitHub Action for GoReleaser
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v1.1.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v1.1.0), 2 days ago) - :octocat: GitHub Action to set up containerd
 
 #### ❤️ Sponsors
 - [Max Schoening](https://github.com/max) (1 week ago)
