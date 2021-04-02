@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (today)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (today)
-- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - :octocat: GitHub Action to build with Buildx Bake (1 day ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/csgo-server-launcher](https://github.com/crazy-max/csgo-server-launcher) - Counter-Strike Global Offensive Dedicated Server Launcher (1 day ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 1 day ago) - GitHub Actions virtual environments
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.3.0](https://github.com/docker/bake-action/releases/tag/v1.3.0), 1 day ago) - :octocat: GitHub Action to build with Buildx Bake
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.5.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.5.0), 2 days ago) - :octocat: GitHub Action for GoReleaser
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v1.1.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v1.1.0), 2 days ago) - :octocat: GitHub Action to set up containerd
+- [magefile/mage-action](https://github.com/magefile/mage-action) ([v1.5.0](https://github.com/magefile/mage-action/releases/tag/v1.5.0), 1 day ago) - :octocat: GitHub Action for Mage
+- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.7.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.7.0), 1 day ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r13), 1 day ago) - Alpine Linux with s6 overlay
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 2 days ago) - GitHub Actions virtual environments
+- [docker/bake-action](https://github.com/docker/bake-action) ([v1.3.0](https://github.com/docker/bake-action/releases/tag/v1.3.0), 2 days ago) - :octocat: GitHub Action to build with Buildx Bake
 
 #### ❤️ Sponsors
+- [LitoMore](https://github.com/LitoMore) (1 day ago)
 - [Max Schoening](https://github.com/max) (1 week ago)
 - [dy](https://github.com/dyipon) (1 week ago)
 - [Bret Fisher](https://github.com/BretFisher) (2 weeks ago)
-- [Nat Friedman](https://github.com/nat) (2 weeks ago)
-- _Anonymous_ (1 month ago)
+- [Nat Friedman](https://github.com/nat) (3 weeks ago)
 
 Thanks again for your support, it is much appreciated! 🙏
