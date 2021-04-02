@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux (today)
+- [crazy-max/docker-loop](https://github.com/crazy-max/docker-loop) - Simple loop for dummy services (today)
+- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (today)
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (today)
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (today)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (today)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.0](https://github.com/regclient/regclient/releases/tag/v0.3.0), today) - Docker and OCI Registry Client in Go and regctl command line.
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.0](https://github.com/regclient/regclient/releases/tag/v0.3.0), today) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [magefile/mage-action](https://github.com/magefile/mage-action) ([v1.5.0](https://github.com/magefile/mage-action/releases/tag/v1.5.0), 1 day ago) - :octocat: GitHub Action for Mage
 - [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.7.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.7.0), 1 day ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 - [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r13), 1 day ago) - Alpine Linux with s6 overlay
