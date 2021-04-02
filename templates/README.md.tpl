@@ -17,7 +17,7 @@
 
 #### ❤️ Sponsors
 
-{{- range sponsors 5 }}
+{{- range sponsors 8 }}
 - {{ if (eq .User.Name "") }}_Anonymous_{{ else }}[{{ .User.Name }}]({{ .User.URL }}){{ end }} ({{ humanize .CreatedAt }})
 {{- end }}
 
