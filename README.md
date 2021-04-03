@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [crazy-max/docker-loop](https://github.com/crazy-max/docker-loop) - Simple loop for dummy services (today)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (today)
 - [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (today)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (today)
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (1 day ago)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,14 +24,11 @@
 - [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r13), 2 days ago) - Alpine Linux with s6 overlay
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 3 days ago) - GitHub Actions virtual environments
 
-#### ❤️ Sponsors
+#### ❤️ Latest sponsors
 - [LitoMore](https://github.com/LitoMore) (2 days ago)
 - [Max Schoening](https://github.com/max) (1 week ago)
 - [dy](https://github.com/dyipon) (1 week ago)
 - [Bret Fisher](https://github.com/BretFisher) (2 weeks ago)
 - [Nat Friedman](https://github.com/nat) (3 weeks ago)
-- _Anonymous_ (1 month ago)
-- [Yumin Wong](https://github.com/itsbagpack) (4 months ago)
-- _Anonymous_ (7 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
