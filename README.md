@@ -4,9 +4,9 @@
 
 - [crazy-max/docker-loop](https://github.com/crazy-max/docker-loop) - Simple loop for dummy services (today)
 - [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (today)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (today)
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (today)
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (today)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.0](https://github.com/regclient/regclient/releases/tag/v0.3.0), today) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [magefile/mage-action](https://github.com/magefile/mage-action) ([v1.5.0](https://github.com/magefile/mage-action/releases/tag/v1.5.0), 1 day ago) - :octocat: GitHub Action for Mage
-- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.7.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.7.0), 1 day ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r13), 1 day ago) - Alpine Linux with s6 overlay
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 2 days ago) - GitHub Actions virtual environments
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.0](https://github.com/regclient/regclient/releases/tag/v0.3.0), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [magefile/mage-action](https://github.com/magefile/mage-action) ([v1.5.0](https://github.com/magefile/mage-action/releases/tag/v1.5.0), 2 days ago) - :octocat: GitHub Action for Mage
+- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.7.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.7.0), 2 days ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r13), 2 days ago) - Alpine Linux with s6 overlay
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 3 days ago) - GitHub Actions virtual environments
 
 #### ❤️ Sponsors
-- [LitoMore](https://github.com/LitoMore) (1 day ago)
+- [LitoMore](https://github.com/LitoMore) (2 days ago)
 - [Max Schoening](https://github.com/max) (1 week ago)
 - [dy](https://github.com/dyipon) (1 week ago)
 - [Bret Fisher](https://github.com/BretFisher) (2 weeks ago)
