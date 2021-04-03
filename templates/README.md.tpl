@@ -15,9 +15,9 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
-#### ❤️ Sponsors
+#### ❤️ Latest sponsors
 
-{{- range sponsors 8 }}
+{{- range sponsors 5 }}
 - {{ if (eq .User.Name "") }}_Anonymous_{{ else }}[{{ .User.Name }}]({{ .User.URL }}){{ end }} ({{ humanize .CreatedAt }})
 {{- end }}
 
