@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-loop](https://github.com/crazy-max/docker-loop) - Simple loop for dummy services (today)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (today)
-- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (today)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (today)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (today)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (today)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (today)
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.0](https://github.com/regclient/regclient/releases/tag/v0.3.0), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [magefile/mage-action](https://github.com/magefile/mage-action) ([v1.5.0](https://github.com/magefile/mage-action/releases/tag/v1.5.0), 2 days ago) - :octocat: GitHub Action for Mage
-- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.7.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.7.0), 2 days ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r13), 2 days ago) - Alpine Linux with s6 overlay
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210330.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210330.2), 3 days ago) - GitHub Actions virtual environments
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([88.0b5-40](https://github.com/portapps/phyrox-developer-portable/releases/tag/88.0b5-40), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([78.9.0-52](https://github.com/portapps/phyrox-esr-portable/releases/tag/78.9.0-52), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([87.0-55](https://github.com/portapps/phyrox-portable/releases/tag/87.0-55), 1 day ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([3.2.0-23](https://github.com/portapps/waterfox-portable/releases/tag/3.2.0-23), 1 day ago) - 🚀 Waterfox portable for Windows 
+- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) ([3.4.4-16](https://github.com/portapps/wireshark-portable/releases/tag/3.4.4-16), 1 day ago) - 🚀 Wireshark portable for Windows
 
 #### ❤️ Latest sponsors
-- [LitoMore](https://github.com/LitoMore) (2 days ago)
+- [LitoMore](https://github.com/LitoMore) (3 days ago)
 - [Max Schoening](https://github.com/max) (1 week ago)
 - [dy](https://github.com/dyipon) (1 week ago)
 - [Bret Fisher](https://github.com/BretFisher) (2 weeks ago)
