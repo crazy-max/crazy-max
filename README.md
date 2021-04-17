@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (1 day ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (1 day ago)
-- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) - 🚀 Visual Studio Code portable for Windows (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (1 day ago)
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (1 day ago)
+- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
+- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) ([1.55.2-52](https://github.com/portapps/vscodium-portable/releases/tag/1.55.2-52), 1 day ago) - 🚀 VSCodium portable for Windows
-- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.55.2-42](https://github.com/portapps/vscode-portable/releases/tag/1.55.2-42), 1 day ago) - 🚀 Visual Studio Code portable for Windows
-- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) ([0.115.0-r0](https://github.com/crazy-max/docker-n8n/releases/tag/0.115.0-r0), 1 day ago) - n8n Docker image based on Alpine Linux
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([21.0.1-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/21.0.1-r1), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.1.0.2-r14](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.1.0.2-r14), 1 day ago) - Alpine Linux with s6 overlay
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.2-r2](https://github.com/anonaddy/docker/releases/tag/0.7.2-r2), 1 day ago) - AnonAddy Docker image based on Alpine Linux
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.4.2](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.4.2), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) ([1.55.2-52](https://github.com/portapps/vscodium-portable/releases/tag/1.55.2-52), 2 days ago) - 🚀 VSCodium portable for Windows
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.55.2-42](https://github.com/portapps/vscode-portable/releases/tag/1.55.2-42), 2 days ago) - 🚀 Visual Studio Code portable for Windows
+- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) ([0.115.0-r0](https://github.com/crazy-max/docker-n8n/releases/tag/0.115.0-r0), 2 days ago) - n8n Docker image based on Alpine Linux
 
 #### ❤️ Latest sponsors
 - [Nick Sweeting](https://github.com/pirate) (1 week ago)
