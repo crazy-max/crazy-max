@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [portapps/drawio-portable](https://github.com/portapps/drawio-portable) - 🚀 draw.io portable for Windows (1 day ago)
 - [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (2 days ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (2 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
-- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.2-r2](https://github.com/anonaddy/docker/releases/tag/0.7.2-r2), 2 days ago) - AnonAddy Docker image based on Alpine Linux
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.4.2](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.4.2), 2 days ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) ([1.55.2-52](https://github.com/portapps/vscodium-portable/releases/tag/1.55.2-52), 3 days ago) - 🚀 VSCodium portable for Windows
-- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.55.2-42](https://github.com/portapps/vscode-portable/releases/tag/1.55.2-42), 3 days ago) - 🚀 Visual Studio Code portable for Windows
-- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) ([0.115.0-r0](https://github.com/crazy-max/docker-n8n/releases/tag/0.115.0-r0), 3 days ago) - n8n Docker image based on Alpine Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.23.71-72](https://github.com/portapps/brave-portable/releases/tag/1.23.71-72), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/molotov-portable](https://github.com/portapps/molotov-portable) ([4.4.2-12](https://github.com/portapps/molotov-portable/releases/tag/4.4.2-12), 1 day ago) - 🚀 Molotov portable for Windows
+- [portapps/drawio-portable](https://github.com/portapps/drawio-portable) ([14.5.1-14](https://github.com/portapps/drawio-portable/releases/tag/14.5.1-14), 1 day ago) - 🚀 draw.io portable for Windows
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.12.0-5](https://github.com/portapps/ueli-portable/releases/tag/8.12.0-5), 1 day ago) - 🚀 ueli portable for Windows
 
 #### ❤️ Latest sponsors
-- [Nick Sweeting](https://github.com/pirate) (1 week ago)
+- [Nick Sweeting](https://github.com/pirate) (2 weeks ago)
 - [LitoMore](https://github.com/LitoMore) (2 weeks ago)
 - [Max Schoening](https://github.com/max) (3 weeks ago)
-- [dy](https://github.com/dyipon) (3 weeks ago)
+- [dy](https://github.com/dyipon) (4 weeks ago)
 - [Bret Fisher](https://github.com/BretFisher) (1 month ago)
 
 Thanks again for your support, it is much appreciated! 🙏
