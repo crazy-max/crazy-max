@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (1 day ago)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (2 days ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (4 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (4 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (4 days ago)
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (today)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (2 days ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (3 days ago)
+- [portapps/drawio-portable](https://github.com/portapps/drawio-portable) - 🚀 draw.io portable for Windows (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,16 +18,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.0-b.4](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.0-b.4), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), 1 day ago) - GitHub Actions virtual environments
-- [containers/image](https://github.com/containers/image) ([v5.11.1](https://github.com/containers/image/releases/tag/v5.11.1), 2 days ago) - Work with containers&#39; images
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.15-r2](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.15-r2), 3 days ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.0-b.4](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.0-b.4), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11.0/20210420.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11.0%2F20210420.1), 2 days ago) - GitHub Actions virtual environments
+- [containers/image](https://github.com/containers/image) ([v5.11.1](https://github.com/containers/image/releases/tag/v5.11.1), 3 days ago) - Work with containers&#39; images
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.15-r2](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.15-r2), 4 days ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
 
 #### ❤️ Latest sponsors
 - [Nick Sweeting](https://github.com/pirate) (2 weeks ago)
 - [LitoMore](https://github.com/LitoMore) (3 weeks ago)
-- [Max Schoening](https://github.com/max) (4 weeks ago)
+- [Max Schoening](https://github.com/max) (1 month ago)
 - [dy](https://github.com/dyipon) (1 month ago)
 - [Bret Fisher](https://github.com/BretFisher) (1 month ago)
 
