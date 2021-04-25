@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (today)
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (today)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (today)
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server image based on Alpine Linux  (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v1.1.0](https://github.com/docker/setup-qemu-action/releases/tag/v1.1.0), 1 day ago) - GitHub Action to configure Qemu support
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.2.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.2.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.6-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.6-r0), 1 day ago) - Docker in Docker (DinD) image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.0-b.4](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.0-b.4), 3 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.164.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.164.0-r0), today) - Cross compilation helper for GoReleaser
+- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) ([0.117.0-r0](https://github.com/crazy-max/docker-n8n/releases/tag/0.117.0-r0), 1 day ago) - n8n Docker image based on Alpine Linux
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2021.4.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2021.4.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.15.1-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.15.1-r0), 1 day ago) - EJT License Server image based on Alpine Linux 
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v1.1.0](https://github.com/docker/setup-qemu-action/releases/tag/v1.1.0), 2 days ago) - GitHub Action to configure Qemu support
 
 #### ❤️ Latest sponsors
 - [Nick Sweeting](https://github.com/pirate) (2 weeks ago)
