@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry (today)
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (today)
-- [portapps/wire-portable](https://github.com/portapps/wire-portable) - 🚀 Wire portable for Windows (1 day ago)
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.1](https://github.com/regclient/regclient/releases/tag/v0.3.1), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [containers/image](https://github.com/containers/image) ([v5.5.3](https://github.com/containers/image/releases/tag/v5.5.3), 1 day ago) - Work with containers&#39; images
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.2.0-13](https://github.com/portapps/nextcloud-portable/releases/tag/3.2.0-13), 2 days ago) - 🚀 Nextcloud portable for Windows
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([0.0.60-15](https://github.com/portapps/discord-ptb-portable/releases/tag/0.0.60-15), 2 days ago) - 🚀 Discord PTB portable for Windows
-- [portapps/wire-portable](https://github.com/portapps/wire-portable) ([3.24.4036-13](https://github.com/portapps/wire-portable/releases/tag/3.24.4036-13), 2 days ago) - 🚀 Wire portable for Windows
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.0](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.0), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.2](https://github.com/regclient/regclient/releases/tag/v0.3.2), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [docker/login-action](https://github.com/docker/login-action) ([v1.9.0](https://github.com/docker/login-action/releases/tag/v1.9.0), 1 day ago) - :octocat: GitHub Action to login against a Docker registry
+- [containers/image](https://github.com/containers/image) ([v5.5.3](https://github.com/containers/image/releases/tag/v5.5.3), 2 days ago) - Work with containers&#39; images
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.2.0-13](https://github.com/portapps/nextcloud-portable/releases/tag/3.2.0-13), 3 days ago) - 🚀 Nextcloud portable for Windows
 
 #### ❤️ Latest sponsors
 - [Nick Sweeting](https://github.com/pirate) (3 weeks ago)
-- [LitoMore](https://github.com/LitoMore) (3 weeks ago)
+- [LitoMore](https://github.com/LitoMore) (4 weeks ago)
 - [Max Schoening](https://github.com/max) (1 month ago)
 - [dy](https://github.com/dyipon) (1 month ago)
 - [Bret Fisher](https://github.com/BretFisher) (1 month ago)
