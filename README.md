@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
+- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (2 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.0](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.0), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.2](https://github.com/regclient/regclient/releases/tag/v0.3.2), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [docker/login-action](https://github.com/docker/login-action) ([v1.9.0](https://github.com/docker/login-action/releases/tag/v1.9.0), 1 day ago) - :octocat: GitHub Action to login against a Docker registry
-- [containers/image](https://github.com/containers/image) ([v5.5.3](https://github.com/containers/image/releases/tag/v5.5.3), 2 days ago) - Work with containers&#39; images
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.2.0-13](https://github.com/portapps/nextcloud-portable/releases/tag/3.2.0-13), 3 days ago) - 🚀 Nextcloud portable for Windows
+- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) ([v2.4.0](https://github.com/crazy-max/ghaction-docker-meta/releases/tag/v2.4.0), 1 day ago) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.16.0](https://github.com/crazy-max/diun/releases/tag/v4.16.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.3.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.3.0), 1 day ago) - GitHub Action to set up Docker Buildx
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.0](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.0), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.2](https://github.com/regclient/regclient/releases/tag/v0.3.2), 2 days ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
 
 #### ❤️ Latest sponsors
 - [Nick Sweeting](https://github.com/pirate) (3 weeks ago)
