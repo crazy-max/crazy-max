@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (today)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (2 days ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
+- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) -  (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-docker-meta](https://github.com/crazy-max/ghaction-docker-meta) ([v2.4.0](https://github.com/crazy-max/ghaction-docker-meta/releases/tag/v2.4.0), 1 day ago) - :octocat: GitHub Action to extract metadata (tags, labels) for Docker
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.16.0](https://github.com/crazy-max/diun/releases/tag/v4.16.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.3.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.3.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.0](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.0), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.2](https://github.com/regclient/regclient/releases/tag/v0.3.2), 2 days ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.0.0-10](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.0.0-10), 1 day ago)
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.1](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.1), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
+- [docker/bake-action](https://github.com/docker/bake-action) ([v1.4.0](https://github.com/docker/bake-action/releases/tag/v1.4.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.16.1](https://github.com/crazy-max/diun/releases/tag/v4.16.1), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.8.3](https://github.com/moby/buildkit/releases/tag/v0.8.3), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Nick Sweeting](https://github.com/pirate) (3 weeks ago)
-- [LitoMore](https://github.com/LitoMore) (4 weeks ago)
+- [LitoMore](https://github.com/LitoMore) (1 month ago)
 - [Max Schoening](https://github.com/max) (1 month ago)
 - [dy](https://github.com/dyipon) (1 month ago)
 - [Bret Fisher](https://github.com/BretFisher) (1 month ago)
