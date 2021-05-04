@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (today)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (3 days ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) -  (3 days ago)
+- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) -  (1 day ago)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (2 days ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (4 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.0.0-10](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.0.0-10), 3 days ago)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.1](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.1), 3 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.4.0](https://github.com/docker/bake-action/releases/tag/v1.4.0), 3 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.16.1](https://github.com/crazy-max/diun/releases/tag/v4.16.1), 3 days ago) - Receive notifications when an image is updated on a Docker registry
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.8.3](https://github.com/moby/buildkit/releases/tag/v0.8.3), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.0.0-10](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.0.0-10), 4 days ago)
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.1](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.1), 4 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [docker/bake-action](https://github.com/docker/bake-action) ([v1.4.0](https://github.com/docker/bake-action/releases/tag/v1.4.0), 4 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.16.1](https://github.com/crazy-max/diun/releases/tag/v4.16.1), 4 days ago) - Receive notifications when an image is updated on a Docker registry
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.8.3](https://github.com/moby/buildkit/releases/tag/v0.8.3), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Nick Sweeting](https://github.com/pirate) (4 weeks ago)
