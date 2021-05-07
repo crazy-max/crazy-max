@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test Docker Actions (3 days ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) -  (3 days ago)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (4 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (6 days ago)
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [containers/image](https://github.com/containers/image) ([v5.12.0](https://github.com/containers/image/releases/tag/v5.12.0), 1 day ago) - Work with containers&#39; images
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210504.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210504.1), 2 days ago) - GitHub Actions virtual environments
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.0.0-10](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.0.0-10), 6 days ago)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.1](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.1), 6 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.4.0](https://github.com/docker/bake-action/releases/tag/v1.4.0), 6 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.5-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.5-r0), 1 day ago) - qBittorrent Docker image based on Alpine Linux
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([7.14.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/7.14.0-r0), 1 day ago) - GitHub Linguist Docker image based on Alpine Linux
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.164.0-r1](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.164.0-r1), 1 day ago) - Cross compilation helper for GoReleaser
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.106.2](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.106.2), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
+- [containers/image](https://github.com/containers/image) ([v5.12.0](https://github.com/containers/image/releases/tag/v5.12.0), 2 days ago) - Work with containers&#39; images
 
 #### ❤️ Latest sponsors
+- [Chris Nesbitt-Smith](https://github.com/chrisns) (1 day ago)
 - [Nick Sweeting](https://github.com/pirate) (1 month ago)
 - [LitoMore](https://github.com/LitoMore) (1 month ago)
 - [Max Schoening](https://github.com/max) (1 month ago)
 - [dy](https://github.com/dyipon) (1 month ago)
-- [Bret Fisher](https://github.com/BretFisher) (1 month ago)
 
 Thanks again for your support, it is much appreciated! 🙏
