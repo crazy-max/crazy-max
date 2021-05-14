@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (today)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (1 day ago)
+- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (1 day ago)
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) ([0.119.0-r0](https://github.com/crazy-max/docker-n8n/releases/tag/0.119.0-r0), 2 days ago) - n8n Docker image based on Alpine Linux
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.1.0](https://github.com/docker/metadata-action/releases/tag/v3.1.0), 2 days ago) - GitHub Action to extract metadata (tags, labels) for Docker
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210510.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210510.1), 2 days ago) - GitHub Actions virtual environments
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.164.0-r4](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.164.0-r4), 5 days ago) - Cross compilation helper for GoReleaser
-- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) ([1.20.0-r0](https://github.com/crazy-max/docker-healthchecks/releases/tag/1.20.0-r0), 6 days ago) - Healthchecks Docker image based on Alpine Linux
+- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.8.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.8.0), 1 day ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.24.84-73](https://github.com/portapps/brave-portable/releases/tag/1.24.84-73), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([90.0.4430.93-10](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/90.0.4430.93-10), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.7.27-40](https://github.com/portapps/element-portable/releases/tag/1.7.27-40), 1 day ago) - 🚀 Element portable for Windows
+- [portapps/terminus-portable](https://github.com/portapps/terminus-portable) ([1.0.138-4](https://github.com/portapps/terminus-portable/releases/tag/1.0.138-4), 1 day ago) - 🚀 Terminus portable for Windows 
 
 #### ❤️ Latest sponsors
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (1 week ago)
