@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (1 day ago)
-- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (1 day ago)
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (2 days ago)
+- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.8.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.8.0), 1 day ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.24.84-73](https://github.com/portapps/brave-portable/releases/tag/1.24.84-73), 1 day ago) - 🚀 Brave web browser portable for Windows
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([90.0.4430.93-10](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/90.0.4430.93-10), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
-- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.7.27-40](https://github.com/portapps/element-portable/releases/tag/1.7.27-40), 1 day ago) - 🚀 Element portable for Windows
-- [portapps/terminus-portable](https://github.com/portapps/terminus-portable) ([1.0.138-4](https://github.com/portapps/terminus-portable/releases/tag/1.0.138-4), 1 day ago) - 🚀 Terminus portable for Windows 
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.5.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.5.0), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
+- [docker/bake-action](https://github.com/docker/bake-action) ([v1.4.1](https://github.com/docker/bake-action/releases/tag/v1.4.1), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([1.8.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/1.8.0), 2 days ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.24.84-73](https://github.com/portapps/brave-portable/releases/tag/1.24.84-73), 2 days ago) - 🚀 Brave web browser portable for Windows
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([90.0.4430.93-10](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/90.0.4430.93-10), 2 days ago) - 🚀 Ungoogled Chromium portable for Windows
 
 #### ❤️ Latest sponsors
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (1 week ago)
