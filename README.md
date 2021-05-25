@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [crazy-max/test-docker-action](https://github.com/crazy-max/test-docker-action) - Test &#34;Docker&#34; Actions (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) for Docker (1 day ago)
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (2 days ago)
-- [portapps/qbittorrent-portable](https://github.com/portapps/qbittorrent-portable) - 🚀 qBittorrent portable for Windows (2 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - :octocat: GitHub Action to login against a Docker registry (today)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - :octocat: GitHub Action to build and push Docker images with Buildx (today)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) for Docker (today)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.2.0](https://github.com/docker/metadata-action/releases/tag/v3.2.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) for Docker
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([78.10.1-54](https://github.com/portapps/phyrox-esr-portable/releases/tag/78.10.1-54), 2 days ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([88.0.1-57](https://github.com/portapps/phyrox-portable/releases/tag/88.0.1-57), 2 days ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([89.0b15-41](https://github.com/portapps/phyrox-developer-portable/releases/tag/89.0b15-41), 2 days ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
-- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) ([4.2.1-17](https://github.com/portapps/android-studio-portable/releases/tag/4.2.1-17), 2 days ago) - 🚀 Android Studio portable for Windows
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20210523.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20210523.1), 1 day ago) - GitHub Actions virtual environments
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.2.0](https://github.com/docker/metadata-action/releases/tag/v3.2.0), 2 days ago) - GitHub Action to extract metadata (tags, labels) for Docker
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([78.10.1-54](https://github.com/portapps/phyrox-esr-portable/releases/tag/78.10.1-54), 3 days ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([88.0.1-57](https://github.com/portapps/phyrox-portable/releases/tag/88.0.1-57), 3 days ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([89.0b15-41](https://github.com/portapps/phyrox-developer-portable/releases/tag/89.0b15-41), 3 days ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
 
 #### ❤️ Latest sponsors
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (2 weeks ago)
