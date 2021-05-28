@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/firefox-history-merger](https://github.com/crazy-max/firefox-history-merger) - Merge Firefox history and repair missing favicons with ease (1 day ago)
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (2 days ago)
+- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v1.2.0](https://github.com/docker/setup-qemu-action/releases/tag/v1.2.0), 1 day ago) - GitHub Action to configure Qemu support
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.4.2](https://github.com/docker/bake-action/releases/tag/v1.4.2), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v2.5.0](https://github.com/docker/build-push-action/releases/tag/v2.5.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.3-r0](https://github.com/anonaddy/docker/releases/tag/0.7.3-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.6.0), 1 day ago) - :octocat: GitHub Action for GoReleaser
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v1.2.0](https://github.com/docker/setup-qemu-action/releases/tag/v1.2.0), 2 days ago) - GitHub Action to configure Qemu support
 
 #### ❤️ Latest sponsors
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (3 weeks ago)
