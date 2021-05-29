@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (2 days ago)
-- [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image based on Python Alpine Linux (2 days ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image based on Alpine Linux (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.3-r0](https://github.com/anonaddy/docker/releases/tag/0.7.3-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.6.0), 1 day ago) - :octocat: GitHub Action for GoReleaser
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v1.2.0](https://github.com/docker/setup-qemu-action/releases/tag/v1.2.0), 2 days ago) - GitHub Action to configure Qemu support
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.0.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.0.0-r1), 1 day ago) - Flarum Docker image based on Alpine Linux
+- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) ([0.121.0-r0](https://github.com/crazy-max/docker-n8n/releases/tag/0.121.0-r0), 1 day ago) - n8n Docker image based on Alpine Linux
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.3-r0](https://github.com/anonaddy/docker/releases/tag/0.7.3-r0), 2 days ago) - AnonAddy Docker image based on Alpine Linux
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.6.0), 2 days ago) - :octocat: GitHub Action for GoReleaser
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.17.0](https://github.com/crazy-max/diun/releases/tag/v4.17.0), 3 days ago) - Receive notifications when an image is updated on a Docker registry
 
 #### ❤️ Latest sponsors
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (3 weeks ago)
