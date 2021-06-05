@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (1 day ago)
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (2 days ago)
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (2 days ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.6](https://github.com/crazy-max/xgo/releases/tag/v0.6.6), today) - Go CGO cross compiler
-- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) ([3.2.2-22](https://github.com/portapps/rocketchat-portable/releases/tag/3.2.2-22), 1 day ago) - 🚀 Rocket.Chat portable for Windows 
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([8.5.1-50](https://github.com/portapps/postman-portable/releases/tag/8.5.1-50), 1 day ago) - 🚀 Postman portable for Windows
-- [portapps/caprine-portable](https://github.com/portapps/caprine-portable) ([2.53.0-34](https://github.com/portapps/caprine-portable/releases/tag/2.53.0-34), 1 day ago) - 🚀 Caprine portable for Windows
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.25.68-74](https://github.com/portapps/brave-portable/releases/tag/1.25.68-74), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.49-r19](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.49-r19), 1 day ago) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.6](https://github.com/crazy-max/xgo/releases/tag/v0.6.6), 1 day ago) - Go CGO cross compiler
+- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) ([3.2.2-22](https://github.com/portapps/rocketchat-portable/releases/tag/3.2.2-22), 2 days ago) - 🚀 Rocket.Chat portable for Windows 
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([8.5.1-50](https://github.com/portapps/postman-portable/releases/tag/8.5.1-50), 2 days ago) - 🚀 Postman portable for Windows
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (1 day ago)
-- [Chris Nesbitt-Smith](https://github.com/chrisns) (4 weeks ago)
+- _Anonymous_ (2 days ago)
+- [Chris Nesbitt-Smith](https://github.com/chrisns) (1 month ago)
 - [Nick Sweeting](https://github.com/pirate) (2 months ago)
 - [LitoMore](https://github.com/LitoMore) (2 months ago)
 - [Max Schoening](https://github.com/max) (2 months ago)
