@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (today)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (2 days ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (3 days ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (3 days ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 day ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.7](https://github.com/crazy-max/xgo/releases/tag/v0.6.7), 1 day ago) - Go CGO cross compiler
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.49-r19](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.49-r19), 2 days ago) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
-- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) ([3.2.2-22](https://github.com/portapps/rocketchat-portable/releases/tag/3.2.2-22), 3 days ago) - 🚀 Rocket.Chat portable for Windows 
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([8.5.1-50](https://github.com/portapps/postman-portable/releases/tag/8.5.1-50), 3 days ago) - 🚀 Postman portable for Windows
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.3.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.3.0), 1 day ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.5.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.5.0), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.7](https://github.com/crazy-max/xgo/releases/tag/v0.6.7), 2 days ago) - Go CGO cross compiler
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.49-r19](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.49-r19), 3 days ago) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (3 days ago)
+- _Anonymous_ (4 days ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (1 month ago)
 - [Nick Sweeting](https://github.com/pirate) (2 months ago)
 - [LitoMore](https://github.com/LitoMore) (2 months ago)
