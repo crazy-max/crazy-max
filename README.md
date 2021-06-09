@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (2 days ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (2 days ago)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (2 days ago)
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (2 days ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (today)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (2 days ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (3 days ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210606.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210606.1), 1 day ago) - GitHub Actions virtual environments
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.3.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.3.0), 2 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.5.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.5.0), 2 days ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.7](https://github.com/crazy-max/xgo/releases/tag/v0.6.7), 3 days ago) - Go CGO cross compiler
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210607.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210607.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.3.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.3.0), 3 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.5.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.5.0), 3 days ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.7](https://github.com/crazy-max/xgo/releases/tag/v0.6.7), 4 days ago) - Go CGO cross compiler
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (5 days ago)
+- _Anonymous_ (6 days ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (1 month ago)
 - [Nick Sweeting](https://github.com/pirate) (2 months ago)
 - [LitoMore](https://github.com/LitoMore) (2 months ago)
