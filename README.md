@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (today)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (today)
-- [dagger/dagger-action](https://github.com/dagger/dagger-action) - GitHub Action for Dagger (today)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (today)
+- [dagger/dagger-action](https://github.com/dagger/dagger-action) - GitHub Action for Dagger (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210608.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210608.0), 1 day ago) - GitHub Actions virtual environments
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.3.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.3.0), 4 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.5.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.5.0), 4 days ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.7](https://github.com/crazy-max/xgo/releases/tag/v0.6.7), 5 days ago) - Go CGO cross compiler
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([3.2.3-25](https://github.com/portapps/waterfox-portable/releases/tag/3.2.3-25), 1 day ago) - 🚀 Waterfox portable for Windows 
+- [portapps/emby-theater-portable](https://github.com/portapps/emby-theater-portable) ([3.0.15-8](https://github.com/portapps/emby-theater-portable/releases/tag/3.0.15-8), 1 day ago) - 🚀 Emby Theater portable for Windows
+- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([5.4.1-3](https://github.com/portapps/signal-portable/releases/tag/5.4.1-3), 1 day ago) - 🚀 Signal portable for Windows
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210609.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210609.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.3.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.3.0), 5 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (1 week ago)
