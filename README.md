@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (1 day ago)
-- [neard/neard.github.io](https://github.com/neard/neard.github.io) - 🌍 Neard&#39;s website (2 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (3 days ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (3 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (2 days ago)
+- [neard/neard.github.io](https://github.com/neard/neard.github.io) - 🌍 Neard&#39;s website (3 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (3 days ago)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (4 days ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.4](https://github.com/regclient/regclient/releases/tag/v0.3.4), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r15](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r15), 2 days ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.4-r0](https://github.com/anonaddy/docker/releases/tag/0.7.4-r0), 2 days ago) - AnonAddy Docker image based on Alpine Linux
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([3.2.3-25](https://github.com/portapps/waterfox-portable/releases/tag/3.2.3-25), 5 days ago) - 🚀 Waterfox portable for Windows 
-- [portapps/emby-theater-portable](https://github.com/portapps/emby-theater-portable) ([3.0.15-8](https://github.com/portapps/emby-theater-portable/releases/tag/3.0.15-8), 5 days ago) - 🚀 Emby Theater portable for Windows
+- [containers/image](https://github.com/containers/image) ([v5.13.0](https://github.com/containers/image/releases/tag/v5.13.0), 1 day ago) - Work with containers&#39; images
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210614.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210614.1), 1 day ago) - GitHub Actions virtual environments
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.4](https://github.com/regclient/regclient/releases/tag/v0.3.4), 2 days ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r15](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r15), 3 days ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.4-r0](https://github.com/anonaddy/docker/releases/tag/0.7.4-r0), 3 days ago) - AnonAddy Docker image based on Alpine Linux
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (1 week ago)
