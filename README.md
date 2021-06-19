@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux (4 days ago)
-- [neard/neard.github.io](https://github.com/neard/neard.github.io) - 🌍 Neard&#39;s website (5 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (5 days ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (6 days ago)
+- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - 🚀 WhatsApp portable for Windows (1 day ago)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) - 🚀 Wireshark portable for Windows (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [containers/image](https://github.com/containers/image) ([v5.13.2](https://github.com/containers/image/releases/tag/v5.13.2), 1 day ago) - Work with containers&#39; images
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210616.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210616.0), 1 day ago) - GitHub Actions virtual environments
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.2](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.2), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.4](https://github.com/regclient/regclient/releases/tag/v0.3.4), 4 days ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r15](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r15), 5 days ago) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.73.0.92-90](https://github.com/portapps/skype-portable/releases/tag/8.73.0.92-90), 1 day ago) - 🚀 Skype portable for Windows 
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.2.2-14](https://github.com/portapps/nextcloud-portable/releases/tag/3.2.2-14), 1 day ago) - 🚀 Nextcloud portable for Windows
+- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) ([3.4.6-17](https://github.com/portapps/wireshark-portable/releases/tag/3.4.6-17), 1 day ago) - 🚀 Wireshark portable for Windows
+- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) ([2.2123.7-30](https://github.com/portapps/whatsapp-portable/releases/tag/2.2123.7-30), 1 day ago) - 🚀 WhatsApp portable for Windows
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.15.0](https://github.com/crazy-max/yasu/releases/tag/v1.15.0), 1 day ago) - Yet Another Switch User
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
