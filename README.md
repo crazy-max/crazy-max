@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - 🚀 WhatsApp portable for Windows (1 day ago)
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) - 🚀 Wireshark portable for Windows (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [crazy-max/crazy-max.github.io](https://github.com/crazy-max/crazy-max.github.io) - Homepage (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
+- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) - 🚀 Wireshark portable for Windows (2 days ago)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.73.0.92-90](https://github.com/portapps/skype-portable/releases/tag/8.73.0.92-90), 1 day ago) - 🚀 Skype portable for Windows 
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.2.2-14](https://github.com/portapps/nextcloud-portable/releases/tag/3.2.2-14), 1 day ago) - 🚀 Nextcloud portable for Windows
-- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) ([3.4.6-17](https://github.com/portapps/wireshark-portable/releases/tag/3.4.6-17), 1 day ago) - 🚀 Wireshark portable for Windows
-- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) ([2.2123.7-30](https://github.com/portapps/whatsapp-portable/releases/tag/2.2123.7-30), 1 day ago) - 🚀 WhatsApp portable for Windows
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.15.0](https://github.com/crazy-max/yasu/releases/tag/v1.15.0), 1 day ago) - Yet Another Switch User
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.170.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.170.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.73.0.92-90](https://github.com/portapps/skype-portable/releases/tag/8.73.0.92-90), 2 days ago) - 🚀 Skype portable for Windows 
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.2.2-14](https://github.com/portapps/nextcloud-portable/releases/tag/3.2.2-14), 2 days ago) - 🚀 Nextcloud portable for Windows
+- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) ([3.4.6-17](https://github.com/portapps/wireshark-portable/releases/tag/3.4.6-17), 2 days ago) - 🚀 Wireshark portable for Windows
+- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) ([2.2123.7-30](https://github.com/portapps/whatsapp-portable/releases/tag/2.2123.7-30), 2 days ago) - 🚀 WhatsApp portable for Windows
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
