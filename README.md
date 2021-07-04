@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (today)
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (today)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) -  (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.5.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.5.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [containers/image](https://github.com/containers/image) ([v5.5.4](https://github.com/containers/image/releases/tag/v5.5.4), 2 days ago) - Work with containers&#39; images
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v2.6.1](https://github.com/docker/build-push-action/releases/tag/v2.6.1), 2 days ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.5.0](https://github.com/docker/bake-action/releases/tag/v1.5.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.6.1](https://github.com/crazy-max/ddns-route53/releases/tag/v2.6.1), 4 days ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.0), today) - Deliver Go binaries as fast and easily as possible
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.7.5-r0](https://github.com/anonaddy/docker/releases/tag/0.7.5-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([21.0.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/21.0.3-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r12](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r12), 1 day ago) - Alpine Linux with s6 overlay
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.5.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.5.0), 2 days ago) - GitHub Action to set up Docker Buildx
 
 #### ❤️ Latest sponsors
-- [Roger D. Winans](https://github.com/solvaholic) (4 days ago)
+- [Roger D. Winans](https://github.com/solvaholic) (5 days ago)
 - [prompt](https://github.com/pr-mpt) (1 month ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (1 month ago)
-- [Nick Sweeting](https://github.com/pirate) (2 months ago)
+- [Nick Sweeting](https://github.com/pirate) (3 months ago)
 - [LitoMore](https://github.com/LitoMore) (3 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
