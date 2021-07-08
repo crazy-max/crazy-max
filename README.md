@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) for Docker (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) for Docker (2 days ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v6.0.0-15](https://github.com/tonistiigi/binfmt/releases/tag/buildkit%2Fv6.0.0-15), 1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.4.0](https://github.com/docker/metadata-action/releases/tag/v3.4.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) for Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.4.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.4.0), 3 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
-- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) ([1.21.0-r0](https://github.com/crazy-max/docker-healthchecks/releases/tag/1.21.0-r0), 3 days ago) - Healthchecks Docker image based on Alpine Linux
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.3.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.3.0-rc1-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.4](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.4), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v6.0.0-15](https://github.com/tonistiigi/binfmt/releases/tag/buildkit%2Fv6.0.0-15), 2 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.4.0](https://github.com/docker/metadata-action/releases/tag/v3.4.0), 2 days ago) - GitHub Action to extract metadata (tags, labels) for Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
 - [Roger D. Winans](https://github.com/solvaholic) (1 week ago)
