@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (4 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (5 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) for Docker (5 days ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (6 days ago)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (1 day ago)
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) - 🚀 Insomnia REST Client portable for Windows (1 day ago)
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) - 🚀 Visual Studio Code portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.3.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.3.0-rc1-labs), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.4](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.4), 4 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v6.0.0-15](https://github.com/tonistiigi/binfmt/releases/tag/buildkit%2Fv6.0.0-15), 5 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.4.0](https://github.com/docker/metadata-action/releases/tag/v3.4.0), 5 days ago) - GitHub Action to extract metadata (tags, labels) for Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.173.2-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.173.2-r0), 1 day ago) - Cross compilation helper for GoReleaser
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) ([1.58.0-53](https://github.com/portapps/vscodium-portable/releases/tag/1.58.0-53), 1 day ago) - 🚀 VSCodium portable for Windows
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.58.0-44](https://github.com/portapps/vscode-portable/releases/tag/1.58.0-44), 1 day ago) - 🚀 Visual Studio Code portable for Windows
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([20.2.5-25](https://github.com/portapps/smartgit-portable/releases/tag/20.2.5-25), 1 day ago) - 🚀 SmartGit portable for Windows 
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) ([2021.4.1-25](https://github.com/portapps/insomnia-portable/releases/tag/2021.4.1-25), 1 day ago) - 🚀 Insomnia REST Client portable for Windows
 
 #### ❤️ Latest sponsors
-- [Mohammed Almahri](https://github.com/Qourat) (3 days ago)
+- [Mohammed Almahri](https://github.com/Qourat) (4 days ago)
 - [Roger D. Winans](https://github.com/solvaholic) (1 week ago)
 - [prompt](https://github.com/pr-mpt) (1 month ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (2 months ago)
