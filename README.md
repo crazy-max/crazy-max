@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [dagger/dagger-action](https://github.com/dagger/dagger-action) - GitHub Action for Dagger (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (3 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (3 days ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (today)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) for Docker (today)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dagger/dagger-action](https://github.com/dagger/dagger-action) ([v1.2.0](https://github.com/dagger/dagger-action/releases/tag/v1.2.0), 1 day ago) - GitHub Action for Dagger
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210712.4](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210712.4), 1 day ago) - GitHub Actions virtual environments
-- [bdougie/take-action](https://github.com/bdougie/take-action) ([v1.2](https://github.com/bdougie/take-action/releases/tag/v1.2), 2 days ago) - This is an action to assign yourself to an issue for a repo you are not a contributor to.
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.5.1](https://github.com/docker/setup-buildx-action/releases/tag/v1.5.1), 2 days ago) - GitHub Action to set up Docker Buildx
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.173.2-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.173.2-r0), 3 days ago) - Cross compilation helper for GoReleaser
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.8](https://github.com/crazy-max/xgo/releases/tag/v0.6.8), 1 day ago) - Go CGO cross compiler
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.6-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.6-r0), 1 day ago) - qBittorrent Docker image based on Alpine Linux
+- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) ([0.129.0-r0](https://github.com/crazy-max/docker-n8n/releases/tag/0.129.0-r0), 1 day ago) - n8n Docker image based on Alpine Linux
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([28150-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/28150-r0), 1 day ago) - JetBrains License Server Docker image
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.14.5-r1](https://github.com/crazy-max/docker-samba/releases/tag/4.14.5-r1), 1 day ago) - Samba Docker image based on Alpine Linux
 
 #### ❤️ Latest sponsors
-- [Mohammed Almahri](https://github.com/Qourat) (6 days ago)
+- [Mohammed Almahri](https://github.com/Qourat) (1 week ago)
 - [Roger D. Winans](https://github.com/solvaholic) (2 weeks ago)
 - [prompt](https://github.com/pr-mpt) (1 month ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (2 months ago)
