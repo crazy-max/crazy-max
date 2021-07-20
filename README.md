@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
-- [crazy-max/crazy-max.github.io](https://github.com/crazy-max/crazy-max.github.io) - Homepage (2 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) for Docker (4 days ago)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.7-r2](https://github.com/crazy-max/docker-docker/releases/tag/20.10.7-r2), 1 day ago) - Docker in Docker (DinD) image
-- [librenms/librenms](https://github.com/librenms/librenms) ([21.7.0](https://github.com/librenms/librenms/releases/tag/21.7.0), 3 days ago) - Community-based GPL-licensed network monitoring system
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.3.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.3.0-labs), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/buildx](https://github.com/docker/buildx) ([v0.6.0](https://github.com/docker/buildx/releases/tag/v0.6.0), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.4.1](https://github.com/docker/metadata-action/releases/tag/v3.4.1), 4 days ago) - GitHub Action to extract metadata (tags, labels) for Docker
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210719.0](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210719.0), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.7-r2](https://github.com/crazy-max/docker-docker/releases/tag/20.10.7-r2), 2 days ago) - Docker in Docker (DinD) image
+- [librenms/librenms](https://github.com/librenms/librenms) ([21.7.0](https://github.com/librenms/librenms/releases/tag/21.7.0), 4 days ago) - Community-based GPL-licensed network monitoring system
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.3.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.3.0-labs), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildx](https://github.com/docker/buildx) ([v0.6.0](https://github.com/docker/buildx/releases/tag/v0.6.0), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Mohammed Almahri](https://github.com/Qourat) (1 week ago)
-- [Roger D. Winans](https://github.com/solvaholic) (2 weeks ago)
+- [Roger D. Winans](https://github.com/solvaholic) (3 weeks ago)
 - [prompt](https://github.com/pr-mpt) (1 month ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (2 months ago)
 - [Nick Sweeting](https://github.com/pirate) (3 months ago)
