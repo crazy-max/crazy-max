@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) - 🚀 Insomnia REST Client portable for Windows (1 day ago)
-- [portapps/qbittorrent-portable](https://github.com/portapps/qbittorrent-portable) - 🚀 qBittorrent portable for Windows (1 day ago)
-- [portapps/caprine-portable](https://github.com/portapps/caprine-portable) - 🚀 Caprine portable for Windows (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (2 days ago)
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) - 🚀 Insomnia REST Client portable for Windows (2 days ago)
+- [portapps/qbittorrent-portable](https://github.com/portapps/qbittorrent-portable) - 🚀 qBittorrent portable for Windows (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.6.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.6.0), 1 day ago) - Grab your files periodically from a remote FTP or SFTP server easily
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([21.1.0-26](https://github.com/portapps/smartgit-portable/releases/tag/21.1.0-26), 1 day ago) - 🚀 SmartGit portable for Windows 
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([92.0.4515.107-11](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/92.0.4515.107-11), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([78.12.0-55](https://github.com/portapps/phyrox-esr-portable/releases/tag/78.12.0-55), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([91.0b6-42](https://github.com/portapps/phyrox-developer-portable/releases/tag/91.0b6-42), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.7.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.7.0), 1 day ago) - :octocat: GitHub Action for GoReleaser
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20210725.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20210725.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.6.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.6.0), 2 days ago) - Grab your files periodically from a remote FTP or SFTP server easily
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([21.1.0-26](https://github.com/portapps/smartgit-portable/releases/tag/21.1.0-26), 2 days ago) - 🚀 SmartGit portable for Windows 
 
 #### ❤️ Latest sponsors
 - [Mohammed Almahri](https://github.com/Qourat) (2 weeks ago)
-- [Roger D. Winans](https://github.com/solvaholic) (3 weeks ago)
+- [Roger D. Winans](https://github.com/solvaholic) (4 weeks ago)
 - [prompt](https://github.com/pr-mpt) (1 month ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (2 months ago)
 - [Nick Sweeting](https://github.com/pirate) (3 months ago)
