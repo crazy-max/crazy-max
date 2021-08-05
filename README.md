@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (3 days ago)
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image based on Alpine Linux (3 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image based on Alpine Linux (4 days ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image based on Alpine Linux (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210803.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210803.0), 1 day ago) - GitHub Actions virtual environments
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.6](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.6), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.0.0-r2](https://github.com/crazy-max/docker-flarum/releases/tag/1.0.0-r2), 3 days ago) - Flarum Docker image based on Alpine Linux
-- [librenms/docker](https://github.com/librenms/docker) ([21.7.0-r0](https://github.com/librenms/docker/releases/tag/21.7.0-r0), 3 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.7](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.7), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210803.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210803.0), 2 days ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.0.0-r2](https://github.com/crazy-max/docker-flarum/releases/tag/1.0.0-r2), 4 days ago) - Flarum Docker image based on Alpine Linux
+- [librenms/docker](https://github.com/librenms/docker) ([21.7.0-r0](https://github.com/librenms/docker/releases/tag/21.7.0-r0), 4 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
 
 #### ❤️ Latest sponsors
-- [Mohammed Almahri](https://github.com/Qourat) (3 weeks ago)
+- [Mohammed Almahri](https://github.com/Qourat) (4 weeks ago)
 - [prompt](https://github.com/pr-mpt) (2 months ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (3 months ago)
 - [Nick Sweeting](https://github.com/pirate) (4 months ago)
