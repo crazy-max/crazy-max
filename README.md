@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features (1 day ago)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (3 days ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (2 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/docker](https://github.com/librenms/docker) ([21.7.0-r1](https://github.com/librenms/docker/releases/tag/21.7.0-r1), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.7](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.7), 4 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210803.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210803.0), 5 days ago) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.0.0-r2](https://github.com/crazy-max/docker-flarum/releases/tag/1.0.0-r2), 1 week ago) - Flarum Docker image based on Alpine Linux
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.1-r0](https://github.com/anonaddy/docker/releases/tag/0.8.1-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.1.0-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.1.0-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx with advanced features
+- [librenms/docker](https://github.com/librenms/docker) ([21.7.0-r1](https://github.com/librenms/docker/releases/tag/21.7.0-r1), 2 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.7](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.7), 5 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210803.0](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210803.0), 6 days ago) - GitHub Actions virtual environments
 
 #### ❤️ Latest sponsors
 - [prompt](https://github.com/pr-mpt) (2 months ago)
