@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (4 days ago)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (4 days ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (5 days ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (5 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.6](https://github.com/regclient/regclient/releases/tag/v0.3.6), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210810.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210810.1), 3 days ago) - GitHub Actions virtual environments
-- [librenms/docker](https://github.com/librenms/docker) ([21.7.0-r2](https://github.com/librenms/docker/releases/tag/21.7.0-r2), 4 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v3.2.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v3.2.0), 4 days ago) - :octocat: GitHub Action to easily import a GPG key
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.1-r1](https://github.com/anonaddy/docker/releases/tag/0.8.1-r1), 5 days ago) - AnonAddy Docker image based on Alpine Linux
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.6](https://github.com/regclient/regclient/releases/tag/v0.3.6), 2 days ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20210810.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20210810.1), 4 days ago) - GitHub Actions virtual environments
+- [librenms/docker](https://github.com/librenms/docker) ([21.7.0-r2](https://github.com/librenms/docker/releases/tag/21.7.0-r2), 5 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v3.2.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v3.2.0), 5 days ago) - :octocat: GitHub Action to easily import a GPG key
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.1-r1](https://github.com/anonaddy/docker/releases/tag/0.8.1-r1), 6 days ago) - AnonAddy Docker image based on Alpine Linux
 
 #### ❤️ Latest sponsors
-- [Will Browning](https://github.com/willbrowningme) (4 days ago)
+- [Will Browning](https://github.com/willbrowningme) (5 days ago)
 - [prompt](https://github.com/pr-mpt) (2 months ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (3 months ago)
 - [Nick Sweeting](https://github.com/pirate) (4 months ago)
