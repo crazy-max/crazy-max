@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-n8n](https://github.com/crazy-max/docker-n8n) - n8n Docker image based on Alpine Linux (3 days ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (3 days ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (3 days ago)
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image based on Alpine Linux (3 days ago)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (4 days ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image based on Alpine Linux (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.8](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.8), 1 day ago) - Network-wide ads &amp; trackers blocking DNS server
-- [google/addlicense](https://github.com/google/addlicense) ([v1.0.0](https://github.com/google/addlicense/releases/tag/v1.0.0), 2 days ago) - A program which ensures source code files have copyright license headers by scanning directory patterns recursively
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210815.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210815.1), 2 days ago) - GitHub Actions virtual environments
-- [containers/image](https://github.com/containers/image) ([v5.15.1](https://github.com/containers/image/releases/tag/v5.15.1), 2 days ago) - Work with containers&#39; images
-- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.7](https://github.com/regclient/regclient/releases/tag/v0.3.7), 2 days ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.8](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.8), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
+- [google/addlicense](https://github.com/google/addlicense) ([v1.0.0](https://github.com/google/addlicense/releases/tag/v1.0.0), 3 days ago) - A program which ensures source code files have copyright license headers by scanning directory patterns recursively
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210815.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210815.1), 3 days ago) - GitHub Actions virtual environments
+- [containers/image](https://github.com/containers/image) ([v5.15.1](https://github.com/containers/image/releases/tag/v5.15.1), 3 days ago) - Work with containers&#39; images
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (1 week ago)
