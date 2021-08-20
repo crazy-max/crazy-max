@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (4 days ago)
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image based on Alpine Linux (4 days ago)
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.0-b.8](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.0-b.8), 2 days ago) - Network-wide ads &amp; trackers blocking DNS server
-- [google/addlicense](https://github.com/google/addlicense) ([v1.0.0](https://github.com/google/addlicense/releases/tag/v1.0.0), 3 days ago) - A program which ensures source code files have copyright license headers by scanning directory patterns recursively
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210815.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210815.1), 3 days ago) - GitHub Actions virtual environments
-- [containers/image](https://github.com/containers/image) ([v5.15.1](https://github.com/containers/image/releases/tag/v5.15.1), 3 days ago) - Work with containers&#39; images
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([0.11.2-r2](https://github.com/crazy-max/docker-fail2ban/releases/tag/0.11.2-r2), 1 day ago) - Fail2ban Docker image based on Alpine Linux
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.8-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.8-r0), 1 day ago) - Docker in Docker (DinD) image
+- [crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan) ([1.25.0-r1](https://github.com/crazy-max/docker-shodan/releases/tag/1.25.0-r1), 1 day ago) - Shodan Docker image based on Alpine Linux
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r4-r2](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r4-r2), 1 day ago) - RRDcached Docker image based on Alpine Linux
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.49-r20](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.49-r20), 1 day ago) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (1 week ago)
