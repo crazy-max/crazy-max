@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (today)
+- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/gohealthchecks](https://github.com/crazy-max/gohealthchecks) - Go client library for accessing the Healthchecks API (today)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([0.11.2-r2](https://github.com/crazy-max/docker-fail2ban/releases/tag/0.11.2-r2), 1 day ago) - Fail2ban Docker image based on Alpine Linux
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.8-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.8-r0), 1 day ago) - Docker in Docker (DinD) image
-- [crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan) ([1.25.0-r1](https://github.com/crazy-max/docker-shodan/releases/tag/1.25.0-r1), 1 day ago) - Shodan Docker image based on Alpine Linux
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r4-r2](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r4-r2), 1 day ago) - RRDcached Docker image based on Alpine Linux
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.49-r20](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.49-r20), 1 day ago) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
+- [docker/buildx](https://github.com/docker/buildx) ([v0.6.2](https://github.com/docker/buildx/releases/tag/v0.6.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [danieljoos/wincred](https://github.com/danieljoos/wincred) ([v1.1.2](https://github.com/danieljoos/wincred/releases/tag/v1.1.2), 1 day ago) - Go wrapper around the Windows Credential Manager API functions
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v2.7.0](https://github.com/docker/build-push-action/releases/tag/v2.7.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.5.0](https://github.com/docker/metadata-action/releases/tag/v3.5.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([0.11.2-r2](https://github.com/crazy-max/docker-fail2ban/releases/tag/0.11.2-r2), 2 days ago) - Fail2ban Docker image based on Alpine Linux
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (1 week ago)
