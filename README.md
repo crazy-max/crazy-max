@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (today)
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (today)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/gohealthchecks](https://github.com/crazy-max/gohealthchecks) - Go client library for accessing the Healthchecks API (today)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (today)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (today)
+- [crazy-max/gohealthchecks](https://github.com/crazy-max/gohealthchecks) - Go client library for accessing the Healthchecks API (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.6.2](https://github.com/docker/buildx/releases/tag/v0.6.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [danieljoos/wincred](https://github.com/danieljoos/wincred) ([v1.1.2](https://github.com/danieljoos/wincred/releases/tag/v1.1.2), 1 day ago) - Go wrapper around the Windows Credential Manager API functions
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v2.7.0](https://github.com/docker/build-push-action/releases/tag/v2.7.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.5.0](https://github.com/docker/metadata-action/releases/tag/v3.5.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([0.11.2-r2](https://github.com/crazy-max/docker-fail2ban/releases/tag/0.11.2-r2), 2 days ago) - Fail2ban Docker image based on Alpine Linux
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.2-r0](https://github.com/anonaddy/docker/releases/tag/0.8.2-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.175.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.175.0-r0), 1 day ago) - Cross compilation helper for GoReleaser
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.5.0](https://github.com/crazy-max/gonfig/releases/tag/v0.5.0), 1 day ago) - Lightweight config handling for Go
+- [docker/buildx](https://github.com/docker/buildx) ([v0.6.2](https://github.com/docker/buildx/releases/tag/v0.6.2), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [danieljoos/wincred](https://github.com/danieljoos/wincred) ([v1.1.2](https://github.com/danieljoos/wincred/releases/tag/v1.1.2), 2 days ago) - Go wrapper around the Windows Credential Manager API functions
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (1 week ago)
