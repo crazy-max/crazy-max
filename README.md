@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (today)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (today)
-- [crazy-max/gohealthchecks](https://github.com/crazy-max/gohealthchecks) - Go client library for accessing the Healthchecks API (1 day ago)
+- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) - 🚀 Rocket.Chat portable for Windows  (today)
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (today)
+- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - 🚀 WhatsApp portable for Windows (today)
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (today)
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.2-r0](https://github.com/anonaddy/docker/releases/tag/0.8.2-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.175.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.175.0-r0), 1 day ago) - Cross compilation helper for GoReleaser
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.5.0](https://github.com/crazy-max/gonfig/releases/tag/v0.5.0), 1 day ago) - Lightweight config handling for Go
-- [docker/buildx](https://github.com/docker/buildx) ([v0.6.2](https://github.com/docker/buildx/releases/tag/v0.6.2), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [danieljoos/wincred](https://github.com/danieljoos/wincred) ([v1.1.2](https://github.com/danieljoos/wincred/releases/tag/v1.1.2), 2 days ago) - Go wrapper around the Windows Credential Manager API functions
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.3.1](https://github.com/portapps/portapps/releases/tag/v3.3.1), 1 day ago) - 🛰 Collection of portable apps for Windows
+- [librenms/librenms](https://github.com/librenms/librenms) ([21.8.0](https://github.com/librenms/librenms/releases/tag/21.8.0), 1 day ago) - Community-based GPL-licensed network monitoring system
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.9](https://github.com/crazy-max/xgo/releases/tag/v0.6.9), 1 day ago) - Go CGO cross compiler
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.2-r0](https://github.com/anonaddy/docker/releases/tag/0.8.2-r0), 2 days ago) - AnonAddy Docker image based on Alpine Linux
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.175.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.175.0-r0), 2 days ago) - Cross compilation helper for GoReleaser
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (1 week ago)
