@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) - 🚀 Rocket.Chat portable for Windows  (today)
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (today)
-- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - 🚀 WhatsApp portable for Windows (today)
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (today)
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (today)
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (1 day ago)
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (1 day ago)
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (1 day ago)
+- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) - 🚀 WhatsApp portable for Windows (1 day ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.3.1](https://github.com/portapps/portapps/releases/tag/v3.3.1), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [librenms/librenms](https://github.com/librenms/librenms) ([21.8.0](https://github.com/librenms/librenms/releases/tag/21.8.0), 1 day ago) - Community-based GPL-licensed network monitoring system
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.6.9](https://github.com/crazy-max/xgo/releases/tag/v0.6.9), 1 day ago) - Go CGO cross compiler
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.2-r0](https://github.com/anonaddy/docker/releases/tag/0.8.2-r0), 2 days ago) - AnonAddy Docker image based on Alpine Linux
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v0.175.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v0.175.0-r0), 2 days ago) - Cross compilation helper for GoReleaser
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210819.7](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210819.7), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.0](https://github.com/crazy-max/xgo/releases/tag/v0.7.0), 1 day ago) - Go CGO cross compiler
+- [portapps/mirc-portable](https://github.com/portapps/mirc-portable) ([7.66-13](https://github.com/portapps/mirc-portable/releases/tag/7.66-13), 1 day ago) - 🚀 mIRC portable for Windows
+- [portapps/vlc-portable](https://github.com/portapps/vlc-portable) ([3.0.16-11](https://github.com/portapps/vlc-portable/releases/tag/3.0.16-11), 1 day ago) - 🚀 VLC Media Player portable for Windows 
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.28.106-76](https://github.com/portapps/brave-portable/releases/tag/1.28.106-76), 1 day ago) - 🚀 Brave web browser portable for Windows
 
 #### ❤️ Latest sponsors
-- [Will Browning](https://github.com/willbrowningme) (1 week ago)
+- [Will Browning](https://github.com/willbrowningme) (2 weeks ago)
 - [prompt](https://github.com/pr-mpt) (2 months ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (3 months ago)
 - [Nick Sweeting](https://github.com/pirate) (4 months ago)
