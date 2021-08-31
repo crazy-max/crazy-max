@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (3 days ago)
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (5 days ago)
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 week ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (2 days ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r13), 1 day ago) - Alpine Linux with s6 overlay
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.1](https://github.com/crazy-max/xgo/releases/tag/v0.7.1), 2 days ago) - Go CGO cross compiler
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.1.0-19](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.1.0-19), 3 days ago) - Cross-platform emulator collection distributed with Docker images.
-- [containers/image](https://github.com/containers/image) ([v5.16.0](https://github.com/containers/image/releases/tag/v5.16.0), 5 days ago) - Work with containers&#39; images
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.1.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.1.0), 5 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [docker/buildx](https://github.com/docker/buildx) ([v0.6.3](https://github.com/docker/buildx/releases/tag/v0.6.3), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r13](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r13), 2 days ago) - Alpine Linux with s6 overlay
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.1](https://github.com/crazy-max/xgo/releases/tag/v0.7.1), 3 days ago) - Go CGO cross compiler
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.1.0-19](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.1.0-19), 4 days ago) - Cross-platform emulator collection distributed with Docker images.
+- [containers/image](https://github.com/containers/image) ([v5.16.0](https://github.com/containers/image/releases/tag/v5.16.0), 6 days ago) - Work with containers&#39; images
 
 #### ❤️ Latest sponsors
-- [Will Browning](https://github.com/willbrowningme) (2 weeks ago)
+- [Will Browning](https://github.com/willbrowningme) (3 weeks ago)
 - [prompt](https://github.com/pr-mpt) (2 months ago)
 - [Chris Nesbitt-Smith](https://github.com/chrisns) (3 months ago)
 - [Nick Sweeting](https://github.com/pirate) (4 months ago)
