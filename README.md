@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (2 days ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (2 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210901.3](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210901.3), 1 day ago) - GitHub Actions virtual environments
-- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.155-6](https://github.com/portapps/tabby-portable/releases/tag/1.0.155-6), 2 days ago) - 🚀 Tabby portable for Windows 
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([21.1.1-27](https://github.com/portapps/smartgit-portable/releases/tag/21.1.1-27), 2 days ago) - 🚀 SmartGit portable for Windows 
-- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) ([2.2132.6-31](https://github.com/portapps/whatsapp-portable/releases/tag/2.2132.6-31), 2 days ago) - 🚀 WhatsApp portable for Windows
-- [portapps/wire-portable](https://github.com/portapps/wire-portable) ([3.26.4124-14](https://github.com/portapps/wire-portable/releases/tag/3.26.4124-14), 2 days ago) - 🚀 Wire portable for Windows
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.6.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.6.0), 1 day ago) - GitHub Action to set up Docker Buildx
+- [docker/bake-action](https://github.com/docker/bake-action) ([v1.6.0](https://github.com/docker/bake-action/releases/tag/v1.6.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.1.1](https://github.com/docker/cli-docs-tool/releases/tag/v0.1.1), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210901.3](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210901.3), 2 days ago) - GitHub Actions virtual environments
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (3 weeks ago)
