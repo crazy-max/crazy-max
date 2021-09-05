@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (today)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (today)
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (today)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.6.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.6.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.6.0](https://github.com/docker/bake-action/releases/tag/v1.6.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.1.1](https://github.com/docker/cli-docs-tool/releases/tag/v0.1.1), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20210901.3](https://github.com/actions/virtual-environments/releases/tag/win16%2F20210901.3), 2 days ago) - GitHub Actions virtual environments
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.0.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.0.0), 1 day ago) - :octocat: GitHub Action to easily import a GPG key
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.6.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.6.0), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.6.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.6.0), 2 days ago) - GitHub Action to set up Docker Buildx
+- [docker/bake-action](https://github.com/docker/bake-action) ([v1.6.0](https://github.com/docker/bake-action/releases/tag/v1.6.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.1.1](https://github.com/docker/cli-docs-tool/releases/tag/v0.1.1), 2 days ago) - Utilities to generate (reference) documentation for the docker CLI
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (3 weeks ago)
