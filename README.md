@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (today)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (today)
-- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (today)
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.0.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.0.0), 1 day ago) - :octocat: GitHub Action to easily import a GPG key
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.6.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.6.0), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v1.6.0](https://github.com/docker/setup-buildx-action/releases/tag/v1.6.0), 2 days ago) - GitHub Action to set up Docker Buildx
-- [docker/bake-action](https://github.com/docker/bake-action) ([v1.6.0](https://github.com/docker/bake-action/releases/tag/v1.6.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.1.1](https://github.com/docker/cli-docs-tool/releases/tag/v0.1.1), 2 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.20.1](https://github.com/crazy-max/diun/releases/tag/v4.20.1), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1008-16](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1008-16), 1 day ago) - 🚀 Discord PTB portable for Windows
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.2](https://github.com/crazy-max/xgo/releases/tag/v0.7.2), 1 day ago) - Go CGO cross compiler
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2021.8.7-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2021.8.7-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.1.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.1.1-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx
 
 #### ❤️ Latest sponsors
 - [Will Browning](https://github.com/willbrowningme) (3 weeks ago)
