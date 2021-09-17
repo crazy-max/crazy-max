@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [crazy-max/docker-docs](https://github.com/crazy-max/docker-docs) -  (4 days ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (5 days ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (5 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (6 days ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (today)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [crazy-max/docker-docs](https://github.com/crazy-max/docker-docs) -  (5 days ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (6 days ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210914.2](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210914.2), 1 day ago) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.1.0-20](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.1.0-20), 4 days ago) - Cross-platform emulator collection distributed with Docker images.
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.8-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.8-r0), 5 days ago) - qBittorrent Docker image based on Alpine Linux
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210914.2](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210914.2), 2 days ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.1.0-20](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.1.0-20), 5 days ago) - Cross-platform emulator collection distributed with Docker images.
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.3.8-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.3.8-r0), 6 days ago) - qBittorrent Docker image based on Alpine Linux
 - [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.3](https://github.com/crazy-max/xgo/releases/tag/v0.7.3), 1 week ago) - Go CGO cross compiler
 
 #### ❤️ Latest sponsors
