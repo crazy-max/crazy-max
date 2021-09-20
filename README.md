@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-docs](https://github.com/crazy-max/docker-docs) -  (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (2 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
+- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (today)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (today)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (today)
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - 🚀 IntelliJ IDEA Ultimate portable for Windows  (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([28662-r1](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/28662-r1), 1 day ago) - JetBrains License Server Docker image
-- [librenms/librenms](https://github.com/librenms/librenms) ([21.9.0](https://github.com/librenms/librenms/releases/tag/21.9.0), 2 days ago) - Community-based GPL-licensed network monitoring system
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.16-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.16-r0), 2 days ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.4-r0](https://github.com/anonaddy/docker/releases/tag/0.8.4-r0), 2 days ago) - AnonAddy Docker image based on Alpine Linux
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20210914.2](https://github.com/actions/virtual-environments/releases/tag/win22%2F20210914.2), 4 days ago) - GitHub Actions virtual environments
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2021.2.2-35](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2021.2.2-35), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2021.2.2-48](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2021.2.2-48), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([91.1.1-42](https://github.com/portapps/stormhen-portable/releases/tag/91.1.1-42), 1 day ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([93.0b6-43](https://github.com/portapps/phyrox-developer-portable/releases/tag/93.0b6-43), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([91.1.0-56](https://github.com/portapps/phyrox-esr-portable/releases/tag/91.1.0-56), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
 
 #### ❤️ Latest sponsors
 - [Madhur Shrimal](https://github.com/shrimalmadhur) (1 week ago)
