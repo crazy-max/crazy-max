@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser (1 day ago)
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [dagger/dagger-action](https://github.com/dagger/dagger-action) - GitHub Action for Dagger (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.0-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.0-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2021.9.2-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2021.9.2-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) ([v1.8.0](https://github.com/crazy-max/echo-ipfilter/releases/tag/v1.8.0), 1 day ago) - Middleware that provides ipfilter support for echo framework
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu20/20210929.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210929.1), 5 days ago) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.3.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.3.1-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.9-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.9-r0), 1 day ago) - Docker in Docker (DinD) image
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20211001.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20211001.1), 1 day ago) - GitHub Actions virtual environments
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.3.9](https://github.com/regclient/regclient/releases/tag/v0.3.9), 1 day ago) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.0-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.0-r0), 2 days ago) - Nextcloud Docker image based on Alpine Linux and Nginx
 
 #### ❤️ Latest sponsors
 - [Batuhan Apaydın](https://github.com/developer-guy) (1 week ago)
