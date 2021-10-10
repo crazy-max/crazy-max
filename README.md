@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (2 days ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [containers/image](https://github.com/containers/image) ([v5.16.1](https://github.com/containers/image/releases/tag/v5.16.1), 4 days ago) - Work with containers&#39; images
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.3.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.3.1-labs), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.9-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.9-r0), 5 days ago) - Docker in Docker (DinD) image
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20211001.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20211001.1), 5 days ago) - GitHub Actions virtual environments
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.5-r0](https://github.com/anonaddy/docker/releases/tag/0.8.5-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.5.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.5.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [containers/image](https://github.com/containers/image) ([v5.16.1](https://github.com/containers/image/releases/tag/v5.16.1), 5 days ago) - Work with containers&#39; images
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.3.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.3.1-labs), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Batuhan Apaydın](https://github.com/developer-guy) (1 week ago)
