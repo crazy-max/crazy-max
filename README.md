@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (1 day ago)
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (1 day ago)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (1 day ago)
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (1 day ago)
-- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - :octocat: GitHub Action to expose GitHub runtime to the workflow (1 day ago)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (2 days ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (2 days ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (2 days ago)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (2 days ago)
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - :octocat: GitHub Action to expose GitHub runtime to the workflow (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.8.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.8.0), 1 day ago) - :octocat: GitHub Action for GoReleaser
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.1.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.1.0), 1 day ago) - :octocat: GitHub Action to easily import a GPG key
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.4](https://github.com/crazy-max/xgo/releases/tag/v0.7.4), 3 days ago) - Go CGO cross compiler
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [portapps/whatsapp-portable](https://github.com/portapps/whatsapp-portable) ([2.2134.10-32](https://github.com/portapps/whatsapp-portable/releases/tag/2.2134.10-32), 3 days ago) - 🚀 WhatsApp portable for Windows
+- [librenms/librenms](https://github.com/librenms/librenms) ([21.10.0](https://github.com/librenms/librenms/releases/tag/21.10.0), 1 day ago) - Community-based GPL-licensed network monitoring system
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.8.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.8.0), 2 days ago) - :octocat: GitHub Action for GoReleaser
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.1.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.1.0), 2 days ago) - :octocat: GitHub Action to easily import a GPG key
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.4](https://github.com/crazy-max/xgo/releases/tag/v0.7.4), 4 days ago) - Go CGO cross compiler
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
 - [Batuhan Apaydın](https://github.com/developer-guy) (2 weeks ago)
