@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (6 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 week ago)
 - [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 week ago)
 - [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (1 week ago)
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.9.2](https://github.com/moby/buildkit/releases/tag/v0.9.2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211101.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211101.1), 2 days ago) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) ([v1.1.0](https://github.com/crazy-max/ghaction-container-scan/releases/tag/v1.1.0), 6 days ago) - GitHub Action to check for vulnerabilities in your container image
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.10-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.10-r0), 1 week ago) - Docker in Docker (DinD) image
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.0.0](https://github.com/tonistiigi/xx/releases/tag/v1.0.0), 1 day ago) - Dockerfile cross-compilation helpers
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211102.4](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211102.4), 1 day ago) - GitHub Actions virtual environments
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.9.2](https://github.com/moby/buildkit/releases/tag/v0.9.2), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) ([v1.1.0](https://github.com/crazy-max/ghaction-container-scan/releases/tag/v1.1.0), 1 week ago) - GitHub Action to check for vulnerabilities in your container image
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (2 weeks ago)
