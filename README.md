@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image based on Alpine Linux (2 days ago)
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
 - [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.7.0-rc1](https://github.com/docker/buildx/releases/tag/v0.7.0-rc1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.7-r0](https://github.com/anonaddy/docker/releases/tag/0.8.7-r0), 1 day ago) - AnonAddy Docker image based on Alpine Linux
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.2.1](https://github.com/docker/cli-docs-tool/releases/tag/v0.2.1), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.0.0](https://github.com/tonistiigi/xx/releases/tag/v1.0.0), 2 days ago) - Dockerfile cross-compilation helpers
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211102.4](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211102.4), 2 days ago) - GitHub Actions virtual environments
+- [docker/buildx](https://github.com/docker/buildx) ([v0.7.0-rc1](https://github.com/docker/buildx/releases/tag/v0.7.0-rc1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.7-r0](https://github.com/anonaddy/docker/releases/tag/0.8.7-r0), 2 days ago) - AnonAddy Docker image based on Alpine Linux
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.2.1](https://github.com/docker/cli-docs-tool/releases/tag/v0.2.1), 2 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.0.0](https://github.com/tonistiigi/xx/releases/tag/v1.0.0), 3 days ago) - Dockerfile cross-compilation helpers
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20211102.4](https://github.com/actions/virtual-environments/releases/tag/win22%2F20211102.4), 3 days ago) - GitHub Actions virtual environments
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (2 weeks ago)
