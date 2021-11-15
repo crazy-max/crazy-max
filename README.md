@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (4 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (6 days ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (today)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/librenms](https://github.com/librenms/librenms) ([21.11.0](https://github.com/librenms/librenms/releases/tag/21.11.0), 2 days ago) - Community-based GPL-licensed network monitoring system
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.7.5](https://github.com/crazy-max/xgo/releases/tag/v0.7.5), 3 days ago) - Go CGO cross compiler
-- [docker/buildx](https://github.com/docker/buildx) ([v0.7.0](https://github.com/docker/buildx/releases/tag/v0.7.0), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211110.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211110.1), 4 days ago) - GitHub Actions virtual environments
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2021.10.5-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2021.10.5-r0), 6 days ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.19-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.19-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [librenms/docker](https://github.com/librenms/docker) ([21.11.0-r0](https://github.com/librenms/docker/releases/tag/21.11.0-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.2-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r14](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r14), 1 day ago) - Alpine Linux with s6 overlay
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (3 weeks ago)
