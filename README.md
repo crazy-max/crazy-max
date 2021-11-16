@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (today)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx (2 days ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (2 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.19-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.19-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
-- [librenms/docker](https://github.com/librenms/docker) ([21.11.0-r0](https://github.com/librenms/docker/releases/tag/21.11.0-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.2-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r14](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r14), 1 day ago) - Alpine Linux with s6 overlay
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211115.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211115.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.19-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.19-r0), 2 days ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [librenms/docker](https://github.com/librenms/docker) ([21.11.0-r0](https://github.com/librenms/docker/releases/tag/21.11.0-r0), 2 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.2-r0), 2 days ago) - Nextcloud Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r14](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r14), 2 days ago) - Alpine Linux with s6 overlay
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (3 weeks ago)
