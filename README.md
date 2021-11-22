@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (2 days ago)
-- [crazy-max/lorrainejug-buildx-bake](https://github.com/crazy-max/lorrainejug-buildx-bake) - Presentation of buildx bake @ Lorraine JUG (3 days ago)
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (4 days ago)
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (4 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (4 days ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
+- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) - 🚀 Rocket.Chat portable for Windows  (1 day ago)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
+- [portapps/qbittorrent-portable](https://github.com/portapps/qbittorrent-portable) - 🚀 qBittorrent portable for Windows (1 day ago)
+- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v20.10.11](https://github.com/moby/moby/releases/tag/v20.10.11), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.9.3](https://github.com/moby/buildkit/releases/tag/v0.9.3), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.0.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.0.0-r0), 4 days ago) - Cross compilation helper for GoReleaser
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20211115.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20211115.1), 6 days ago) - GitHub Actions virtual environments
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.19-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.19-r0), 1 week ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.11-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.11-r0), 1 day ago) - Docker in Docker (DinD) image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.3-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.15.2-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.15.2-r0), 1 day ago) - EJT License Server image based on Alpine Linux 
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.32.106-78](https://github.com/portapps/brave-portable/releases/tag/1.32.106-78), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.18.1-6](https://github.com/portapps/ueli-portable/releases/tag/8.18.1-6), 1 day ago) - 🚀 ueli portable for Windows
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (1 month ago)
