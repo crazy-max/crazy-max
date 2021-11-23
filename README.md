@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
-- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) - 🚀 Rocket.Chat portable for Windows  (1 day ago)
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
-- [portapps/qbittorrent-portable](https://github.com/portapps/qbittorrent-portable) - 🚀 qBittorrent portable for Windows (1 day ago)
-- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.11-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.11-r0), 1 day ago) - Docker in Docker (DinD) image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.3-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.15.2-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.15.2-r0), 1 day ago) - EJT License Server image based on Alpine Linux 
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.32.106-78](https://github.com/portapps/brave-portable/releases/tag/1.32.106-78), 1 day ago) - 🚀 Brave web browser portable for Windows
-- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.18.1-6](https://github.com/portapps/ueli-portable/releases/tag/8.18.1-6), 1 day ago) - 🚀 ueli portable for Windows
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([96.0.4664.45-12](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/96.0.4664.45-12), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.3.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.3.0), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20211120.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20211120.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.11-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.11-r0), 2 days ago) - Docker in Docker (DinD) image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([22.2.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/22.2.3-r0), 2 days ago) - Nextcloud Docker image based on Alpine Linux and Nginx
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (1 month ago)
