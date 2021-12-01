@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 week ago)
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 week ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 week ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.1.0](https://github.com/tonistiigi/xx/releases/tag/v1.1.0), 1 day ago) - Dockerfile cross-compilation helpers
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.6.1](https://github.com/docker/metadata-action/releases/tag/v3.6.1), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20211129.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20211129.1), 1 day ago) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0), 4 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) ([16.02-r3](https://github.com/crazy-max/docker-7zip/releases/tag/16.02-r3), 1 day ago) - 7-Zip Docker image based on Alpine Linux
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.6.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.6.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image based on Alpine Linux
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20211229.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20211229.2), 1 day ago) - GitHub Actions virtual environments
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.1.0](https://github.com/tonistiigi/xx/releases/tag/v1.1.0), 2 days ago) - Dockerfile cross-compilation helpers
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v3.6.1](https://github.com/docker/metadata-action/releases/tag/v3.6.1), 2 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (1 month ago)
