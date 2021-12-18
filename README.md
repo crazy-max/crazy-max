@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
-- [dagger/dagger-action](https://github.com/dagger/dagger-action) - GitHub Action for Dagger (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server image based on Alpine Linux  (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (4 days ago)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image based on Alpine Linux (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 days ago)
+- [dagger/dagger-action](https://github.com/dagger/dagger-action) - GitHub Action for Dagger (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v6.1.0-23](https://github.com/tonistiigi/binfmt/releases/tag/buildkit%2Fv6.1.0-23), 1 day ago) - Cross-platform emulator collection distributed with Docker images.
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.12-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.12-r0), 1 day ago) - Docker in Docker (DinD) image
-- [dagger/dagger-action](https://github.com/dagger/dagger-action) ([v1.2.1](https://github.com/dagger/dagger-action/releases/tag/v1.2.1), 1 day ago) - GitHub Action for Dagger
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.11.0](https://github.com/goreleaser/nfpm/releases/tag/v2.11.0), 1 day ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.16-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.16-r0), 2 days ago) - EJT License Server image based on Alpine Linux 
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.15.2-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.15.2-r0), 1 day ago) - Samba Docker image based on Alpine Linux
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([30241-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/30241-r0), 1 day ago) - JetBrains License Server Docker image
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v6.1.0-23](https://github.com/tonistiigi/binfmt/releases/tag/buildkit%2Fv6.1.0-23), 2 days ago) - Cross-platform emulator collection distributed with Docker images.
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.12-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.12-r0), 2 days ago) - Docker in Docker (DinD) image
+- [dagger/dagger-action](https://github.com/dagger/dagger-action) ([v1.2.1](https://github.com/dagger/dagger-action/releases/tag/v1.2.1), 2 days ago) - GitHub Action for Dagger
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (1 month ago)
