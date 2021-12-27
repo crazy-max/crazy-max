@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
 - [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.2.2-r1](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.2.2-r1), 1 day ago) - Cross compilation helper for GoReleaser
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2), 4 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([30333-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/30333-r0), 4 days ago) - JetBrains License Server Docker image
-- [librenms/librenms](https://github.com/librenms/librenms) ([21.12.0](https://github.com/librenms/librenms/releases/tag/21.12.0), 4 days ago) - Community-based GPL-licensed network monitoring system
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.5.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.5.0), 1 day ago) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.2.2-r1](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.2.2-r1), 2 days ago) - Cross compilation helper for GoReleaser
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2), 5 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([30333-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/30333-r0), 5 days ago) - JetBrains License Server Docker image
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (2 months ago)
