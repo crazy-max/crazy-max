@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (2 days ago)
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (3 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (today)
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (today)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (today)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([11.3-r4](https://github.com/crazy-max/docker-osxcross/releases/tag/11.3-r4), 1 day ago) - MacOSX cross toolchain as Docker image
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([0.10.0](https://github.com/nginx-proxy/nginx-proxy/releases/tag/0.10.0), 1 day ago) - Automated nginx proxy for Docker containers using docker-gen
-- [librenms/docker](https://github.com/librenms/docker) ([21.12.1-r0](https://github.com/librenms/docker/releases/tag/21.12.1-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.5.0](https://github.com/crazy-max/goxx/releases/tag/v0.5.0), 3 days ago) - Go CGO cross-compiler Docker image
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.9.0](https://github.com/crazy-max/xgo/releases/tag/v0.9.0), 5 days ago) - Go CGO cross compiler
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) ([21.3.2-44](https://github.com/portapps/dbeaver-portable/releases/tag/21.3.2-44), 1 day ago) - 🚀 DBeaver portable for Windows
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.4.1-15](https://github.com/portapps/nextcloud-portable/releases/tag/3.4.1-15), 1 day ago) - 🚀 Nextcloud portable for Windows
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([21.2.1-29](https://github.com/portapps/smartgit-portable/releases/tag/21.2.1-29), 1 day ago) - 🚀 SmartGit portable for Windows 
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([9.8.2-52](https://github.com/portapps/postman-portable/releases/tag/9.8.2-52), 1 day ago) - 🚀 Postman portable for Windows
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.34.80-79](https://github.com/portapps/brave-portable/releases/tag/1.34.80-79), 1 day ago) - 🚀 Brave web browser portable for Windows
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (2 months ago)
