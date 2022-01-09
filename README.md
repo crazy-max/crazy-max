@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (today)
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (today)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (today)
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (today)
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (1 day ago)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) ([21.3.2-44](https://github.com/portapps/dbeaver-portable/releases/tag/21.3.2-44), 1 day ago) - 🚀 DBeaver portable for Windows
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.4.1-15](https://github.com/portapps/nextcloud-portable/releases/tag/3.4.1-15), 1 day ago) - 🚀 Nextcloud portable for Windows
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([21.2.1-29](https://github.com/portapps/smartgit-portable/releases/tag/21.2.1-29), 1 day ago) - 🚀 SmartGit portable for Windows 
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([9.8.2-52](https://github.com/portapps/postman-portable/releases/tag/9.8.2-52), 1 day ago) - 🚀 Postman portable for Windows
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.34.80-79](https://github.com/portapps/brave-portable/releases/tag/1.34.80-79), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [jzelinskie/faq](https://github.com/jzelinskie/faq) ([0.0.8](https://github.com/jzelinskie/faq/releases/tag/0.0.8), 1 day ago) - Format Agnostic jQ -- process various formats with libjq
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.6.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.6.0), 1 day ago) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.34.80-80](https://github.com/portapps/brave-portable/releases/tag/1.34.80-80), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) ([21.3.2-44](https://github.com/portapps/dbeaver-portable/releases/tag/21.3.2-44), 2 days ago) - 🚀 DBeaver portable for Windows
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.4.1-15](https://github.com/portapps/nextcloud-portable/releases/tag/3.4.1-15), 2 days ago) - 🚀 Nextcloud portable for Windows
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (2 months ago)
