@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (3 days ago)
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (3 days ago)
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (3 days ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server image based on Alpine Linux  (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v20.10.12](https://github.com/moby/moby/releases/tag/v20.10.12), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.15.2-r2](https://github.com/crazy-max/docker-samba/releases/tag/4.15.2-r2), 1 day ago) - Samba Docker image based on Alpine Linux
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.2.5-r1](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.2.5-r1), 1 day ago) - Cross compilation helper for GoReleaser
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.6.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.6.0), 3 days ago) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.34.80-80](https://github.com/portapps/brave-portable/releases/tag/1.34.80-80), 3 days ago) - 🚀 Brave web browser portable for Windows
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([0.11.2-r4](https://github.com/crazy-max/docker-fail2ban/releases/tag/0.11.2-r4), 1 day ago) - Fail2ban Docker image based on Alpine Linux
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.16.2-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.16.2-r0), 1 day ago) - EJT License Server image based on Alpine Linux 
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.1.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.1.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.9-r1](https://github.com/anonaddy/docker/releases/tag/0.8.9-r1), 1 day ago) - AnonAddy Docker image based on Alpine Linux
+- [moby/moby](https://github.com/moby/moby) ([v20.10.12](https://github.com/moby/moby/releases/tag/v20.10.12), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (2 months ago)
