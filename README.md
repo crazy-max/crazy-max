@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server image based on Alpine Linux  (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([0.11.2-r4](https://github.com/crazy-max/docker-fail2ban/releases/tag/0.11.2-r4), 1 day ago) - Fail2ban Docker image based on Alpine Linux
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.16.2-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.16.2-r0), 1 day ago) - EJT License Server image based on Alpine Linux 
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.1.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.1.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.9-r1](https://github.com/anonaddy/docker/releases/tag/0.8.9-r1), 1 day ago) - AnonAddy Docker image based on Alpine Linux
-- [moby/moby](https://github.com/moby/moby) ([v20.10.12](https://github.com/moby/moby/releases/tag/v20.10.12), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220110.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220110.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([0.11.2-r4](https://github.com/crazy-max/docker-fail2ban/releases/tag/0.11.2-r4), 2 days ago) - Fail2ban Docker image based on Alpine Linux
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) ([1.16.2-r0](https://github.com/crazy-max/docker-ejtserver/releases/tag/1.16.2-r0), 2 days ago) - EJT License Server image based on Alpine Linux 
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.1.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.1.0-r0), 2 days ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.8.9-r1](https://github.com/anonaddy/docker/releases/tag/0.8.9-r1), 2 days ago) - AnonAddy Docker image based on Alpine Linux
 
 #### ❤️ Latest sponsors
 - [sksat](https://github.com/sksat) (2 months ago)
