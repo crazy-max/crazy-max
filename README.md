@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image based on Alpine Linux (1 day ago)
 - [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.11.0](https://github.com/crazy-max/xgo/releases/tag/v0.11.0), 1 day ago) - Go CGO cross compiler
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.50-r0](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.50-r0), 1 day ago) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
-- [librenms/docker](https://github.com/librenms/docker) ([22.2.1-r0](https://github.com/librenms/docker/releases/tag/22.2.1-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([23.0.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/23.0.2-r0), 1 day ago) - Nextcloud Docker image based on Alpine Linux and Nginx
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.10.0-r0](https://github.com/anonaddy/docker/releases/tag/0.10.0-r0), 1 day ago) - AnonAddy Docker image
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.5.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.5.0-r0), 1 day ago) - Cross compilation helper for GoReleaser
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220220.1](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220220.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.2.0-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.2.0-r0), 1 day ago) - Flarum Docker image based on Alpine Linux
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.4.1-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.4.1-r0), 1 day ago) - qBittorrent Docker image based on Alpine Linux
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.11.0](https://github.com/crazy-max/xgo/releases/tag/v0.11.0), 2 days ago) - Go CGO cross compiler
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (1 week ago)
