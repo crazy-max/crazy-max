@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (1 day ago)
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.4.0-rc2](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.4.0-rc2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([0.10.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/0.10.1), 1 day ago) - Automated nginx proxy for Docker containers using docker-gen
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.10.0-r1](https://github.com/anonaddy/docker/releases/tag/0.10.0-r1), 2 days ago) - AnonAddy Docker image
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win16/20220223.1](https://github.com/actions/virtual-environments/releases/tag/win16%2F20220223.1), 2 days ago) - GitHub Actions virtual environments
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.4.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.4.0), 3 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0), 1 day ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [docker/buildx](https://github.com/docker/buildx) ([v0.8.0-rc1](https://github.com/docker/buildx/releases/tag/v0.8.0-rc1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.4.0-rc2](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.4.0-rc2), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([0.10.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/0.10.1), 2 days ago) - Automated nginx proxy for Docker containers using docker-gen
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.10.0-r1](https://github.com/anonaddy/docker/releases/tag/0.10.0-r1), 3 days ago) - AnonAddy Docker image
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 weeks ago)
