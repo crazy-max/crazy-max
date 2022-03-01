@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (1 day ago)
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.9.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.0), 1 day ago) - GitHub Action for GoReleaser
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.10.1-r0](https://github.com/anonaddy/docker/releases/tag/0.10.1-r0), 1 day ago) - AnonAddy Docker image
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.19-r1](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.19-r1), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0), 2 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [docker/buildx](https://github.com/docker/buildx) ([v0.8.0-rc1](https://github.com/docker/buildx/releases/tag/v0.8.0-rc1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v2.9.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v2.9.1), 1 day ago) - GitHub Action for GoReleaser
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220227.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220227.1), 1 day ago) - GitHub Actions virtual environments
+- [docker/login-action](https://github.com/docker/login-action) ([v1.14.0](https://github.com/docker/login-action/releases/tag/v1.14.0), 1 day ago) - GitHub Action to login against a Docker registry
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.10.1-r0](https://github.com/anonaddy/docker/releases/tag/0.10.1-r0), 2 days ago) - AnonAddy Docker image
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.19-r1](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.19-r1), 2 days ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 weeks ago)
