@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (today)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 day ago)
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [distribution/distribution](https://github.com/distribution/distribution) ([v2.8.1](https://github.com/distribution/distribution/releases/tag/v2.8.1), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.0](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.0), 2 days ago) - Automated nginx proxy for Docker containers using docker-gen
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v6.2.0-26](https://github.com/tonistiigi/binfmt/releases/tag/deploy%2Fv6.2.0-26), 2 days ago) - Cross-platform emulator collection distributed with Docker images.
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2021.3.2-36](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2021.3.2-36), 3 days ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2021.3.2-50](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2021.3.2-50), 3 days ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) ([v2.0.0](https://github.com/dagger/dagger-for-github/releases/tag/v2.0.0), 1 day ago) - GitHub Action for Dagger
+- [docker/buildx](https://github.com/docker/buildx) ([v0.8.0](https://github.com/docker/buildx/releases/tag/v0.8.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.4.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.4.0-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [distribution/distribution](https://github.com/distribution/distribution) ([v2.8.1](https://github.com/distribution/distribution/releases/tag/v2.8.1), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.0](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.0), 3 days ago) - Automated nginx proxy for Docker containers using docker-gen
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (4 weeks ago)
