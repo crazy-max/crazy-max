@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (4 days ago)
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (4 days ago)
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (4 days ago)
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux (1 day ago)
+- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (4 days ago)
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [moby/moby](https://github.com/moby/moby) ([v20.10.13](https://github.com/moby/moby/releases/tag/v20.10.13), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.11.0-r1](https://github.com/anonaddy/docker/releases/tag/0.11.0-r1), 3 days ago) - AnonAddy Docker image
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) ([v2.0.0](https://github.com/dagger/dagger-for-github/releases/tag/v2.0.0), 4 days ago) - GitHub Action for Dagger
-- [docker/buildx](https://github.com/docker/buildx) ([v0.8.0](https://github.com/docker/buildx/releases/tag/v0.8.0), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [librenms/docker](https://github.com/librenms/docker) ([22.2.2-r0](https://github.com/librenms/docker/releases/tag/22.2.2-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.13-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.13-r0), 1 day ago) - Docker in Docker (DinD) image
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.19-r2](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.19-r2), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd and based on Alpine Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [moby/moby](https://github.com/moby/moby) ([v20.10.13](https://github.com/moby/moby/releases/tag/v20.10.13), 4 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (1 month ago)
