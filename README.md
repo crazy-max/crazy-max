@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (2 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.11.1-r0](https://github.com/anonaddy/docker/releases/tag/0.11.1-r0), 2 days ago) - AnonAddy Docker image
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.3.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.3.0), 2 days ago) - :octocat: GitHub Action to easily import a GPG key
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v2.10.0](https://github.com/docker/build-push-action/releases/tag/v2.10.0), 3 days ago) - GitHub Action to build and push Docker images with Buildx
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.15.5-r1](https://github.com/crazy-max/docker-samba/releases/tag/4.15.5-r1), 3 days ago) - Samba Docker image based on Alpine Linux
-- [librenms/docker](https://github.com/librenms/docker) ([22.2.2-r0](https://github.com/librenms/docker/releases/tag/22.2.2-r0), 4 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220316.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220316.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.8.0](https://github.com/crazy-max/goxx/releases/tag/v0.8.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.11.1-r0](https://github.com/anonaddy/docker/releases/tag/0.11.1-r0), 3 days ago) - AnonAddy Docker image
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.3.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.3.0), 3 days ago) - :octocat: GitHub Action to easily import a GPG key
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v2.10.0](https://github.com/docker/build-push-action/releases/tag/v2.10.0), 4 days ago) - GitHub Action to build and push Docker images with Buildx
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (1 month ago)
