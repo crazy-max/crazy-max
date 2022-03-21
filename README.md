@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (3 days ago)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (5 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (5 days ago)
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0), 1 day ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220316.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220316.1), 3 days ago) - GitHub Actions virtual environments
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.8.0](https://github.com/crazy-max/goxx/releases/tag/v0.8.0), 3 days ago) - Go CGO cross-compiler Docker image
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.11.1-r0](https://github.com/anonaddy/docker/releases/tag/0.11.1-r0), 5 days ago) - AnonAddy Docker image
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.3.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.3.0), 5 days ago) - :octocat: GitHub Action to easily import a GPG key
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.9.0](https://github.com/crazy-max/goxx/releases/tag/v0.9.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [librenms/docker](https://github.com/librenms/docker) ([22.3.0-r0](https://github.com/librenms/docker/releases/tag/22.3.0-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0), 2 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220316.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220316.1), 4 days ago) - GitHub Actions virtual environments
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.11.1-r0](https://github.com/anonaddy/docker/releases/tag/0.11.1-r0), 6 days ago) - AnonAddy Docker image
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (1 month ago)
