@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (2 days ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (5 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (6 days ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.23](https://github.com/docker/compose-cli/releases/tag/v1.0.23), 3 days ago) - Easily run your Compose application to the cloud with compose-cli
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220330.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220330.1), 3 days ago) - GitHub Actions virtual environments
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.3.0](https://github.com/crazy-max/undock/releases/tag/v0.3.0), 6 days ago) - Extract contents of a container image in a local folder
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1), 6 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.7.0-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.7.0-r0), 1 week ago) - Cross compilation helper for GoReleaser
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([100.0.4896.62-14](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/100.0.4896.62-14), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.4.4-16](https://github.com/portapps/nextcloud-portable/releases/tag/3.4.4-16), 1 day ago) - 🚀 Nextcloud portable for Windows
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.6.8-9](https://github.com/portapps/cryptomator-portable/releases/tag/1.6.8-9), 1 day ago) - 🚀 Cryptomator portable for Windows
+- [portapps/molotov-portable](https://github.com/portapps/molotov-portable) ([4.5.0-14](https://github.com/portapps/molotov-portable/releases/tag/4.5.0-14), 1 day ago) - 🚀 Molotov portable for Windows
+- [crazy-max/buildx-packaging](https://github.com/crazy-max/buildx-packaging) ([v0.8.1-2](https://github.com/crazy-max/buildx-packaging/releases/tag/v0.8.1-2), 1 day ago) - Linux distro and static packaging for buildx
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (1 month ago)
