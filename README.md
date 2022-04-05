@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
+- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (today)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (today)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (today)
+- [portapps/wire-portable](https://github.com/portapps/wire-portable) - 🚀 Wire portable for Windows (today)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([100.0.4896.62-14](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/100.0.4896.62-14), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.4.4-16](https://github.com/portapps/nextcloud-portable/releases/tag/3.4.4-16), 1 day ago) - 🚀 Nextcloud portable for Windows
-- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.6.8-9](https://github.com/portapps/cryptomator-portable/releases/tag/1.6.8-9), 1 day ago) - 🚀 Cryptomator portable for Windows
-- [portapps/molotov-portable](https://github.com/portapps/molotov-portable) ([4.5.0-14](https://github.com/portapps/molotov-portable/releases/tag/4.5.0-14), 1 day ago) - 🚀 Molotov portable for Windows
-- [crazy-max/buildx-packaging](https://github.com/crazy-max/buildx-packaging) ([v0.8.1-2](https://github.com/crazy-max/buildx-packaging/releases/tag/v0.8.1-2), 1 day ago) - Linux distro and static packaging for buildx
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.82.0.403-92](https://github.com/portapps/skype-portable/releases/tag/8.82.0.403-92), 1 day ago) - 🚀 Skype portable for Windows 
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.5.0](https://github.com/portapps/portapps/releases/tag/v3.5.0), 1 day ago) - 🛰 Collection of portable apps for Windows
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220403.1), 1 day ago) - GitHub Actions virtual environments
+- [docker/buildx](https://github.com/docker/buildx) ([v0.8.2](https://github.com/docker/buildx/releases/tag/v0.8.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) ([v1.2.1](https://github.com/crazy-max/ghaction-dump-context/releases/tag/v1.2.1), 1 day ago) - :octocat: GitHub Action composite to dump context
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (1 month ago)
