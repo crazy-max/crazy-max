@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (today)
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (today)
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (today)
-- [portapps/wire-portable](https://github.com/portapps/wire-portable) - 🚀 Wire portable for Windows (today)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (today)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (today)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/handbrake-portable](https://github.com/portapps/handbrake-portable) - 🚀 HandBrake portable for Windows (1 day ago)
+- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.82.0.403-92](https://github.com/portapps/skype-portable/releases/tag/8.82.0.403-92), 1 day ago) - 🚀 Skype portable for Windows 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.5.0](https://github.com/portapps/portapps/releases/tag/v3.5.0), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220403.1), 1 day ago) - GitHub Actions virtual environments
-- [docker/buildx](https://github.com/docker/buildx) ([v0.8.2](https://github.com/docker/buildx/releases/tag/v0.8.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) ([v1.2.1](https://github.com/crazy-max/ghaction-dump-context/releases/tag/v1.2.1), 1 day ago) - :octocat: GitHub Action composite to dump context
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.13.0](https://github.com/crazy-max/xgo/releases/tag/v0.13.0), 1 day ago) - Go CGO cross compiler
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.82.0.403-92](https://github.com/portapps/skype-portable/releases/tag/8.82.0.403-92), 2 days ago) - 🚀 Skype portable for Windows 
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.5.0](https://github.com/portapps/portapps/releases/tag/v3.5.0), 2 days ago) - 🛰 Collection of portable apps for Windows
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220403.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220403.1), 2 days ago) - GitHub Actions virtual environments
+- [docker/buildx](https://github.com/docker/buildx) ([v0.8.2](https://github.com/docker/buildx/releases/tag/v0.8.2), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (1 month ago)
