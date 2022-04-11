@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/signal-portable](https://github.com/portapps/signal-portable) - 🚀 Signal portable for Windows (1 day ago)
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) - 🚀 Insomnia REST Client portable for Windows (1 day ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
+- [portapps/signal-portable](https://github.com/portapps/signal-portable) - 🚀 Signal portable for Windows (2 days ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) ([2022.2.1-26](https://github.com/portapps/insomnia-portable/releases/tag/2022.2.1-26), 1 day ago) - 🚀 Insomnia REST Client portable for Windows
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([91.7.0-43](https://github.com/portapps/stormhen-portable/releases/tag/91.7.0-43), 1 day ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
-- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([5.38.0-7](https://github.com/portapps/signal-portable/releases/tag/5.38.0-7), 1 day ago) - 🚀 Signal portable for Windows
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.4.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.4.1-labs), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/buildx-packaging](https://github.com/docker/buildx-packaging) ([v0.8.2-4](https://github.com/docker/buildx-packaging/releases/tag/v0.8.2-4), 3 days ago) - Linux distro and static packaging for buildx
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([31550-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/31550-r0), 1 day ago) - JetBrains License Server Docker image
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.1), 1 day ago) - Automated nginx proxy for Docker containers using docker-gen
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) ([2022.2.1-26](https://github.com/portapps/insomnia-portable/releases/tag/2022.2.1-26), 2 days ago) - 🚀 Insomnia REST Client portable for Windows
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([91.7.0-43](https://github.com/portapps/stormhen-portable/releases/tag/91.7.0-43), 2 days ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([5.38.0-7](https://github.com/portapps/signal-portable/releases/tag/5.38.0-7), 2 days ago) - 🚀 Signal portable for Windows
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 months ago)
