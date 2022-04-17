@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (4 days ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (4 days ago)
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (5 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) ([v2.1.0](https://github.com/dagger/dagger-for-github/releases/tag/v2.1.0), 2 days ago) - GitHub Action for Dagger
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), 4 days ago) - GitHub Actions virtual environments
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 4 days ago) - A portable devkit for CI/CD pipelines
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([31550-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/31550-r0), 6 days ago) - JetBrains License Server Docker image
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.0.1](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.0.1), 6 days ago) - Automated nginx proxy for Docker containers using docker-gen
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) ([v2.1.0](https://github.com/dagger/dagger-for-github/releases/tag/v2.1.0), 3 days ago) - GitHub Action for Dagger
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), 5 days ago) - GitHub Actions virtual environments
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.6](https://github.com/dagger/dagger/releases/tag/v0.2.6), 5 days ago) - A portable devkit for CI/CD pipelines
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([31550-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/31550-r0), 1 week ago) - JetBrains License Server Docker image
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 months ago)
