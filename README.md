@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (2 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (2 days ago)
+- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 1 day ago) - A portable devkit for CI/CD pipelines
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.10.0](https://github.com/crazy-max/goxx/releases/tag/v0.10.0), 2 days ago) - Go CGO cross-compiler Docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) ([v2.1.0](https://github.com/dagger/dagger-for-github/releases/tag/v2.1.0), 6 days ago) - GitHub Action for Dagger
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220412.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220412.1), 1 week ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220419.2), 1 day ago) - GitHub Actions virtual environments
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.7](https://github.com/dagger/dagger/releases/tag/v0.2.7), 2 days ago) - A portable devkit for CI/CD pipelines
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.10.0](https://github.com/crazy-max/goxx/releases/tag/v0.10.0), 3 days ago) - Go CGO cross-compiler Docker image
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) ([v2.1.0](https://github.com/dagger/dagger-for-github/releases/tag/v2.1.0), 1 week ago) - GitHub Action for Dagger
 
 #### ❤️ Latest sponsors
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 months ago)
