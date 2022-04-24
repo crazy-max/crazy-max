@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (2 days ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (3 days ago)
-- [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests) -  (3 days ago)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (today)
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (1 day ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.24](https://github.com/docker/compose-cli/releases/tag/v1.0.24), 2 days ago) - Easily run your Compose application to the cloud with compose-cli
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.8.3-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.8.3-r0), 2 days ago) - Cross compilation helper for GoReleaser
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.14.0](https://github.com/crazy-max/xgo/releases/tag/v0.14.0), 2 days ago) - Go CGO cross compiler
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220419.2](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220419.2), 3 days ago) - GitHub Actions virtual environments
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v1.2.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v1.2.0), 1 day ago) - :octocat: GitHub Action to check Docker system status in your workflow
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.7.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.7.0), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
+- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.24](https://github.com/docker/compose-cli/releases/tag/v1.0.24), 3 days ago) - Easily run your Compose application to the cloud with compose-cli
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.8.3-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.8.3-r0), 3 days ago) - Cross compilation helper for GoReleaser
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.14.0](https://github.com/crazy-max/xgo/releases/tag/v0.14.0), 3 days ago) - Go CGO cross compiler
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (2 days ago)
+- _Anonymous_ (3 days ago)
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 months ago)
 - _Anonymous_ (2 months ago)
 - [sksat](https://github.com/sksat) (6 months ago)
