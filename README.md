@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (today)
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (1 day ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (today)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (1 day ago)
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v1.2.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v1.2.0), 1 day ago) - :octocat: GitHub Action to check Docker system status in your workflow
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v1.7.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v1.7.0), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
-- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.24](https://github.com/docker/compose-cli/releases/tag/v1.0.24), 3 days ago) - Easily run your Compose application to the cloud with compose-cli
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) ([v1.8.3-r0](https://github.com/crazy-max/goreleaser-xx/releases/tag/v1.8.3-r0), 3 days ago) - Cross compilation helper for GoReleaser
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.14.0](https://github.com/crazy-max/xgo/releases/tag/v0.14.0), 3 days ago) - Go CGO cross compiler
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v1.3.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v1.3.0), 1 day ago) - :octocat: GitHub Action to set up containerd
+- [librenms/docker](https://github.com/librenms/docker) ([22.4.1-r0](https://github.com/librenms/docker/releases/tag/22.4.1-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.4.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.4.0), 1 day ago) - :octocat: GitHub Action to easily import a GPG key
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) ([v2.3.0](https://github.com/crazy-max/ghaction-github-status/releases/tag/v2.3.0), 1 day ago) - :octocat: GitHub Action to check GitHub Status in your workflow
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v1.2.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v1.2.0), 2 days ago) - :octocat: GitHub Action to check Docker system status in your workflow
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (3 days ago)
+- _Anonymous_ (4 days ago)
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 months ago)
 - _Anonymous_ (2 months ago)
 - [sksat](https://github.com/sksat) (6 months ago)
-- [Batuhan Apaydın](https://github.com/developer-guy) (6 months ago)
+- [Batuhan Apaydın](https://github.com/developer-guy) (7 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
