@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (today)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (1 day ago)
-- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v1.3.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v1.3.0), 1 day ago) - :octocat: GitHub Action to set up containerd
-- [librenms/docker](https://github.com/librenms/docker) ([22.4.1-r0](https://github.com/librenms/docker/releases/tag/22.4.1-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.4.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.4.0), 1 day ago) - :octocat: GitHub Action to easily import a GPG key
-- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) ([v2.3.0](https://github.com/crazy-max/ghaction-github-status/releases/tag/v2.3.0), 1 day ago) - :octocat: GitHub Action to check GitHub Status in your workflow
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v1.2.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v1.2.0), 2 days ago) - :octocat: GitHub Action to check Docker system status in your workflow
+- [magefile/mage-action](https://github.com/magefile/mage-action) ([v1.7.0](https://github.com/magefile/mage-action/releases/tag/v1.7.0), 1 day ago) - :octocat: GitHub Action for Mage
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v1.7.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v1.7.0), 1 day ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v1.3.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v1.3.0), 2 days ago) - :octocat: GitHub Action to set up containerd
+- [librenms/docker](https://github.com/librenms/docker) ([22.4.1-r0](https://github.com/librenms/docker/releases/tag/22.4.1-r0), 2 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v4.4.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v4.4.0), 2 days ago) - :octocat: GitHub Action to easily import a GPG key
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (4 days ago)
+- _Anonymous_ (5 days ago)
 - [Anoop Sundaresh](https://github.com/theryecatcher) (2 months ago)
 - _Anonymous_ (2 months ago)
 - [sksat](https://github.com/sksat) (6 months ago)
