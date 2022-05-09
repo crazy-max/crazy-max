@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (today)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux (1 day ago)
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (1 day ago)
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
+- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/ferdi-portable](https://github.com/portapps/ferdi-portable) - 🚀 Ferdi portable for Windows (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image based on Alpine Linux (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.5.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.5.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image based on Alpine Linux
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.11.2-r0](https://github.com/anonaddy/docker/releases/tag/0.11.2-r0), 1 day ago) - AnonAddy Docker image
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.4.2-labs](https://github.com/moby/buildkit/releases/tag/dockerfile%2F1.4.2-labs), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) ([v3.0.0](https://github.com/dagger/dagger-for-github/releases/tag/v3.0.0), 2 days ago) - GitHub Action for Dagger
-- [moby/moby](https://github.com/moby/moby) ([v20.10.15](https://github.com/moby/moby/releases/tag/v20.10.15), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.176-8](https://github.com/portapps/tabby-portable/releases/tag/1.0.176-8), 1 day ago) - 🚀 Tabby portable for Windows 
+- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.10.10-43](https://github.com/portapps/element-portable/releases/tag/1.10.10-43), 1 day ago) - 🚀 Element portable for Windows
+- [portapps/ferdi-portable](https://github.com/portapps/ferdi-portable) ([5.8.1-2](https://github.com/portapps/ferdi-portable/releases/tag/5.8.1-2), 1 day ago) - 🚀 Ferdi portable for Windows
+- [portapps/franz-portable](https://github.com/portapps/franz-portable) ([5.9.1-12](https://github.com/portapps/franz-portable/releases/tag/5.9.1-12), 1 day ago) - 🚀 Franz portable for Windows
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.38.111-81](https://github.com/portapps/brave-portable/releases/tag/1.38.111-81), 1 day ago) - 🚀 Brave web browser portable for Windows
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
