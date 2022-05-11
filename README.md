@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (2 days ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image based on Alpine Linux and Nginx (2 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
-- [portapps/ferdi-portable](https://github.com/portapps/ferdi-portable) - 🚀 Ferdi portable for Windows (2 days ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (3 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220508.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220508.1), 1 day ago) - GitHub Actions virtual environments
-- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.176-8](https://github.com/portapps/tabby-portable/releases/tag/1.0.176-8), 2 days ago) - 🚀 Tabby portable for Windows 
-- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.10.10-43](https://github.com/portapps/element-portable/releases/tag/1.10.10-43), 2 days ago) - 🚀 Element portable for Windows
-- [portapps/ferdi-portable](https://github.com/portapps/ferdi-portable) ([5.8.1-2](https://github.com/portapps/ferdi-portable/releases/tag/5.8.1-2), 2 days ago) - 🚀 Ferdi portable for Windows
-- [portapps/franz-portable](https://github.com/portapps/franz-portable) ([5.9.1-12](https://github.com/portapps/franz-portable/releases/tag/5.9.1-12), 2 days ago) - 🚀 Franz portable for Windows
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 1 day ago) - A portable devkit for CI/CD pipelines
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220509.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220509.1), 1 day ago) - GitHub Actions virtual environments
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.176-8](https://github.com/portapps/tabby-portable/releases/tag/1.0.176-8), 3 days ago) - 🚀 Tabby portable for Windows 
+- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.10.10-43](https://github.com/portapps/element-portable/releases/tag/1.10.10-43), 3 days ago) - 🚀 Element portable for Windows
+- [portapps/ferdi-portable](https://github.com/portapps/ferdi-portable) ([5.8.1-2](https://github.com/portapps/ferdi-portable/releases/tag/5.8.1-2), 3 days ago) - 🚀 Ferdi portable for Windows
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
