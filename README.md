@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
 - [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
-- [portapps/ferdi-portable](https://github.com/portapps/ferdi-portable) - 🚀 Ferdi portable for Windows (5 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v20.10.16](https://github.com/moby/moby/releases/tag/v20.10.16), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220511.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220511.2), 1 day ago) - GitHub Actions virtual environments
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.2](https://github.com/opencontainers/runc/releases/tag/v1.1.2), 2 days ago) - CLI tool for spawning and running containers according to the OCI specification
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 3 days ago) - A portable devkit for CI/CD pipelines
-- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.176-8](https://github.com/portapps/tabby-portable/releases/tag/1.0.176-8), 5 days ago) - 🚀 Tabby portable for Windows 
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.16-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.16-r0), 1 day ago) - Docker in Docker (DinD) image
+- [moby/moby](https://github.com/moby/moby) ([v20.10.16](https://github.com/moby/moby/releases/tag/v20.10.16), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220511.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220511.2), 2 days ago) - GitHub Actions virtual environments
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.2](https://github.com/opencontainers/runc/releases/tag/v1.1.2), 3 days ago) - CLI tool for spawning and running containers according to the OCI specification
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.10](https://github.com/dagger/dagger/releases/tag/v0.2.10), 4 days ago) - A portable devkit for CI/CD pipelines
 
 #### ❤️ Latest sponsors
-- [Fredrik](https://github.com/fredrikscode) (2 days ago)
+- [Fredrik](https://github.com/fredrikscode) (3 days ago)
 - _Anonymous_ (3 weeks ago)
 - [Anoop Sundaresh](https://github.com/theryecatcher) (3 months ago)
 - _Anonymous_ (3 months ago)
