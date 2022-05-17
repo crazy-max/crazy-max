@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (today)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (6 days ago)
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (today)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (today)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (today)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (today)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r5-r0), 1 day ago) - RRDcached Docker image based on Alpine Linux
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.0.1-r1](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.0.1-r1), 1 day ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.16-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.16-r0), 3 days ago) - Docker in Docker (DinD) image
-- [moby/moby](https://github.com/moby/moby) ([v20.10.16](https://github.com/moby/moby/releases/tag/v20.10.16), 4 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220511.2](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220511.2), 4 days ago) - GitHub Actions virtual environments
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220515.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220515.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ([4.39.0](https://github.com/crazy-max/WindowsSpyBlocker/releases/tag/4.39.0), 1 day ago) - Block spying and tracking on Windows
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r5-r0), 2 days ago) - RRDcached Docker image based on Alpine Linux
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.0.1-r1](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.0.1-r1), 2 days ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.16-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.16-r0), 4 days ago) - Docker in Docker (DinD) image
 
 #### ❤️ Latest sponsors
-- [Fredrik](https://github.com/fredrikscode) (5 days ago)
+- [Fredrik](https://github.com/fredrikscode) (6 days ago)
 - _Anonymous_ (3 weeks ago)
 - [Anoop Sundaresh](https://github.com/theryecatcher) (3 months ago)
 - _Anonymous_ (3 months ago)
