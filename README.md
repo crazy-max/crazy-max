@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - :octocat: GitHub Action to check GitHub Status in your workflow (today)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (today)
-- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (today)
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (today)
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (today)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (1 day ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220515.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220515.1), 1 day ago) - GitHub Actions virtual environments
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ([4.39.0](https://github.com/crazy-max/WindowsSpyBlocker/releases/tag/4.39.0), 1 day ago) - Block spying and tracking on Windows
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r5-r0), 2 days ago) - RRDcached Docker image based on Alpine Linux
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.0.1-r1](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.0.1-r1), 2 days ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([20.10.16-r0](https://github.com/crazy-max/docker-docker/releases/tag/20.10.16-r0), 4 days ago) - Docker in Docker (DinD) image
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.16.0](https://github.com/crazy-max/xgo/releases/tag/v0.16.0), 1 day ago) - Go CGO cross compiler
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.11.0](https://github.com/crazy-max/goxx/releases/tag/v0.11.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220515.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220515.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ([4.39.0](https://github.com/crazy-max/WindowsSpyBlocker/releases/tag/4.39.0), 2 days ago) - Block spying and tracking on Windows
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r5-r0), 3 days ago) - RRDcached Docker image based on Alpine Linux
 
 #### ❤️ Latest sponsors
-- [Fredrik](https://github.com/fredrikscode) (6 days ago)
+- [Fredrik](https://github.com/fredrikscode) (1 week ago)
 - _Anonymous_ (3 weeks ago)
 - [Anoop Sundaresh](https://github.com/theryecatcher) (3 months ago)
 - _Anonymous_ (3 months ago)
-- [sksat](https://github.com/sksat) (6 months ago)
+- [sksat](https://github.com/sksat) (7 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
