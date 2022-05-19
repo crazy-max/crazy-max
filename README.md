@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to easily import a GPG key (1 day ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 day ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (2 days ago)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.16.0](https://github.com/crazy-max/xgo/releases/tag/v0.16.0), 1 day ago) - Go CGO cross compiler
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.11.0](https://github.com/crazy-max/goxx/releases/tag/v0.11.0), 1 day ago) - Go CGO cross-compiler Docker image
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win22/20220515.1](https://github.com/actions/virtual-environments/releases/tag/win22%2F20220515.1), 1 day ago) - GitHub Actions virtual environments
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ([4.39.0](https://github.com/crazy-max/WindowsSpyBlocker/releases/tag/4.39.0), 2 days ago) - Block spying and tracking on Windows
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.7.2-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.7.2-r5-r0), 3 days ago) - RRDcached Docker image based on Alpine Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220517.4](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220517.4), 1 day ago) - GitHub Actions virtual environments
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.11](https://github.com/dagger/dagger/releases/tag/v0.2.11), 1 day ago) - A portable devkit for CI/CD pipelines
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.16.0](https://github.com/crazy-max/xgo/releases/tag/v0.16.0), 2 days ago) - Go CGO cross compiler
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.11.0](https://github.com/crazy-max/goxx/releases/tag/v0.11.0), 2 days ago) - Go CGO cross-compiler Docker image
 
 #### ❤️ Latest sponsors
 - [Fredrik](https://github.com/fredrikscode) (1 week ago)
-- _Anonymous_ (3 weeks ago)
+- _Anonymous_ (4 weeks ago)
 - [Anoop Sundaresh](https://github.com/theryecatcher) (3 months ago)
 - _Anonymous_ (3 months ago)
 - [sksat](https://github.com/sksat) (7 months ago)
