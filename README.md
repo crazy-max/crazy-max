@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (today)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (3 days ago)
-- [crazy-max/goreleaser-xx](https://github.com/crazy-max/goreleaser-xx) - Cross compilation helper for GoReleaser (4 days ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (today)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - 🚀 IntelliJ IDEA Ultimate portable for Windows  (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v3.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v3.0.0), today) - GitHub Action for GoReleaser
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-11/20220517.4](https://github.com/actions/virtual-environments/releases/tag/macOS-11%2F20220517.4), 4 days ago) - GitHub Actions virtual environments
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.11](https://github.com/dagger/dagger/releases/tag/v0.2.11), 4 days ago) - A portable devkit for CI/CD pipelines
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.16.0](https://github.com/crazy-max/xgo/releases/tag/v0.16.0), 5 days ago) - Go CGO cross compiler
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.10.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.10.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([7.20.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/7.20.0-r0), 1 day ago) - GitHub Linguist Docker image
+- [crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan) ([1.27.0-r0](https://github.com/crazy-max/docker-shodan/releases/tag/1.27.0-r0), 1 day ago) - Shodan Docker image
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2022.1.1-37](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2022.1.1-37), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2022.1.1-51](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2022.1.1-51), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
 
 #### ❤️ Latest sponsors
 - [Fredrik](https://github.com/fredrikscode) (1 week ago)
