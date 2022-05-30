@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (2 days ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (2 days ago)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (today)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (2 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (2 days ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/docker](https://github.com/librenms/docker) ([22.5.0-r0](https://github.com/librenms/docker/releases/tag/22.5.0-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.10.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.10.1-r0), 3 days ago) - Matomo (formerly Piwik) Docker image
-- [magefile/mage-action](https://github.com/magefile/mage-action) ([v2.0.0](https://github.com/magefile/mage-action/releases/tag/v2.0.0), 3 days ago) - :octocat: GitHub Action for Mage
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.0.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.0.0), 3 days ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
+- [librenms/docker](https://github.com/librenms/docker) ([22.5.0-r0](https://github.com/librenms/docker/releases/tag/22.5.0-r0), 2 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.10.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.10.1-r0), 4 days ago) - Matomo (formerly Piwik) Docker image
+- [magefile/mage-action](https://github.com/magefile/mage-action) ([v2.0.0](https://github.com/magefile/mage-action/releases/tag/v2.0.0), 4 days ago) - :octocat: GitHub Action for Mage
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.0.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.0.0), 4 days ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
 
 #### ❤️ Latest sponsors
 - [Fredrik](https://github.com/fredrikscode) (2 weeks ago)
