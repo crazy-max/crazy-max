@@ -2,30 +2,30 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (3 days ago)
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (3 days ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (3 days ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (4 days ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (4 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [crazy-max/docker-cli-bench](https://github.com/crazy-max/docker-cli-bench)
 - [crazy-max/twitch-demo-gha](https://github.com/crazy-max/twitch-demo-gha) - Twitch demo GitHub Actions
 - [crazy-max/buildx-buildkit-tests](https://github.com/crazy-max/buildx-buildkit-tests)
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
 - [crazy-max/buildkit-nofrontend](https://github.com/crazy-max/buildkit-nofrontend)
-- [crazy-max/docker-zig](https://github.com/crazy-max/docker-zig)
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/docker](https://github.com/librenms/docker) ([22.5.0-r0](https://github.com/librenms/docker/releases/tag/22.5.0-r0), 3 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.10.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.10.1-r0), 5 days ago) - Matomo (formerly Piwik) Docker image
-- [magefile/mage-action](https://github.com/magefile/mage-action) ([v2.0.0](https://github.com/magefile/mage-action/releases/tag/v2.0.0), 5 days ago) - :octocat: GitHub Action for Mage
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.0.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.0.0), 5 days ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220529.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220529.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.0.1-r2](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.0.1-r2), 1 day ago) - Alpine Linux with s6 overlay
+- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.25](https://github.com/docker/compose-cli/releases/tag/v1.0.25), 1 day ago) - Easily run your Compose application to the cloud with compose-cli
+- [librenms/docker](https://github.com/librenms/docker) ([22.5.0-r0](https://github.com/librenms/docker/releases/tag/22.5.0-r0), 4 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
-- [Fredrik](https://github.com/fredrikscode) (2 weeks ago)
+- [Fredrik](https://github.com/fredrikscode) (3 weeks ago)
 - _Anonymous_ (1 month ago)
 - _Anonymous_ (4 months ago)
 - [sksat](https://github.com/sksat) (7 months ago)
