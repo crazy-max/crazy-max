@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
 - [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (3 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [portapps/mirc-portable](https://github.com/portapps/mirc-portable) - 🚀 mIRC portable for Windows (1 day ago)
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([24.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/24.0.1-r0), 1 day ago) - Nextcloud Docker image
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.12.0](https://github.com/crazy-max/goxx/releases/tag/v0.12.0), 1 day ago) - Go CGO cross-compiler Docker image
-- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) ([v0.2.0](https://github.com/crazy-max/gotestlist/releases/tag/v0.2.0), 1 day ago) - List tests in the given Go packages
-- [moby/moby](https://github.com/moby/moby) ([v22.06.0-beta.0](https://github.com/moby/moby/releases/tag/v22.06.0-beta.0), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.15](https://github.com/dagger/dagger/releases/tag/v0.2.15), 3 days ago) - A portable devkit for CI/CD pipelines
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.83.0.409-93](https://github.com/portapps/skype-portable/releases/tag/8.83.0.409-93), 1 day ago) - 🚀 Skype portable for Windows 
+- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) ([3.8.7-24](https://github.com/portapps/rocketchat-portable/releases/tag/3.8.7-24), 1 day ago) - 🚀 Rocket.Chat portable for Windows 
+- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) ([3.6.5-19](https://github.com/portapps/wireshark-portable/releases/tag/3.6.5-19), 1 day ago) - 🚀 Wireshark portable for Windows
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([4.1.2.1-28](https://github.com/portapps/waterfox-portable/releases/tag/4.1.2.1-28), 1 day ago) - 🚀 Waterfox portable for Windows 
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([21.2.3-30](https://github.com/portapps/smartgit-portable/releases/tag/21.2.3-30), 1 day ago) - 🚀 SmartGit portable for Windows 
 
 #### ❤️ Latest sponsors
 - [Fredrik](https://github.com/fredrikscode) (3 weeks ago)
