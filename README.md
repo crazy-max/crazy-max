@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure Qemu support (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (3 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (3 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (3 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220606.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220606.1), 2 days ago) - GitHub Actions virtual environments
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.17](https://github.com/dagger/dagger/releases/tag/v0.2.17), 2 days ago) - A portable devkit for CI/CD pipelines
-- [moby/moby](https://github.com/moby/moby) ([v20.10.17](https://github.com/moby/moby/releases/tag/v20.10.17), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.83.0.409-93](https://github.com/portapps/skype-portable/releases/tag/8.83.0.409-93), 4 days ago) - 🚀 Skype portable for Windows 
-- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) ([3.8.7-24](https://github.com/portapps/rocketchat-portable/releases/tag/3.8.7-24), 4 days ago) - 🚀 Rocket.Chat portable for Windows 
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.18](https://github.com/dagger/dagger/releases/tag/v0.2.18), 1 day ago) - A portable devkit for CI/CD pipelines
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220605.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220605.1), 1 day ago) - GitHub Actions virtual environments
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.3](https://github.com/opencontainers/runc/releases/tag/v1.1.3), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
+- [moby/moby](https://github.com/moby/moby) ([v20.10.17](https://github.com/moby/moby/releases/tag/v20.10.17), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.83.0.409-93](https://github.com/portapps/skype-portable/releases/tag/8.83.0.409-93), 5 days ago) - 🚀 Skype portable for Windows 
 
 #### ❤️ Latest sponsors
-- [Fredrik](https://github.com/fredrikscode) (4 weeks ago)
+- [Fredrik](https://github.com/fredrikscode) (1 month ago)
 - _Anonymous_ (1 month ago)
 - _Anonymous_ (4 months ago)
 - [sksat](https://github.com/sksat) (7 months ago)
