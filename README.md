@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (today)
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 day ago)
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (2 days ago)
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (2 days ago)
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (2 days ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220612.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220612.1), 1 day ago) - GitHub Actions virtual environments
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0), 1 day ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.6.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.6.0), 2 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.18](https://github.com/dagger/dagger/releases/tag/v0.2.18), 5 days ago) - A portable devkit for CI/CD pipelines
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.3](https://github.com/opencontainers/runc/releases/tag/v1.1.3), 5 days ago) - CLI tool for spawning and running containers according to the OCI specification
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 1 day ago) - A portable devkit for CI/CD pipelines
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0), 2 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.6.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.6.0), 3 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-12/20220605.1](https://github.com/actions/virtual-environments/releases/tag/macOS-12%2F20220605.1), 6 days ago) - GitHub Actions virtual environments
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.3](https://github.com/opencontainers/runc/releases/tag/v1.1.3), 6 days ago) - CLI tool for spawning and running containers according to the OCI specification
 
 #### ❤️ Latest sponsors
 - [Fredrik](https://github.com/fredrikscode) (1 month ago)
