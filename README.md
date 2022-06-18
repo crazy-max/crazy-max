@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (3 days ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (3 days ago)
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (4 days ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (5 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220615.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220615.1), 1 day ago) - GitHub Actions virtual environments
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 3 days ago) - A portable devkit for CI/CD pipelines
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0), 4 days ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) ([v1.6.0](https://github.com/crazy-max/artifactory-cleanup/releases/tag/v1.6.0), 5 days ago) - Cleanup artifacts on Jfrog Artifactory with advanced settings
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.3](https://github.com/opencontainers/runc/releases/tag/v1.1.3), 1 week ago) - CLI tool for spawning and running containers according to the OCI specification
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.15.7-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.15.7-r0), 1 day ago) - Samba Docker image
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) ([17.04-r0](https://github.com/crazy-max/docker-7zip/releases/tag/17.04-r0), 1 day ago) - 7-Zip Docker image
+- [librenms/docker](https://github.com/librenms/docker) ([22.6.0-r0](https://github.com/librenms/docker/releases/tag/22.6.0-r0), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220615.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220615.1), 2 days ago) - GitHub Actions virtual environments
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.19](https://github.com/dagger/dagger/releases/tag/v0.2.19), 4 days ago) - A portable devkit for CI/CD pipelines
 
 #### ❤️ Latest sponsors
 - [Fredrik](https://github.com/fredrikscode) (1 month ago)
