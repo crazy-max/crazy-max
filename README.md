@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (2 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (3 days ago)
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (3 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (2 days ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (3 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (4 days ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.0-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.0-r0), 1 day ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.15.7-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.15.7-r0), 4 days ago) - Samba Docker image
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) ([17.04-r0](https://github.com/crazy-max/docker-7zip/releases/tag/17.04-r0), 4 days ago) - 7-Zip Docker image
-- [librenms/docker](https://github.com/librenms/docker) ([22.6.0-r0](https://github.com/librenms/docker/releases/tag/22.6.0-r0), 4 days ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220615.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220615.1), 5 days ago) - GitHub Actions virtual environments
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.20](https://github.com/dagger/dagger/releases/tag/v0.2.20), 1 day ago) - A portable devkit for CI/CD pipelines
+- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([ubuntu18/20220619.1](https://github.com/actions/virtual-environments/releases/tag/ubuntu18%2F20220619.1), 1 day ago) - GitHub Actions virtual environments
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.0-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.0-r0), 2 days ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.15.7-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.15.7-r0), 5 days ago) - Samba Docker image
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) ([17.04-r0](https://github.com/crazy-max/docker-7zip/releases/tag/17.04-r0), 5 days ago) - 7-Zip Docker image
 
 #### ❤️ Latest sponsors
 - [Fredrik](https://github.com/fredrikscode) (1 month ago)
