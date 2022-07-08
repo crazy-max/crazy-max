@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI (1 week ago)
 - [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 week ago)
 - [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 week ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.21](https://github.com/dagger/dagger/releases/tag/v0.2.21), 1 week ago) - A portable devkit for CI/CD pipelines
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.22](https://github.com/dagger/dagger/releases/tag/v0.2.22), 1 day ago) - A portable devkit for CI/CD pipelines
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220627.1), 1 week ago) - GitHub Actions virtual environments
 - [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) ([v3.1.0](https://github.com/crazy-max/ghaction-virustotal/releases/tag/v3.1.0), 1 week ago) - :octocat: GitHub Action to upload and scan files with VirusTotal
 - [docker/bake-action](https://github.com/docker/bake-action) ([v2.1.0](https://github.com/docker/bake-action/releases/tag/v2.1.0), 1 week ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 
 #### ❤️ Latest sponsors
-- [GitHub](https://github.com/github) (1 week ago)
+- [GitHub](https://github.com/github) (2 weeks ago)
 - [Fredrik](https://github.com/fredrikscode) (1 month ago)
 - _Anonymous_ (2 months ago)
 - _Anonymous_ (5 months ago)
