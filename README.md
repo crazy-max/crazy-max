@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (4 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 week ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (2 weeks ago)
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (2 weeks ago)
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.22](https://github.com/dagger/dagger/releases/tag/v0.2.22), 4 days ago) - A portable devkit for CI/CD pipelines
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([macOS-10.15/20220627.1](https://github.com/actions/virtual-environments/releases/tag/macOS-10.15%2F20220627.1), 1 week ago) - GitHub Actions virtual environments
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) ([v3.1.0](https://github.com/crazy-max/ghaction-virustotal/releases/tag/v3.1.0), 2 weeks ago) - :octocat: GitHub Action to upload and scan files with VirusTotal
-- [docker/bake-action](https://github.com/docker/bake-action) ([v2.1.0](https://github.com/docker/bake-action/releases/tag/v2.1.0), 2 weeks ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.19.0](https://github.com/crazy-max/yasu/releases/tag/v1.19.0), 1 day ago) - Yet Another Switch User
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([24.0.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/24.0.2-r0), 1 day ago) - Nextcloud Docker image
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.2-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.2-r0), 1 day ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.7.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.7.1-r0), 1 day ago) - Cloudflared proxy-dns Docker image
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.23](https://github.com/dagger/dagger/releases/tag/v0.2.23), 1 day ago) - A portable devkit for CI/CD pipelines
 
 #### ❤️ Latest sponsors
 - [GitHub](https://github.com/github) (2 weeks ago)
