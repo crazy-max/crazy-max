@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (2 days ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (2 days ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (2 days ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (2 days ago)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (today)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.19.0](https://github.com/crazy-max/yasu/releases/tag/v1.19.0), 2 days ago) - Yet Another Switch User
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([24.0.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/24.0.2-r0), 2 days ago) - Nextcloud Docker image
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.2-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.2-r0), 2 days ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.7.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.7.1-r0), 2 days ago) - Cloudflared proxy-dns Docker image
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.23](https://github.com/dagger/dagger/releases/tag/v0.2.23), 2 days ago) - A portable devkit for CI/CD pipelines
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.12.2-r0](https://github.com/anonaddy/docker/releases/tag/0.12.2-r0), 1 day ago) - AnonAddy Docker image
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.5.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.5.0), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.19.0](https://github.com/crazy-max/yasu/releases/tag/v1.19.0), 3 days ago) - Yet Another Switch User
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([24.0.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/24.0.2-r0), 3 days ago) - Nextcloud Docker image
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.2-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.2-r0), 3 days ago) - Alpine Linux with s6 overlay
 
 #### ❤️ Latest sponsors
 - [GitHub](https://github.com/github) (2 weeks ago)
