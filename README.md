@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (1 day ago)
+- [portapps/mirc-portable](https://github.com/portapps/mirc-portable) - 🚀 mIRC portable for Windows (1 day ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
+- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) - 🚀 Rocket.Chat portable for Windows  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.13.0](https://github.com/crazy-max/goxx/releases/tag/v0.13.0), 1 day ago) - Go CGO cross-compiler Docker image
-- [librenms/docker](https://github.com/librenms/docker) ([22.6.0-r1](https://github.com/librenms/docker/releases/tag/22.6.0-r1), 1 day ago) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.12.2-r0](https://github.com/anonaddy/docker/releases/tag/0.12.2-r0), 2 days ago) - AnonAddy Docker image
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.5.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.5.0), 2 days ago) - Utilities to generate (reference) documentation for the docker CLI
-- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.19.0](https://github.com/crazy-max/yasu/releases/tag/v1.19.0), 4 days ago) - Yet Another Switch User
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.12.3-r0](https://github.com/anonaddy/docker/releases/tag/0.12.3-r0), 1 day ago) - AnonAddy Docker image
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([103.0.5060.114-15](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/103.0.5060.114-15), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([9.22.2-53](https://github.com/portapps/postman-portable/releases/tag/9.22.2-53), 1 day ago) - 🚀 Postman portable for Windows
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.6.10-10](https://github.com/portapps/cryptomator-portable/releases/tag/1.6.10-10), 1 day ago) - 🚀 Cryptomator portable for Windows
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1015-19](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1015-19), 1 day ago) - 🚀 Discord PTB portable for Windows
 
 #### ❤️ Latest sponsors
 - [GitHub](https://github.com/github) (3 weeks ago)
