@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (1 day ago)
-- [portapps/mirc-portable](https://github.com/portapps/mirc-portable) - 🚀 mIRC portable for Windows (1 day ago)
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
-- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) - 🚀 Rocket.Chat portable for Windows  (1 day ago)
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.12.3-r0](https://github.com/anonaddy/docker/releases/tag/0.12.3-r0), 1 day ago) - AnonAddy Docker image
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([103.0.5060.114-15](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/103.0.5060.114-15), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([9.22.2-53](https://github.com/portapps/postman-portable/releases/tag/9.22.2-53), 1 day ago) - 🚀 Postman portable for Windows
-- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.6.10-10](https://github.com/portapps/cryptomator-portable/releases/tag/1.6.10-10), 1 day ago) - 🚀 Cryptomator portable for Windows
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1015-19](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1015-19), 1 day ago) - 🚀 Discord PTB portable for Windows
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.6.0](https://github.com/crazy-max/gonfig/releases/tag/v0.6.0), 1 day ago) - Lightweight config handling for Go
+- [crazy-max/git-rewrite-author](https://github.com/crazy-max/git-rewrite-author) ([1.4.0](https://github.com/crazy-max/git-rewrite-author/releases/tag/1.4.0), 1 day ago) - Rewrite authors / commiters history of a git repository with ease
+- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) ([v1.9.0](https://github.com/crazy-max/echo-ipfilter/releases/tag/v1.9.0), 1 day ago) - Middleware that provides ipfilter support for echo framework
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.1.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.1.0), 1 day ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.19.0](https://github.com/crazy-max/xgo/releases/tag/v0.19.0), 1 day ago) - Go CGO cross compiler
 
 #### ❤️ Latest sponsors
+- [Baptiste Canton](https://github.com/batmac) (1 day ago)
 - [GitHub](https://github.com/github) (3 weeks ago)
 - [Fredrik](https://github.com/fredrikscode) (2 months ago)
 - _Anonymous_ (2 months ago)
 - _Anonymous_ (5 months ago)
-- [sksat](https://github.com/sksat) (8 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
