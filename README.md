@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (today)
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220717.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220717.1), 1 day ago) - GitHub Actions virtual environments
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.7.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.7.0), 2 days ago) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.22.0](https://github.com/crazy-max/diun/releases/tag/v4.22.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ([v1.11.0](https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.11.0), 2 days ago) - Create jobs on a time-based schedule on Docker Swarm
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.6.0](https://github.com/crazy-max/gonfig/releases/tag/v0.6.0), 3 days ago) - Lightweight config handling for Go
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([32800-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/32800-r0), 1 day ago) - JetBrains License Server Docker image
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.12.3-r1](https://github.com/anonaddy/docker/releases/tag/0.12.3-r1), 1 day ago) - AnonAddy Docker image
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.24](https://github.com/dagger/dagger/releases/tag/v0.2.24), 1 day ago) - A portable devkit for CI/CD pipelines
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v3.1.0](https://github.com/docker/build-push-action/releases/tag/v3.1.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/bake-action](https://github.com/docker/bake-action) ([v2.2.0](https://github.com/docker/bake-action/releases/tag/v2.2.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 
 #### ❤️ Latest sponsors
-- [Baptiste Canton](https://github.com/batmac) (3 days ago)
+- [Baptiste Canton](https://github.com/batmac) (4 days ago)
 - [GitHub](https://github.com/github) (3 weeks ago)
 - [Fredrik](https://github.com/fredrikscode) (2 months ago)
-- _Anonymous_ (2 months ago)
+- _Anonymous_ (3 months ago)
 - _Anonymous_ (5 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
