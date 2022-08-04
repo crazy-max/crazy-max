@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (3 days ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (5 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.15.0](https://github.com/crazy-max/goxx/releases/tag/v0.15.0), 1 day ago) - Go CGO cross-compiler Docker image
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v7.0.0-29](https://github.com/tonistiigi/binfmt/releases/tag/buildkit%2Fv7.0.0-29), 1 day ago) - Cross-platform emulator collection distributed with Docker images.
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.13.4-r0](https://github.com/anonaddy/docker/releases/tag/0.13.4-r0), 1 day ago) - AnonAddy Docker image
-- [actions/virtual-environments](https://github.com/actions/virtual-environments) ([win19/20220801.1](https://github.com/actions/virtual-environments/releases/tag/win19%2F20220801.1), 1 day ago) - GitHub Actions virtual environments
-- [docker/buildx](https://github.com/docker/buildx) ([v0.9.0-rc1](https://github.com/docker/buildx/releases/tag/v0.9.0-rc1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.21.0](https://github.com/crazy-max/xgo/releases/tag/v0.21.0), 1 day ago) - Go CGO cross compiler
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.28](https://github.com/dagger/dagger/releases/tag/v0.2.28), 1 day ago) - A portable devkit for CI/CD pipelines
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.15.0](https://github.com/crazy-max/goxx/releases/tag/v0.15.0), 2 days ago) - Go CGO cross-compiler Docker image
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v7.0.0-29](https://github.com/tonistiigi/binfmt/releases/tag/buildkit%2Fv7.0.0-29), 2 days ago) - Cross-platform emulator collection distributed with Docker images.
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.13.4-r0](https://github.com/anonaddy/docker/releases/tag/0.13.4-r0), 2 days ago) - AnonAddy Docker image
 
 #### ❤️ Latest sponsors
 - [Baptiste Canton](https://github.com/batmac) (2 weeks ago)
