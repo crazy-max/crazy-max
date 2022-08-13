@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (3 days ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (5 days ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (5 days ago)
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 week ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (today)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (today)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (today)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.9.0-rc2](https://github.com/docker/buildx/releases/tag/v0.9.0-rc2), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-12/20220809.1](https://github.com/actions/runner-images/releases/tag/macOS-12%2F20220809.1), 3 days ago) - GitHub Actions runner images
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.11.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.11.0-r0), 5 days ago) - Matomo (formerly Piwik) Docker image
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v3.1.1](https://github.com/docker/build-push-action/releases/tag/v3.1.1), 1 week ago) - GitHub Action to build and push Docker images with Buildx
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.21.0](https://github.com/crazy-max/xgo/releases/tag/v0.21.0), 1 week ago) - Go CGO cross compiler
+- [librenms/docker](https://github.com/librenms/docker) ([22.7.0-r1](https://github.com/librenms/docker/releases/tag/22.7.0-r1), today) - LibreNMS Docker image based on Alpine Linux and Nginx
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.8.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.8.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.22-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.22-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.29](https://github.com/dagger/dagger/releases/tag/v0.2.29), 1 day ago) - A portable devkit for CI/CD pipelines
+- [docker/buildx](https://github.com/docker/buildx) ([v0.9.0-rc2](https://github.com/docker/buildx/releases/tag/v0.9.0-rc2), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
-- [Baptiste Canton](https://github.com/batmac) (3 weeks ago)
+- [Baptiste Canton](https://github.com/batmac) (4 weeks ago)
 - [Fredrik](https://github.com/fredrikscode) (3 months ago)
 - _Anonymous_ (3 months ago)
 - _Anonymous_ (6 months ago)
