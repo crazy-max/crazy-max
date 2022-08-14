@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (today)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (today)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image based on Alpine Linux and Nginx (today)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/docker](https://github.com/librenms/docker) ([22.7.0-r1](https://github.com/librenms/docker/releases/tag/22.7.0-r1), today) - LibreNMS Docker image based on Alpine Linux and Nginx
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2022.8.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2022.8.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.22-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.22-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.29](https://github.com/dagger/dagger/releases/tag/v0.2.29), 1 day ago) - A portable devkit for CI/CD pipelines
-- [docker/buildx](https://github.com/docker/buildx) ([v0.9.0-rc2](https://github.com/docker/buildx/releases/tag/v0.9.0-rc2), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2022.2-38](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2022.2-38), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2022.2-52](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2022.2-52), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1017-20](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1017-20), 1 day ago) - 🚀 Discord PTB portable for Windows
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9006-13](https://github.com/portapps/discord-portable/releases/tag/1.0.9006-13), 1 day ago) - 🚀 Discord portable for Windows
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([9.27.0-54](https://github.com/portapps/postman-portable/releases/tag/9.27.0-54), 1 day ago) - 🚀 Postman portable for Windows
 
 #### ❤️ Latest sponsors
 - [Baptiste Canton](https://github.com/batmac) (4 weeks ago)
