@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (2 days ago)
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image (2 days ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (2 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.4.0-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.4.0-r0), 1 day ago) - Flarum Docker image
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.13.5-r0](https://github.com/anonaddy/docker/releases/tag/0.13.5-r0), 1 day ago) - AnonAddy Docker image
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([7.22.1-r0](https://github.com/crazy-max/docker-linguist/releases/tag/7.22.1-r0), 1 day ago) - GitHub Linguist Docker image
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.16.2-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.16.2-r0), 1 day ago) - Unbound Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([24.0.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/24.0.4-r0), 1 day ago) - Nextcloud Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.9.0](https://github.com/docker/buildx/releases/tag/v0.9.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.30](https://github.com/dagger/dagger/releases/tag/v0.2.30), 1 day ago) - A portable devkit for CI/CD pipelines
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220815.3](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220815.3), 1 day ago) - GitHub Actions runner images
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0), 1 day ago) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.4.0-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.4.0-r0), 2 days ago) - Flarum Docker image
 
 #### ❤️ Latest sponsors
 - [Baptiste Canton](https://github.com/batmac) (1 month ago)
