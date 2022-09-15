@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/rocketchat-portable](https://github.com/portapps/rocketchat-portable) - 🚀 Rocket.Chat portable for Windows  (2 days ago)
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (2 days ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (3 days ago)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 1 day ago) - A portable devkit for CI/CD pipelines
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.7.0-beta.2](https://github.com/docker/docker-credential-helpers/releases/tag/v0.7.0-beta.2), 1 day ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu22/20220912.1](https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20220912.1), 1 day ago) - GitHub Actions runner images
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.22.0](https://github.com/crazy-max/xgo/releases/tag/v0.22.0), 2 days ago) - Go CGO cross compiler
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.43.89-84](https://github.com/portapps/brave-portable/releases/tag/1.43.89-84), 3 days ago) - 🚀 Brave web browser portable for Windows
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-11/20220912.1](https://github.com/actions/runner-images/releases/tag/macOS-11%2F20220912.1), 1 day ago) - GitHub Actions runner images
+- [docker/compose](https://github.com/docker/compose) ([v2.11.0](https://github.com/docker/compose/releases/tag/v2.11.0), 1 day ago) - Define and run multi-container applications with Docker
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 2 days ago) - A portable devkit for CI/CD pipelines
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.7.0-beta.2](https://github.com/docker/docker-credential-helpers/releases/tag/v0.7.0-beta.2), 2 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.22.0](https://github.com/crazy-max/xgo/releases/tag/v0.22.0), 3 days ago) - Go CGO cross compiler
 
 #### ❤️ Latest sponsors
 - [Sean Barlow](https://github.com/woolrab6) (1 week ago)
