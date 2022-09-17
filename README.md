@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (4 days ago)
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (4 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20220912.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20220912.1), 1 day ago) - GitHub Actions runner images
-- [docker/compose](https://github.com/docker/compose) ([v2.11.0](https://github.com/docker/compose/releases/tag/v2.11.0), 2 days ago) - Define and run multi-container applications with Docker
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 3 days ago) - A portable devkit for CI/CD pipelines
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.7.0-beta.2](https://github.com/docker/docker-credential-helpers/releases/tag/v0.7.0-beta.2), 3 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.22.0](https://github.com/crazy-max/xgo/releases/tag/v0.22.0), 4 days ago) - Go CGO cross compiler
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [actions/runner-images](https://github.com/actions/runner-images) ([macOS-10.15/20220912.1](https://github.com/actions/runner-images/releases/tag/macOS-10.15%2F20220912.1), 2 days ago) - GitHub Actions runner images
+- [docker/compose](https://github.com/docker/compose) ([v2.11.0](https://github.com/docker/compose/releases/tag/v2.11.0), 3 days ago) - Define and run multi-container applications with Docker
+- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 4 days ago) - A portable devkit for CI/CD pipelines
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.7.0-beta.2](https://github.com/docker/docker-credential-helpers/releases/tag/v0.7.0-beta.2), 4 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
 
 #### ❤️ Latest sponsors
 - [Sean Barlow](https://github.com/woolrab6) (1 week ago)
