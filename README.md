@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (6 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (6 days ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
 - [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,9 +18,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [actions/runner-images](https://github.com/actions/runner-images) ([win19/20220918.1](https://github.com/actions/runner-images/releases/tag/win19%2F20220918.1), 1 day ago) - GitHub Actions runner images
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [docker/compose](https://github.com/docker/compose) ([v2.11.0](https://github.com/docker/compose/releases/tag/v2.11.0), 6 days ago) - Define and run multi-container applications with Docker
+- [docker/compose](https://github.com/docker/compose) ([v2.11.1](https://github.com/docker/compose/releases/tag/v2.11.1), 1 day ago) - Define and run multi-container applications with Docker
+- [actions/runner-images](https://github.com/actions/runner-images) ([win22/20220919.1](https://github.com/actions/runner-images/releases/tag/win22%2F20220919.1), 1 day ago) - GitHub Actions runner images
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.34](https://github.com/dagger/dagger/releases/tag/v0.2.34), 1 week ago) - A portable devkit for CI/CD pipelines
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.7.0-beta.2](https://github.com/docker/docker-credential-helpers/releases/tag/v0.7.0-beta.2), 1 week ago) - Programs to keep Docker login credentials safe by storing in platform keystores
 
