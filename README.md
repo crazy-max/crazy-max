@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [moby/mobywebsite](https://github.com/moby/mobywebsite) - website for the moby project (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (apk, deb, rpm, static) (1 day ago)
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dagger/dagger](https://github.com/dagger/dagger) ([v0.2.36](https://github.com/dagger/dagger/releases/tag/v0.2.36), 1 day ago) - A portable devkit for CI/CD pipelines
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.23.0](https://github.com/crazy-max/xgo/releases/tag/v0.23.0), 6 days ago) - Go CGO cross compiler
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.17.0](https://github.com/crazy-max/goxx/releases/tag/v0.17.0), 1 week ago) - Go CGO cross-compiler Docker image
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.12.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.12.0-r0), 1 week ago) - Matomo (formerly Piwik) Docker image
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.0.1-r0](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.0.1-r0), 1 week ago) - Fail2ban Docker image
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v2.1.0](https://github.com/docker/setup-qemu-action/releases/tag/v2.1.0), 1 day ago) - GitHub Action to configure QEMU support
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v2.1.0](https://github.com/docker/setup-buildx-action/releases/tag/v2.1.0), 1 day ago) - GitHub Action to set up Docker Buildx
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v3.2.0](https://github.com/docker/build-push-action/releases/tag/v3.2.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/login-action](https://github.com/docker/login-action) ([v2.1.0](https://github.com/docker/login-action/releases/tag/v2.1.0), 1 day ago) - GitHub Action to login against a Docker registry
+- [docker/bake-action](https://github.com/docker/bake-action) ([v2.3.0](https://github.com/docker/bake-action/releases/tag/v2.3.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 
 #### ❤️ Latest sponsors
 - [Sean Barlow](https://github.com/woolrab6) (1 month ago)
