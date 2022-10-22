@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (1 day ago)
-- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (2 days ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (2 days ago)
+- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [magefile/mage-action](https://github.com/magefile/mage-action) ([v2.1.0](https://github.com/magefile/mage-action/releases/tag/v2.1.0), 1 day ago) - :octocat: GitHub Action for Mage
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.2.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.2.0), 1 day ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) ([v3.2.0](https://github.com/crazy-max/ghaction-virustotal/releases/tag/v3.2.0), 1 day ago) - :octocat: GitHub Action to upload and scan files with VirusTotal
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) ([v2.1.0](https://github.com/crazy-max/ghaction-upx/releases/tag/v2.1.0), 1 day ago) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
+- [docker/compose](https://github.com/docker/compose) ([v2.12.2](https://github.com/docker/compose/releases/tag/v2.12.2), 1 day ago) - Define and run multi-container applications with Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [magefile/mage-action](https://github.com/magefile/mage-action) ([v2.1.0](https://github.com/magefile/mage-action/releases/tag/v2.1.0), 2 days ago) - :octocat: GitHub Action for Mage
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.2.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.2.0), 2 days ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) ([v3.2.0](https://github.com/crazy-max/ghaction-virustotal/releases/tag/v3.2.0), 2 days ago) - :octocat: GitHub Action to upload and scan files with VirusTotal
 
 #### ❤️ Latest sponsors
 - [Sean Barlow](https://github.com/woolrab6) (1 month ago)
