@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (2 days ago)
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (2 days ago)
-- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose](https://github.com/docker/compose) ([v2.12.2](https://github.com/docker/compose/releases/tag/v2.12.2), 1 day ago) - Define and run multi-container applications with Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [magefile/mage-action](https://github.com/magefile/mage-action) ([v2.1.0](https://github.com/magefile/mage-action/releases/tag/v2.1.0), 2 days ago) - :octocat: GitHub Action for Mage
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.2.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.2.0), 2 days ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) ([v3.2.0](https://github.com/crazy-max/ghaction-virustotal/releases/tag/v3.2.0), 2 days ago) - :octocat: GitHub Action to upload and scan files with VirusTotal
+- [librenms/docker](https://github.com/librenms/docker) ([22.10.0-r0](https://github.com/librenms/docker/releases/tag/22.10.0-r0), 1 day ago) - LibreNMS Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.12.2](https://github.com/docker/compose/releases/tag/v2.12.2), 2 days ago) - Define and run multi-container applications with Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [magefile/mage-action](https://github.com/magefile/mage-action) ([v2.1.0](https://github.com/magefile/mage-action/releases/tag/v2.1.0), 3 days ago) - :octocat: GitHub Action for Mage
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v2.2.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v2.2.0), 3 days ago) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler
 
 #### ❤️ Latest sponsors
 - [Sean Barlow](https://github.com/woolrab6) (1 month ago)
