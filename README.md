@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (2 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (5 days ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (5 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (apk, deb, rpm, static) (1 day ago)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,16 +18,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose](https://github.com/docker/compose) ([v2.14.0](https://github.com/docker/compose/releases/tag/v2.14.0), 2 days ago) - Define and run multi-container applications with Docker
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.2.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.2.1), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.16.7-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.16.7-r0), 1 day ago) - Samba Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.14.0](https://github.com/docker/compose/releases/tag/v2.14.0), 3 days ago) - Define and run multi-container applications with Docker
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.2.1](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.2.1), 4 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [librenms/docker](https://github.com/librenms/docker) ([22.11.0-r0](https://github.com/librenms/docker/releases/tag/22.11.0-r0), 1 week ago) - LibreNMS Docker image
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.12.3-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.12.3-r0), 1 week ago) - Matomo (formerly Piwik) Docker image
 
 #### ❤️ Latest sponsors
-- [Sean M. Collins](https://github.com/sc68cal) (1 week ago)
-- [MishManners®™](https://github.com/mishmanners) (2 weeks ago)
-- [Sean Barlow](https://github.com/woolrab6) (2 months ago)
+- [Sean M. Collins](https://github.com/sc68cal) (2 weeks ago)
+- [MishManners®™](https://github.com/mishmanners) (3 weeks ago)
+- [Sean Barlow](https://github.com/woolrab6) (3 months ago)
 - [Baptiste Canton](https://github.com/batmac) (4 months ago)
 - [Fredrik](https://github.com/fredrikscode) (6 months ago)
 
