@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (3 days ago)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 week ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (1 day ago)
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.2-r2](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.2-r2), 1 day ago) - Alpine Linux with s6 overlay
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.23.1](https://github.com/crazy-max/diun/releases/tag/v4.23.1), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [moby/moby](https://github.com/moby/moby) ([v23.0.0-rc.1](https://github.com/moby/moby/releases/tag/v23.0.0-rc.1), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.16.8-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.16.8-r0), 1 week ago) - Samba Docker image
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.13.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.13.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([7.24.1-r0](https://github.com/crazy-max/docker-linguist/releases/tag/7.24.1-r0), 1 day ago) - GitHub Linguist Docker image
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) ([33965-r0](https://github.com/crazy-max/docker-jetbrains-license-server/releases/tag/33965-r0), 1 day ago) - JetBrains License Server Docker image
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.24.0](https://github.com/crazy-max/diun/releases/tag/v4.24.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.5.1](https://github.com/docker/cli-docs-tool/releases/tag/v0.5.1), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
 
 #### ❤️ Latest sponsors
-- [Vladimir Mikhalev](https://github.com/heyValdemar) (1 week ago)
+- [Vladimir Mikhalev](https://github.com/heyValdemar) (2 weeks ago)
 - [Sean Barlow](https://github.com/woolrab6) (3 months ago)
 - [Baptiste Canton](https://github.com/batmac) (5 months ago)
 - [Fredrik](https://github.com/fredrikscode) (7 months ago)
