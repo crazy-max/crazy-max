@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (apk, deb, rpm, static) (1 day ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to import a GPG key (1 day ago)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - :octocat: GitHub Action to manage labels on GitHub (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r23](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r23), 1 day ago) - rTorrent and ruTorrent Docker image
-- [docker/buildx](https://github.com/docker/buildx) ([v0.10.0-rc3](https://github.com/docker/buildx/releases/tag/v0.10.0-rc3), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.11.0-rc4](https://github.com/moby/buildkit/releases/tag/v0.11.0-rc4), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/compose](https://github.com/docker/compose) ([v2.15.0](https://github.com/docker/compose/releases/tag/v2.15.0), 3 days ago) - Define and run multi-container applications with Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.24.0](https://github.com/crazy-max/xgo/releases/tag/v0.24.0), 1 day ago) - Go CGO cross compiler
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.19.0](https://github.com/crazy-max/goxx/releases/tag/v0.19.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([3.10-0.9.8-0.13.8-r23](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/3.10-0.9.8-0.13.8-r23), 2 days ago) - rTorrent and ruTorrent Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.10.0-rc3](https://github.com/docker/buildx/releases/tag/v0.10.0-rc3), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.11.0-rc4](https://github.com/moby/buildkit/releases/tag/v0.11.0-rc4), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
-- [Martin Braun](https://github.com/s4ke) (4 days ago)
+- [Martin Braun](https://github.com/s4ke) (5 days ago)
 - [Sebastian K](https://github.com/skrollme) (1 week ago)
 - [Vladimir Mikhalev](https://github.com/heyValdemar) (3 weeks ago)
 - [Sean Barlow](https://github.com/woolrab6) (4 months ago)
