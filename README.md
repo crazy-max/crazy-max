@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (2 days ago)
-- [portapps/franz-portable](https://github.com/portapps/franz-portable) - 🚀 Franz portable for Windows (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) - 🚀 Tabby portable for Windows  (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.5.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.5.1-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([22.1.2-32](https://github.com/portapps/smartgit-portable/releases/tag/22.1.2-32), 2 days ago) - 🚀 SmartGit portable for Windows 
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([10.8.0-56](https://github.com/portapps/postman-portable/releases/tag/10.8.0-56), 2 days ago) - 🚀 Postman portable for Windows
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.47.171-85](https://github.com/portapps/brave-portable/releases/tag/1.47.171-85), 2 days ago) - 🚀 Brave web browser portable for Windows
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.7.0](https://github.com/portapps/portapps/releases/tag/v3.7.0), 2 days ago) - 🛰 Collection of portable apps for Windows
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.5.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.5.1-labs), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([22.1.2-32](https://github.com/portapps/smartgit-portable/releases/tag/22.1.2-32), 3 days ago) - 🚀 SmartGit portable for Windows 
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([10.8.0-56](https://github.com/portapps/postman-portable/releases/tag/10.8.0-56), 3 days ago) - 🚀 Postman portable for Windows
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.47.171-85](https://github.com/portapps/brave-portable/releases/tag/1.47.171-85), 3 days ago) - 🚀 Brave web browser portable for Windows
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.7.0](https://github.com/portapps/portapps/releases/tag/v3.7.0), 3 days ago) - 🛰 Collection of portable apps for Windows
 
 #### ❤️ Latest sponsors
 - [Martin Braun](https://github.com/s4ke) (2 weeks ago)
