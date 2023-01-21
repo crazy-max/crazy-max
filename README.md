@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (3 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v20.10.23](https://github.com/moby/moby/releases/tag/v20.10.23), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.5.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.5.1-labs), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([22.1.2-32](https://github.com/portapps/smartgit-portable/releases/tag/22.1.2-32), 4 days ago) - 🚀 SmartGit portable for Windows 
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([10.8.0-56](https://github.com/portapps/postman-portable/releases/tag/10.8.0-56), 4 days ago) - 🚀 Postman portable for Windows
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.47.171-85](https://github.com/portapps/brave-portable/releases/tag/1.47.171-85), 4 days ago) - 🚀 Brave web browser portable for Windows
+- [moby/moby](https://github.com/moby/moby) ([v23.0.0-rc.3](https://github.com/moby/moby/releases/tag/v23.0.0-rc.3), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.5.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.5.1-labs), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([22.1.2-32](https://github.com/portapps/smartgit-portable/releases/tag/22.1.2-32), 5 days ago) - 🚀 SmartGit portable for Windows 
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([10.8.0-56](https://github.com/portapps/postman-portable/releases/tag/10.8.0-56), 5 days ago) - 🚀 Postman portable for Windows
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.47.171-85](https://github.com/portapps/brave-portable/releases/tag/1.47.171-85), 5 days ago) - 🚀 Brave web browser portable for Windows
 
 #### ❤️ Latest sponsors
 - [Martin Braun](https://github.com/s4ke) (2 weeks ago)
