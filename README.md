@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) ([v0.3.1](https://github.com/crazy-max/gotestlist/releases/tag/v0.3.1), 1 day ago) - List tests in the given Go packages
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.1.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.1.0), 1 day ago) - BuildKit Syft scanner
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v2.4.1](https://github.com/docker/setup-buildx-action/releases/tag/v2.4.1), 2 days ago) - GitHub Action to set up Docker Buildx
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.0.1-0.9.8-0.13.8-r1](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.0.1-0.9.8-0.13.8-r1), 3 days ago) - rTorrent and ruTorrent Docker image
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.3](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.3), 1 day ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [docker/compose](https://github.com/docker/compose) ([v2.16.0](https://github.com/docker/compose/releases/tag/v2.16.0), 1 day ago) - Define and run multi-container applications with Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) ([v0.3.1](https://github.com/crazy-max/gotestlist/releases/tag/v0.3.1), 2 days ago) - List tests in the given Go packages
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.1.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.1.0), 2 days ago) - BuildKit Syft scanner
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
