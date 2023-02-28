@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (3 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (2 days ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.0.15](https://github.com/squidfunk/mkdocs-material/releases/tag/9.0.15), 1 day ago) - Documentation that simply works
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.5](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.5), 3 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.13.3-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.13.3-r0), 5 days ago) - Matomo (formerly Piwik) Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.17.0-rc.1](https://github.com/docker/compose/releases/tag/v2.17.0-rc.1), 1 day ago) - Define and run multi-container applications with Docker
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.0.15](https://github.com/squidfunk/mkdocs-material/releases/tag/9.0.15), 2 days ago) - Documentation that simply works
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.5](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.5), 4 days ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.13.3-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.13.3-r0), 6 days ago) - Matomo (formerly Piwik) Docker image
 - [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.0.2-0.9.8-0.13.8-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.0.2-0.9.8-0.13.8-r0), 1 week ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.26.0](https://github.com/crazy-max/xgo/releases/tag/v0.26.0), 1 week ago) - Go CGO cross compiler
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 weeks ago)
