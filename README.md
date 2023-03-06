@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - :octocat: GitHub Action to set up Docker CE (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (3 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - :octocat: GitHub Action to set up Docker CE (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,9 +18,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) ([v1.0.0](https://github.com/crazy-max/ghaction-setup-docker/releases/tag/v1.0.0), 3 days ago) - :octocat: GitHub Action to set up Docker CE
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.0](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.0), 3 days ago) - Documentation that simply works
-- [docker/compose](https://github.com/docker/compose) ([v2.17.0-rc.1](https://github.com/docker/compose/releases/tag/v2.17.0-rc.1), 6 days ago) - Define and run multi-container applications with Docker
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.1](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.1), 1 day ago) - Documentation that simply works
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) ([v1.0.0](https://github.com/crazy-max/ghaction-setup-docker/releases/tag/v1.0.0), 4 days ago) - :octocat: GitHub Action to set up Docker CE
+- [docker/compose](https://github.com/docker/compose) ([v2.17.0-rc.1](https://github.com/docker/compose/releases/tag/v2.17.0-rc.1), 1 week ago) - Define and run multi-container applications with Docker
 - [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.3.5](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.3.5), 1 week ago) - A programmable CI/CD engine that runs your pipelines in containers
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.13.3-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.13.3-r0), 1 week ago) - Matomo (formerly Piwik) Docker image
 
