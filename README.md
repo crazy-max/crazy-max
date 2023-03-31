@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
-- [crazy-max/docker-cli-bench](https://github.com/crazy-max/docker-cli-bench) -  (2 days ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (apk, deb, rpm, static) (today)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.5](https://github.com/opencontainers/runc/releases/tag/v1.1.5), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
-- [moby/moby](https://github.com/moby/moby) ([v23.0.2](https://github.com/moby/moby/releases/tag/v23.0.2), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.2-r3](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.2-r3), 3 days ago) - Alpine Linux with s6 overlay
-- [docker/compose](https://github.com/docker/compose) ([v2.17.2](https://github.com/docker/compose/releases/tag/v2.17.2), 4 days ago) - Define and run multi-container applications with Docker
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.14.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.14.0-r0), 4 days ago) - Matomo (formerly Piwik) Docker image
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.5](https://github.com/opencontainers/runc/releases/tag/v1.1.5), 2 days ago) - CLI tool for spawning and running containers according to the OCI specification
+- [moby/moby](https://github.com/moby/moby) ([v23.0.2](https://github.com/moby/moby/releases/tag/v23.0.2), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.1.2-r3](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.1.2-r3), 4 days ago) - Alpine Linux with s6 overlay
+- [docker/compose](https://github.com/docker/compose) ([v2.17.2](https://github.com/docker/compose/releases/tag/v2.17.2), 5 days ago) - Define and run multi-container applications with Docker
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.14.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.14.0-r0), 5 days ago) - Matomo (formerly Piwik) Docker image
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
