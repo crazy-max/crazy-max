@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (5 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (5 days ago)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (6 days ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (apk, deb, rpm, static) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.6](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.6), 1 day ago) - Documentation that simply works
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/nodejs/v0.5.0](https://github.com/dagger/dagger/releases/tag/sdk/nodejs/v0.5.0), 1 day ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [moby/moby](https://github.com/moby/moby) ([v23.0.3](https://github.com/moby/moby/releases/tag/v23.0.3), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2023.1-39](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2023.1-39), 6 days ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2023.1-53](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2023.1-53), 6 days ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.22.0](https://github.com/crazy-max/goxx/releases/tag/v0.22.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([23.0.3-r0](https://github.com/crazy-max/docker-docker/releases/tag/23.0.3-r0), 1 day ago) - Docker in Docker (DinD) image
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/python/v0.5.1](https://github.com/dagger/dagger/releases/tag/sdk/python/v0.5.1), 1 day ago) - A programmable CI/CD engine that runs your pipelines in containers
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.6](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.6), 2 days ago) - Documentation that simply works
+- [moby/moby](https://github.com/moby/moby) ([v23.0.3](https://github.com/moby/moby/releases/tag/v23.0.3), 4 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (1 month ago)
