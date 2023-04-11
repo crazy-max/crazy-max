@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.27.0](https://github.com/crazy-max/xgo/releases/tag/v0.27.0), 1 day ago) - Go CGO cross compiler
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.22.0](https://github.com/crazy-max/goxx/releases/tag/v0.22.0), 2 days ago) - Go CGO cross-compiler Docker image
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([23.0.3-r0](https://github.com/crazy-max/docker-docker/releases/tag/23.0.3-r0), 2 days ago) - Docker in Docker (DinD) image
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/python/v0.5.1](https://github.com/dagger/dagger/releases/tag/sdk/python/v0.5.1), 2 days ago) - A programmable CI/CD engine that runs your pipelines in containers
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.6](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.6), 3 days ago) - Documentation that simply works
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.0.4-0.9.8-0.13.8-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.0.4-0.9.8-0.13.8-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.7.1-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.7.1-r0), 1 day ago) - Flarum Docker image
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2023.3.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2023.3.1-r0), 1 day ago) - Cloudflared proxy-dns Docker image
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.14.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.14.1-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
