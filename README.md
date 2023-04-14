@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-cli-bench](https://github.com/crazy-max/docker-cli-bench) -  (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 days ago)
+- [crazy-max/docker-cli-bench](https://github.com/crazy-max/docker-cli-bench) -  (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (3 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.6](https://github.com/opencontainers/runc/releases/tag/v1.1.6), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.1.0](https://github.com/docker/actions-toolkit/releases/tag/v0.1.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.0.4-0.9.8-0.13.8-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.0.4-0.9.8-0.13.8-r0), 3 days ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.7.1-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.7.1-r0), 3 days ago) - Flarum Docker image
+- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.32](https://github.com/docker/compose-cli/releases/tag/v1.0.32), 1 day ago) - Easily run your Compose application to the cloud with compose-cli
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.6](https://github.com/opencontainers/runc/releases/tag/v1.1.6), 2 days ago) - CLI tool for spawning and running containers according to the OCI specification
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.1.0](https://github.com/docker/actions-toolkit/releases/tag/v0.1.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.0.4-0.9.8-0.13.8-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.0.4-0.9.8-0.13.8-r0), 4 days ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
