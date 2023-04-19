@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 day ago)
 - [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v23.0.4](https://github.com/moby/moby/releases/tag/v23.0.4), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.32](https://github.com/docker/compose-cli/releases/tag/v1.0.32), 5 days ago) - Easily run your Compose application to the cloud with compose-cli
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.6](https://github.com/opencontainers/runc/releases/tag/v1.1.6), 6 days ago) - CLI tool for spawning and running containers according to the OCI specification
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.1.0](https://github.com/docker/actions-toolkit/releases/tag/v0.1.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.2.0](https://github.com/docker/actions-toolkit/releases/tag/v0.2.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.2.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.2.0), 1 day ago) - BuildKit Syft scanner
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v4.4.0](https://github.com/docker/metadata-action/releases/tag/v4.4.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/bake-action](https://github.com/docker/bake-action) ([v3.0.0](https://github.com/docker/bake-action/releases/tag/v3.0.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
