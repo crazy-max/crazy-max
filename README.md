@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 week ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 week ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 week ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v23.0.5](https://github.com/moby/moby/releases/tag/v23.0.5), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.8](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.8), 3 days ago) - Documentation that simply works
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.1.3-0.9.8-0.13.8-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.1.3-0.9.8-0.13.8-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.7](https://github.com/opencontainers/runc/releases/tag/v1.1.7), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
+- [moby/moby](https://github.com/moby/moby) ([v23.0.5](https://github.com/moby/moby/releases/tag/v23.0.5), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.8](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.8), 4 days ago) - Documentation that simply works
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.11.6](https://github.com/moby/buildkit/releases/tag/v0.11.6), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/compose](https://github.com/docker/compose) ([v2.17.3](https://github.com/docker/compose/releases/tag/v2.17.3), 1 week ago) - Define and run multi-container applications with Docker
-- [docker/bake-action](https://github.com/docker/bake-action) ([v3.0.1](https://github.com/docker/bake-action/releases/tag/v3.0.1), 1 week ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
