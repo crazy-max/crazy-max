@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows (today)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (today)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([23.0.5-r0](https://github.com/crazy-max/docker-docker/releases/tag/23.0.5-r0), 1 day ago) - Docker in Docker (DinD) image
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.14.1-r0](https://github.com/anonaddy/docker/releases/tag/0.14.1-r0), 1 day ago) - AnonAddy Docker image
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.4.2-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.4.2-r0), 1 day ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.23-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.23-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.9](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.9), 1 day ago) - Documentation that simply works
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v2.2.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v2.2.0), 1 day ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([26.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/26.0.1-r0), 1 day ago) - Nextcloud Docker image
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) ([v2.3.0](https://github.com/crazy-max/ghaction-upx/releases/tag/v2.3.0), 1 day ago) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([23.0.5-r0](https://github.com/crazy-max/docker-docker/releases/tag/23.0.5-r0), 2 days ago) - Docker in Docker (DinD) image
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.14.1-r0](https://github.com/anonaddy/docker/releases/tag/0.14.1-r0), 2 days ago) - AnonAddy Docker image
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
