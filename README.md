@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (today)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
+- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
+- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,16 +18,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2023-04-04-r1](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2023-04-04-r1), 1 day ago) - DokuWiki Docker image
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v2.2.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v2.2.0), 2 days ago) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([26.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/26.0.1-r0), 2 days ago) - Nextcloud Docker image
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) ([v2.3.0](https://github.com/crazy-max/ghaction-upx/releases/tag/v2.3.0), 2 days ago) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([23.0.5-r0](https://github.com/crazy-max/docker-docker/releases/tag/23.0.5-r0), 3 days ago) - Docker in Docker (DinD) image
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.7.1](https://github.com/crazy-max/gonfig/releases/tag/v0.7.1), 1 day ago) - Lightweight config handling for Go
+- [crazy-max/gohealthchecks](https://github.com/crazy-max/gohealthchecks) ([v0.4.1](https://github.com/crazy-max/gohealthchecks/releases/tag/v0.4.1), 1 day ago) - Go client library for accessing the Healthchecks API
+- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) ([v1.10.0](https://github.com/crazy-max/echo-ipfilter/releases/tag/v1.10.0), 1 day ago) - Middleware that provides ipfilter support for echo framework
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.18.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2023-04-04-r1](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2023-04-04-r1), 2 days ago) - DokuWiki Docker image
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
 - [Baptiste Canton](https://github.com/batmac) (9 months ago)
-- [Fredrik](https://github.com/fredrikscode) (11 months ago)
+- [Fredrik](https://github.com/fredrikscode) (1 year ago)
 - _Anonymous_ (1 year ago)
 - _Anonymous_ (1 year ago)
 
