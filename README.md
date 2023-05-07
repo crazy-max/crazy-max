@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (1 day ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
-- [crazy-max/artifactory-cleanup](https://github.com/crazy-max/artifactory-cleanup) - Cleanup artifacts on Jfrog Artifactory with advanced settings (1 day ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (today)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to import a GPG key (1 day ago)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (1 day ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.7.1](https://github.com/crazy-max/gonfig/releases/tag/v0.7.1), 1 day ago) - Lightweight config handling for Go
-- [crazy-max/gohealthchecks](https://github.com/crazy-max/gohealthchecks) ([v0.4.1](https://github.com/crazy-max/gohealthchecks/releases/tag/v0.4.1), 1 day ago) - Go client library for accessing the Healthchecks API
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) ([v1.10.0](https://github.com/crazy-max/echo-ipfilter/releases/tag/v1.10.0), 1 day ago) - Middleware that provides ipfilter support for echo framework
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.18.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2023-04-04-r1](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2023-04-04-r1), 2 days ago) - DokuWiki Docker image
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) ([v2.3.0](https://github.com/crazy-max/ghaction-hugo/releases/tag/v2.3.0), 1 day ago) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v2.2.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v2.2.0), 1 day ago) - :octocat: GitHub Action to check Docker system status in your workflow
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v5.3.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v5.3.0), 1 day ago) - :octocat: GitHub Action to import a GPG key
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) ([v3.2.0](https://github.com/crazy-max/ghaction-github-status/releases/tag/v3.2.0), 1 day ago) - :octocat: GitHub Action to check GitHub Status in your workflow
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) ([v2.2.0](https://github.com/crazy-max/ghaction-github-runtime/releases/tag/v2.2.0), 1 day ago) - :octocat: GitHub Action to expose GitHub runtime to the workflow
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (2 months ago)
