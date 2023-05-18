@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (6 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (6 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (today)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.13](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.13), 1 day ago) - Documentation that simply works
-- [moby/moby](https://github.com/moby/moby) ([v24.0.0](https://github.com/moby/moby/releases/tag/v24.0.0), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/compose](https://github.com/docker/compose) ([v2.18.0](https://github.com/docker/compose/releases/tag/v2.18.0), 1 day ago) - Define and run multi-container applications with Docker
-- [docker/buildx](https://github.com/docker/buildx) ([v0.11.0-rc1](https://github.com/docker/buildx/releases/tag/v0.11.0-rc1), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [distribution/distribution](https://github.com/distribution/distribution) ([v2.8.2](https://github.com/distribution/distribution/releases/tag/v2.8.2), 6 days ago) - The toolkit to pack, ship, store, and deliver container content
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.18.2-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.18.2-r0), 1 day ago) - Samba Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.1.5-0.9.8-0.13.8-r1](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.1.5-0.9.8-0.13.8-r1), 1 day ago) - rTorrent and ruTorrent Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.18.1](https://github.com/docker/compose/releases/tag/v2.18.1), 1 day ago) - Define and run multi-container applications with Docker
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.13](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.13), 2 days ago) - Documentation that simply works
+- [moby/moby](https://github.com/moby/moby) ([v24.0.0](https://github.com/moby/moby/releases/tag/v24.0.0), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (3 months ago)
