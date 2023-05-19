@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (today)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.18.2-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.18.2-r0), 1 day ago) - Samba Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.1.5-0.9.8-0.13.8-r1](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.1.5-0.9.8-0.13.8-r1), 1 day ago) - rTorrent and ruTorrent Docker image
-- [docker/compose](https://github.com/docker/compose) ([v2.18.1](https://github.com/docker/compose/releases/tag/v2.18.1), 1 day ago) - Define and run multi-container applications with Docker
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.13](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.13), 2 days ago) - Documentation that simply works
-- [moby/moby](https://github.com/moby/moby) ([v24.0.0](https://github.com/moby/moby/releases/tag/v24.0.0), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.33](https://github.com/docker/compose-cli/releases/tag/v1.0.33), 1 day ago) - Easily run your Compose application to the cloud with compose-cli
+- [crazy-max/csgo-server-launcher](https://github.com/crazy-max/csgo-server-launcher) ([v1.17.0](https://github.com/crazy-max/csgo-server-launcher/releases/tag/v1.17.0), 1 day ago) - Counter-Strike Global Offensive Dedicated Server Launcher
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.18.2-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.18.2-r0), 2 days ago) - Samba Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.1.5-0.9.8-0.13.8-r1](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.1.5-0.9.8-0.13.8-r1), 2 days ago) - rTorrent and ruTorrent Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.18.1](https://github.com/docker/compose/releases/tag/v2.18.1), 2 days ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (3 months ago)
