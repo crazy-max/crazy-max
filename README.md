@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/csgo-server-launcher](https://github.com/crazy-max/csgo-server-launcher) - Counter-Strike Global Offensive Dedicated Server Launcher (6 days ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (6 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (2 days ago)
+- [crazy-max/csgo-server-launcher](https://github.com/crazy-max/csgo-server-launcher) - Counter-Strike Global Offensive Dedicated Server Launcher (1 week ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.10.5](https://github.com/docker/buildx/releases/tag/v0.10.5), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.14](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.14), 4 days ago) - Documentation that simply works
-- [moby/moby](https://github.com/moby/moby) ([v24.0.1](https://github.com/moby/moby/releases/tag/v24.0.1), 5 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.33](https://github.com/docker/compose-cli/releases/tag/v1.0.33), 6 days ago) - Easily run your Compose application to the cloud with compose-cli
-- [crazy-max/csgo-server-launcher](https://github.com/crazy-max/csgo-server-launcher) ([v1.17.0](https://github.com/crazy-max/csgo-server-launcher/releases/tag/v1.17.0), 6 days ago) - Counter-Strike Global Offensive Dedicated Server Launcher
+- [docker/buildx](https://github.com/docker/buildx) ([v0.10.5](https://github.com/docker/buildx/releases/tag/v0.10.5), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.14](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.14), 5 days ago) - Documentation that simply works
+- [moby/moby](https://github.com/moby/moby) ([v24.0.1](https://github.com/moby/moby/releases/tag/v24.0.1), 6 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.33](https://github.com/docker/compose-cli/releases/tag/v1.0.33), 1 week ago) - Easily run your Compose application to the cloud with compose-cli
+- [crazy-max/csgo-server-launcher](https://github.com/crazy-max/csgo-server-launcher) ([v1.17.0](https://github.com/crazy-max/csgo-server-launcher/releases/tag/v1.17.0), 1 week ago) - Counter-Strike Global Offensive Dedicated Server Launcher
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (3 months ago)
