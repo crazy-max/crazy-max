@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (today)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (today)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.23.0](https://github.com/crazy-max/goxx/releases/tag/v0.23.0), 1 day ago) - Go CGO cross-compiler Docker image
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2023.5.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2023.5.1-r0), 1 day ago) - Cloudflared proxy-dns Docker image
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([13.1-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/13.1-r0), 2 days ago) - MacOSX cross toolchain as Docker image
-- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.34](https://github.com/docker/compose-cli/releases/tag/v1.0.34), 5 days ago) - Easily run your Compose application to the cloud with compose-cli
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.15](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.15), 1 week ago) - Documentation that simply works
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v2.2.0](https://github.com/docker/setup-qemu-action/releases/tag/v2.2.0), 1 day ago) - GitHub Action to install QEMU static binaries
+- [docker/buildx](https://github.com/docker/buildx) ([v0.11.0-rc2](https://github.com/docker/buildx/releases/tag/v0.11.0-rc2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v4.5.0](https://github.com/docker/metadata-action/releases/tag/v4.5.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v2.6.0](https://github.com/docker/setup-buildx-action/releases/tag/v2.6.0), 1 day ago) - GitHub Action to set up Docker Buildx
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.3.0](https://github.com/docker/actions-toolkit/releases/tag/v0.3.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (3 months ago)
