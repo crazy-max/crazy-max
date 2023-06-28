@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to import a GPG key (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.17](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.17), 4 days ago) - Documentation that simply works
-- [docker/compose](https://github.com/docker/compose) ([v2.19.0](https://github.com/docker/compose/releases/tag/v2.19.0), 6 days ago) - Define and run multi-container applications with Docker
-- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.35](https://github.com/docker/compose-cli/releases/tag/v1.0.35), 6 days ago) - Easily run your Compose application to the cloud with compose-cli
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.6.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.6.0), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.17](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.17), 5 days ago) - Documentation that simply works
+- [docker/compose](https://github.com/docker/compose) ([v2.19.0](https://github.com/docker/compose/releases/tag/v2.19.0), 1 week ago) - Define and run multi-container applications with Docker
+- [docker/compose-cli](https://github.com/docker/compose-cli) ([v1.0.35](https://github.com/docker/compose-cli/releases/tag/v1.0.35), 1 week ago) - Easily run your Compose application to the cloud with compose-cli
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r0), 1 week ago) - Flarum Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([27.0.0-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/27.0.0-r0), 1 week ago) - Nextcloud Docker image
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (4 months ago)
