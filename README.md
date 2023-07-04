@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (today)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (today)
-- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (today)
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (today)
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) - 🚀 ueli portable for Windows (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.8.0](https://github.com/portapps/portapps/releases/tag/v3.8.0), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.5.0](https://github.com/crazy-max/undock/releases/tag/v0.5.0), 1 day ago) - Extract contents of a container image in a local folder
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.18.3-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.18.3-r0), 1 day ago) - Samba Docker image
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.12.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.12.0-rc1), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/compose](https://github.com/docker/compose) ([v2.19.1](https://github.com/docker/compose/releases/tag/v2.19.1), 4 days ago) - Define and run multi-container applications with Docker
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2023.1.3-40](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2023.1.3-40), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2023.1.3-54](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2023.1.3-54), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) ([2023.3.0-27](https://github.com/portapps/insomnia-portable/releases/tag/2023.3.0-27), 1 day ago) - 🚀 Insomnia REST Client portable for Windows
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.24.0-8](https://github.com/portapps/ueli-portable/releases/tag/8.24.0-8), 1 day ago) - 🚀 ueli portable for Windows
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.197-10](https://github.com/portapps/tabby-portable/releases/tag/1.0.197-10), 1 day ago) - 🚀 Tabby portable for Windows 
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (4 months ago)
