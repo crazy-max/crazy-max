@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (3 days ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (3 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.11.1](https://github.com/docker/buildx/releases/tag/v0.11.1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2023.1.3-40](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2023.1.3-40), 3 days ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2023.1.3-54](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2023.1.3-54), 3 days ago) - 🚀 IntelliJ IDEA Community portable for Windows
-- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) ([2023.3.0-27](https://github.com/portapps/insomnia-portable/releases/tag/2023.3.0-27), 3 days ago) - 🚀 Insomnia REST Client portable for Windows
-- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.24.0-8](https://github.com/portapps/ueli-portable/releases/tag/8.24.0-8), 3 days ago) - 🚀 ueli portable for Windows
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.7.0](https://github.com/docker/actions-toolkit/releases/tag/v0.7.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [moby/moby](https://github.com/moby/moby) ([v24.0.3](https://github.com/moby/moby/releases/tag/v24.0.3), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.0b0](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.0b0), 1 day ago) - Documentation that simply works
+- [docker/buildx](https://github.com/docker/buildx) ([v0.11.1](https://github.com/docker/buildx/releases/tag/v0.11.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2023.1.3-40](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2023.1.3-40), 4 days ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (4 months ago)
