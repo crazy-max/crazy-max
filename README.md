@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.7.0](https://github.com/docker/actions-toolkit/releases/tag/v0.7.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [moby/moby](https://github.com/moby/moby) ([v24.0.3](https://github.com/moby/moby/releases/tag/v24.0.3), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.0b0](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.0b0), 1 day ago) - Documentation that simply works
-- [docker/buildx](https://github.com/docker/buildx) ([v0.11.1](https://github.com/docker/buildx/releases/tag/v0.11.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2023.1.3-40](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2023.1.3-40), 4 days ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [moby/moby](https://github.com/moby/moby) ([v24.0.4](https://github.com/moby/moby/releases/tag/v24.0.4), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v2.9.0](https://github.com/docker/setup-buildx-action/releases/tag/v2.9.0), 1 day ago) - GitHub Action to set up Docker Buildx
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.7.0](https://github.com/docker/actions-toolkit/releases/tag/v0.7.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.0b0](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.0b0), 2 days ago) - Documentation that simply works
+- [docker/buildx](https://github.com/docker/buildx) ([v0.11.1](https://github.com/docker/buildx/releases/tag/v0.11.1), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (4 months ago)
