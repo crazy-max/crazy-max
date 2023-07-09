@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) - 🚀 Cryptomator portable for Windows (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v24.0.4](https://github.com/moby/moby/releases/tag/v24.0.4), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v2.9.0](https://github.com/docker/setup-buildx-action/releases/tag/v2.9.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.7.0](https://github.com/docker/actions-toolkit/releases/tag/v0.7.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.0b0](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.0b0), 2 days ago) - Documentation that simply works
-- [docker/buildx](https://github.com/docker/buildx) ([v0.11.1](https://github.com/docker/buildx/releases/tag/v0.11.1), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 day ago) - Flarum Docker image
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([10.15.0-57](https://github.com/portapps/postman-portable/releases/tag/10.15.0-57), 1 day ago) - 🚀 Postman portable for Windows
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.15.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.15.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [moby/moby](https://github.com/moby/moby) ([v24.0.4](https://github.com/moby/moby/releases/tag/v24.0.4), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v2.9.0](https://github.com/docker/setup-buildx-action/releases/tag/v2.9.0), 2 days ago) - GitHub Action to set up Docker Buildx
 
 #### ❤️ Latest sponsors
-- [Pavel Boldyrev](https://github.com/bpg) (4 months ago)
+- [Pavel Boldyrev](https://github.com/bpg) (5 months ago)
 - [Baptiste Canton](https://github.com/batmac) (11 months ago)
 - [Fredrik](https://github.com/fredrikscode) (1 year ago)
 - _Anonymous_ (1 year ago)
