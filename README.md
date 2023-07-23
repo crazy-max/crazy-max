@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (today)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (4 days ago)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.8](https://github.com/opencontainers/runc/releases/tag/v1.1.8), 3 days ago) - CLI tool for spawning and running containers according to the OCI specification
-- [docker/compose](https://github.com/docker/compose) ([v2.20.2](https://github.com/docker/compose/releases/tag/v2.20.2), 3 days ago) - Define and run multi-container applications with Docker
-- [docker/buildx](https://github.com/docker/buildx) ([v0.11.2](https://github.com/docker/buildx/releases/tag/v0.11.2), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.1.19](https://github.com/squidfunk/mkdocs-material/releases/tag/9.1.19), 4 days ago) - Documentation that simply works
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.8.0](https://github.com/docker/docker-credential-helpers/releases/tag/v0.8.0), 5 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([0.14.1-r2](https://github.com/anonaddy/docker/releases/tag/0.14.1-r2), 1 day ago) - AnonAddy Docker image
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) ([8.99.0.403-96](https://github.com/portapps/skype-portable/releases/tag/8.99.0.403-96), 1 day ago) - 🚀 Skype portable for Windows 
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([115.0.5790.131-16](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/115.0.5790.131-16), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([27.0.1-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/27.0.1-r1), 1 day ago) - Nextcloud Docker image
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.9.0-19](https://github.com/portapps/nextcloud-portable/releases/tag/3.9.0-19), 1 day ago) - 🚀 Nextcloud portable for Windows
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (5 months ago)
