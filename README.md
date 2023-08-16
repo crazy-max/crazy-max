@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (2 days ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - :octocat: GitHub Action for xgo, a Golang CGO cross compiler (2 days ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (2 days ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.5.0-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.5.0-r0), 2 days ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.18.5-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.18.5-r0), 2 days ago) - Samba Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.2.2-0.9.8-0.13.8-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.2.2-0.9.8-0.13.8-r0), 2 days ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.30.0](https://github.com/crazy-max/xgo/releases/tag/v0.30.0), 3 days ago) - Go CGO cross compiler
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.25.0](https://github.com/crazy-max/goxx/releases/tag/v0.25.0), 3 days ago) - Go CGO cross-compiler Docker image
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.18.5-r2](https://github.com/crazy-max/docker-samba/releases/tag/4.18.5-r2), 1 day ago) - Samba Docker image
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.1.5.0-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.1.5.0-r0), 3 days ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.2.2-0.9.8-0.13.8-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.2.2-0.9.8-0.13.8-r0), 3 days ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.30.0](https://github.com/crazy-max/xgo/releases/tag/v0.30.0), 4 days ago) - Go CGO cross compiler
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.25.0](https://github.com/crazy-max/goxx/releases/tag/v0.25.0), 4 days ago) - Go CGO cross-compiler Docker image
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (6 months ago)
