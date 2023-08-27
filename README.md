@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (today)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (2 days ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (2 days ago)
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - :octocat: GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2023.8.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2023.8.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.12.2](https://github.com/moby/buildkit/releases/tag/v0.12.2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.3](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.3), 4 days ago) - Documentation that simply works
-- [librenms/docker](https://github.com/librenms/docker) ([23.8.1-r0](https://github.com/librenms/docker/releases/tag/23.8.1-r0), 5 days ago) - LibreNMS Docker image
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) ([v1.11.0](https://github.com/crazy-max/echo-ipfilter/releases/tag/v1.11.0), 1 week ago) - Middleware that provides ipfilter support for echo framework
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.4](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.4), 1 day ago) - Documentation that simply works
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) ([v1.2.0](https://github.com/crazy-max/ghaction-setup-docker/releases/tag/v1.2.0), 1 day ago) - :octocat: GitHub Action to set up (download and install) Docker CE
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.10.0](https://github.com/docker/actions-toolkit/releases/tag/v0.10.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2023.8.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2023.8.0-r0), 2 days ago) - Cloudflared proxy-dns Docker image
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.12.2](https://github.com/moby/buildkit/releases/tag/v0.12.2), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Pavel Boldyrev](https://github.com/bpg) (6 months ago)
