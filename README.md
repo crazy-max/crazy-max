@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - :octocat: GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - :octocat: GitHub Action to check Docker system status in your workflow (2 days ago)
-- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) - :octocat: GitHub Action composite to dump context (2 days ago)
-- [crazy-max/ghaction-github-release](https://github.com/crazy-max/ghaction-github-release) - :octocat: GitHub Action for creating GitHub Releases (2 days ago)
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages (2 days ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - :octocat: GitHub Action to upload and scan files with VirusTotal (1 day ago)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - :octocat: GitHub Action to set up containerd (1 day ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - :octocat: GitHub Action to import a GPG key (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.7](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.7), 1 day ago) - Documentation that simply works
-- [crazy-max/ghaction-github-release](https://github.com/crazy-max/ghaction-github-release) ([v1.1.0](https://github.com/crazy-max/ghaction-github-release/releases/tag/v1.1.0), 2 days ago) - :octocat: GitHub Action for creating GitHub Releases
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) ([v3.2.0](https://github.com/crazy-max/ghaction-github-pages/releases/tag/v3.2.0), 2 days ago) - :octocat: GitHub Action to deploy to GitHub Pages
-- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) ([v4.2.0](https://github.com/crazy-max/ghaction-github-labeler/releases/tag/v4.2.0), 2 days ago) - :octocat: GitHub Action to manage labels on GitHub
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v2.3.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v2.3.0), 2 days ago) - :octocat: GitHub Action to check Docker system status in your workflow
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) ([v2.4.0](https://github.com/crazy-max/ghaction-upx/releases/tag/v2.4.0), 1 day ago) - :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v5.4.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v5.4.0), 1 day ago) - :octocat: GitHub Action to import a GPG key
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.2.7](https://github.com/squidfunk/mkdocs-material/releases/tag/9.2.7), 2 days ago) - Documentation that simply works
+- [crazy-max/ghaction-github-release](https://github.com/crazy-max/ghaction-github-release) ([v1.1.0](https://github.com/crazy-max/ghaction-github-release/releases/tag/v1.1.0), 3 days ago) - :octocat: GitHub Action for creating GitHub Releases
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) ([v3.2.0](https://github.com/crazy-max/ghaction-github-pages/releases/tag/v3.2.0), 3 days ago) - :octocat: GitHub Action to deploy to GitHub Pages
 
 #### ❤️ Latest sponsors
-- [Tony Worm](https://github.com/verdverm) (5 days ago)
+- [Tony Worm](https://github.com/verdverm) (6 days ago)
 - [Pavel Boldyrev](https://github.com/bpg) (6 months ago)
 - [Baptiste Canton](https://github.com/batmac) (1 year ago)
 - [Fredrik](https://github.com/fredrikscode) (1 year ago)
