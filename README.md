@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (2 days ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (4 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (6 days ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.6.0](https://github.com/crazy-max/undock/releases/tag/v0.6.0), 4 days ago) - Extract contents of a container image in a local folder
-- [containers/image](https://github.com/containers/image) ([v5.28.0](https://github.com/containers/image/releases/tag/v5.28.0), 6 days ago) - Work with containers&#39; images
-- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) ([v0.7.1](https://github.com/unum-cloud/ucall/releases/tag/v0.7.1), 1 week ago) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing REST &amp; JSON-RPC over io_uring and SIMDJSON ☎️
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v3.0.0](https://github.com/docker/setup-qemu-action/releases/tag/v3.0.0), 1 week ago) - GitHub Action to install QEMU static binaries
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.13.0-rc.1](https://github.com/docker/actions-toolkit/releases/tag/v0.13.0-rc.1), 3 days ago) - Toolkit for Docker (GitHub) Actions
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.4](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.4), 3 days ago) - Documentation that simply works
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [distribution/distribution](https://github.com/distribution/distribution) ([v2.8.3](https://github.com/distribution/distribution/releases/tag/v2.8.3), 6 days ago) - The toolkit to pack, ship, store, and deliver container content
+- [librenms/docker](https://github.com/librenms/docker) ([23.9.1-r0](https://github.com/librenms/docker/releases/tag/23.9.1-r0), 1 week ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
-- [Tony Worm](https://github.com/verdverm) (3 weeks ago)
-- [Pavel Boldyrev](https://github.com/bpg) (7 months ago)
+- [Marcos Paulo](https://github.com/mr-soulfox) (1 week ago)
+- [Pavel Boldyrev](https://github.com/bpg) (8 months ago)
 - [Baptiste Canton](https://github.com/batmac) (1 year ago)
 - [Fredrik](https://github.com/fredrikscode) (1 year ago)
 - _Anonymous_ (1 year ago)
