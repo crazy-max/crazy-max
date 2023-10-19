@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (3 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (5 days ago)
+- [crazy-max/alpine-edge-musl-segfault](https://github.com/crazy-max/alpine-edge-musl-segfault) -  (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.6](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.6), 4 days ago) - Documentation that simply works
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) ([v2.1.0](https://github.com/crazy-max/ghaction-setup-docker/releases/tag/v2.1.0), 5 days ago) - GitHub Action to set up (download and install) Docker CE
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.13.0](https://github.com/docker/actions-toolkit/releases/tag/v0.13.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [distribution/distribution](https://github.com/distribution/distribution) ([v2.8.3](https://github.com/distribution/distribution/releases/tag/v2.8.3), 2 weeks ago) - The toolkit to pack, ship, store, and deliver container content
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.3.0](https://github.com/tonistiigi/xx/releases/tag/v1.3.0), 1 day ago) - Dockerfile cross-compilation helpers
+- [docker/compose](https://github.com/docker/compose) ([v2.23.0](https://github.com/docker/compose/releases/tag/v2.23.0), 1 day ago) - Define and run multi-container applications with Docker
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.6](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.6), 5 days ago) - Documentation that simply works
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) ([v2.1.0](https://github.com/crazy-max/ghaction-setup-docker/releases/tag/v2.1.0), 6 days ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.13.0](https://github.com/docker/actions-toolkit/releases/tag/v0.13.0), 6 days ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Marcos Paulo](https://github.com/mr-soulfox) (3 weeks ago)
