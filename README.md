@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (6 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
 - [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - 🚀 IntelliJ IDEA Ultimate portable for Windows  (1 week ago)
 - [portapps/.github](https://github.com/portapps/.github) - 🐙 GitHub&#39;s org-wide settings (1 week ago)
 
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.8](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.8), 1 week ago) - Documentation that simply works
 - [portapps/portapps](https://github.com/portapps/portapps) ([v3.9.0](https://github.com/portapps/portapps/releases/tag/v3.9.0), 1 week ago) - 🛰 Collection of portable apps for Windows
 - [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1041-23](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1041-23), 1 week ago) - 🚀 Discord PTB portable for Windows
