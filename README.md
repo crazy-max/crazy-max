@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (6 days ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.12](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.12), 1 day ago) - Documentation that simply works
-- [docker/compose](https://github.com/docker/compose) ([v2.23.3](https://github.com/docker/compose/releases/tag/v2.23.3), 2 days ago) - Define and run multi-container applications with Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.3.0-rc.1](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.3.0-rc.1), 3 days ago) - BuildKit Syft scanner
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.6.5](https://github.com/abiosoft/colima/releases/tag/v0.6.5), 6 days ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.25-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.25-r0), today) - Lightweight SMTP relay Docker image using msmtpd
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2023.10.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2023.10.0-r0), 1 day ago) - Cloudflared proxy-dns Docker image
+- [librenms/docker](https://github.com/librenms/docker) ([23.11.0-r0](https://github.com/librenms/docker/releases/tag/23.11.0-r0), 1 day ago) - LibreNMS Docker image
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.12](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.12), 2 days ago) - Documentation that simply works
+- [docker/compose](https://github.com/docker/compose) ([v2.23.3](https://github.com/docker/compose/releases/tag/v2.23.3), 3 days ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
-- [Adam Dullage](https://github.com/dullage) (3 days ago)
+- [Adam Dullage](https://github.com/dullage) (4 days ago)
 - _Anonymous_ (1 month ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (1 month ago)
 - [Pavel Boldyrev](https://github.com/bpg) (9 months ago)
