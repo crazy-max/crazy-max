@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (3 days ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.14](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.14), 4 days ago) - Documentation that simply works
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.19.0-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.19.0-r0), 4 days ago) - Unbound Docker image
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([4.15.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/4.15.1-r0), 4 days ago) - Matomo (formerly Piwik) Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([27.1.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/27.1.4-r0), 4 days ago) - Nextcloud Docker image
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.6.6](https://github.com/abiosoft/colima/releases/tag/v0.6.6), 4 days ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.2.0](https://github.com/docker/metadata-action/releases/tag/v5.2.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.15.0-rc.1](https://github.com/docker/actions-toolkit/releases/tag/v0.15.0-rc.1), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.4.14](https://github.com/squidfunk/mkdocs-material/releases/tag/9.4.14), 5 days ago) - Documentation that simply works
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.19.0-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.19.0-r0), 5 days ago) - Unbound Docker image
 
 #### ❤️ Latest sponsors
+- [Desislava Stefanova](https://github.com/desistefanova) (1 day ago)
 - [Adam Dullage](https://github.com/dullage) (1 week ago)
 - _Anonymous_ (1 month ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (1 month ago)
 - [Pavel Boldyrev](https://github.com/bpg) (9 months ago)
-- [Sean M. Collins](https://github.com/sc68cal) (1 year ago)
 
 Thanks again for your support, it is much appreciated! 🙏
