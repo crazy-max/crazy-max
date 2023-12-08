@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (3 days ago)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (4 days ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.3.0](https://github.com/docker/metadata-action/releases/tag/v5.3.0), 3 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.15.0](https://github.com/docker/actions-toolkit/releases/tag/v0.15.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.12.4](https://github.com/moby/buildkit/releases/tag/v0.12.4), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [moby/moby](https://github.com/moby/moby) ([v20.10.27](https://github.com/moby/moby/releases/tag/v20.10.27), 6 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([desktop/v8.0.4-36](https://github.com/tonistiigi/binfmt/releases/tag/desktop/v8.0.4-36), 6 days ago) - Cross-platform emulator collection distributed with Docker images.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.0](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.0), 1 day ago) - Documentation that simply works
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.3.0](https://github.com/docker/metadata-action/releases/tag/v5.3.0), 4 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.15.0](https://github.com/docker/actions-toolkit/releases/tag/v0.15.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.12.4](https://github.com/moby/buildkit/releases/tag/v0.12.4), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Desislava Stefanova](https://github.com/desistefanova) (1 week ago)
