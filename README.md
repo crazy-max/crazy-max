@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (4 days ago)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (5 days ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (4 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.0](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.0), 1 day ago) - Documentation that simply works
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.3.0](https://github.com/docker/metadata-action/releases/tag/v5.3.0), 4 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.15.0](https://github.com/docker/actions-toolkit/releases/tag/v0.15.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.1](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.1), 1 day ago) - Documentation that simply works
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.3.0](https://github.com/docker/metadata-action/releases/tag/v5.3.0), 5 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.15.0](https://github.com/docker/actions-toolkit/releases/tag/v0.15.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.12.4](https://github.com/moby/buildkit/releases/tag/v0.12.4), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
