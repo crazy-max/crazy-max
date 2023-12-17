@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.16.0](https://github.com/docker/actions-toolkit/releases/tag/v0.16.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [moby/moby](https://github.com/moby/moby) ([v25.0.0-beta.2](https://github.com/moby/moby/releases/tag/v25.0.0-beta.2), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.2](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.2), 5 days ago) - Documentation that simply works
-- [docker/compose](https://github.com/docker/compose) ([v2.24.0-birthday.10](https://github.com/docker/compose/releases/tag/v2.24.0-birthday.10), 5 days ago) - Define and run multi-container applications with Docker
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.9.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.9.0), 1 day ago) - Grab your files periodically from a remote FTP or SFTP server easily
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.11.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.11.0), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.0.4-r0](https://github.com/anonaddy/docker/releases/tag/1.0.4-r0), 1 day ago) - AnonAddy Docker image
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.3.0-rc.2](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.3.0-rc.2), 1 day ago) - BuildKit Syft scanner
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.16.0](https://github.com/docker/actions-toolkit/releases/tag/v0.16.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Desislava Stefanova](https://github.com/desistefanova) (2 weeks ago)
