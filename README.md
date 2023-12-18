@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
 - [crazy-max/yasu](https://github.com/crazy-max/yasu) - Yet Another Switch User (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.9.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.9.0), 1 day ago) - Grab your files periodically from a remote FTP or SFTP server easily
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.11.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.11.0), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.0.4-r0](https://github.com/anonaddy/docker/releases/tag/1.0.4-r0), 1 day ago) - AnonAddy Docker image
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.3.0-rc.2](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.3.0-rc.2), 1 day ago) - BuildKit Syft scanner
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.16.0](https://github.com/docker/actions-toolkit/releases/tag/v0.16.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.2.9-0.9.8_1-0.13.8_1-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.2.9-0.9.8_1-0.13.8_1-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.26.0](https://github.com/crazy-max/goxx/releases/tag/v0.26.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [crazy-max/yasu](https://github.com/crazy-max/yasu) ([v1.20.0](https://github.com/crazy-max/yasu/releases/tag/v1.20.0), 1 day ago) - Yet Another Switch User
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.9.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.9.0), 1 day ago) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.9.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.9.0), 2 days ago) - Grab your files periodically from a remote FTP or SFTP server easily
 
 #### ❤️ Latest sponsors
 - [Desislava Stefanova](https://github.com/desistefanova) (2 weeks ago)
