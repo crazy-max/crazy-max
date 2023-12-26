@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
 - [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) - 🚀 Cryptomator portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2023.3.2-41](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2023.3.2-41), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2023.3.2-55](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2023.3.2-55), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9028-17](https://github.com/portapps/discord-portable/releases/tag/1.0.9028-17), 1 day ago) - 🚀 Discord portable for Windows
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1051-24](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1051-24), 1 day ago) - 🚀 Discord PTB portable for Windows
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([120.0.6099.180-17](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/120.0.6099.180-17), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([115.6.0-44](https://github.com/portapps/stormhen-portable/releases/tag/115.6.0-44), 1 day ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) ([2.4.3-12](https://github.com/portapps/gnupg-portable/releases/tag/2.4.3-12), 1 day ago) - 🚀 GnuPG portable for Windows
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([122.0b3-49](https://github.com/portapps/phyrox-developer-portable/releases/tag/122.0b3-49), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([115.6.0-62](https://github.com/portapps/phyrox-esr-portable/releases/tag/115.6.0-62), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.11.0-20](https://github.com/portapps/nextcloud-portable/releases/tag/3.11.0-20), 1 day ago) - 🚀 Nextcloud portable for Windows
 
 #### ❤️ Latest sponsors
 - [Desislava Stefanova](https://github.com/desistefanova) (3 weeks ago)
