@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (2 days ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (2 days ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (3 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (3 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (2 days ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (3 days ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (3 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.11](https://github.com/opencontainers/runc/releases/tag/v1.1.11), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.8.0-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.8.0-r5-r0), 4 days ago) - RRDcached Docker image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 4 days ago) - Flarum Docker image
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.6.2-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.6.2-r0), 4 days ago) - qBittorrent Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([28.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/28.0.1-r0), 4 days ago) - Nextcloud Docker image
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.11](https://github.com/opencontainers/runc/releases/tag/v1.1.11), 2 days ago) - CLI tool for spawning and running containers according to the OCI specification
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.8.0-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.8.0-r5-r0), 5 days ago) - RRDcached Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 5 days ago) - Flarum Docker image
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.6.2-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.6.2-r0), 5 days ago) - qBittorrent Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([28.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/28.0.1-r0), 5 days ago) - Nextcloud Docker image
 
 #### ❤️ Latest sponsors
-- [Mikal](https://github.com/Ifiht) (2 days ago)
+- [Mikal](https://github.com/Ifiht) (3 days ago)
 - _Anonymous_ (2 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (2 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (10 months ago)
