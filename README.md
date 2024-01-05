@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (2 days ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (3 days ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (3 days ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (3 days ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.11](https://github.com/opencontainers/runc/releases/tag/v1.1.11), 2 days ago) - CLI tool for spawning and running containers according to the OCI specification
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.8.0-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.8.0-r5-r0), 5 days ago) - RRDcached Docker image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 5 days ago) - Flarum Docker image
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([4.6.2-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/4.6.2-r0), 5 days ago) - qBittorrent Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([28.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/28.0.1-r0), 5 days ago) - Nextcloud Docker image
+- [moby/moby](https://github.com/moby/moby) ([v25.0.0-rc.1](https://github.com/moby/moby/releases/tag/v25.0.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.11](https://github.com/opencontainers/runc/releases/tag/v1.1.11), 3 days ago) - CLI tool for spawning and running containers according to the OCI specification
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.8.0-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.8.0-r5-r0), 6 days ago) - RRDcached Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 6 days ago) - Flarum Docker image
 
 #### ❤️ Latest sponsors
-- [Mikal](https://github.com/Ifiht) (3 days ago)
+- [Mikal](https://github.com/Ifiht) (4 days ago)
 - _Anonymous_ (2 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (2 months ago)
-- [Pavel Boldyrev](https://github.com/bpg) (10 months ago)
+- [Pavel Boldyrev](https://github.com/bpg) (11 months ago)
 - [Sean M. Collins](https://github.com/sc68cal) (1 year ago)
 
 Thanks again for your support, it is much appreciated! 🙏
