@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (3 days ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v25.0.0-rc.1](https://github.com/moby/moby/releases/tag/v25.0.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.11](https://github.com/opencontainers/runc/releases/tag/v1.1.11), 3 days ago) - CLI tool for spawning and running containers according to the OCI specification
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.8.0-r5-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.8.0-r5-r0), 6 days ago) - RRDcached Docker image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 6 days ago) - Flarum Docker image
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.5.0](https://github.com/docker/metadata-action/releases/tag/v5.5.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v8.1.4-37](https://github.com/tonistiigi/binfmt/releases/tag/deploy/v8.1.4-37), 1 day ago) - Cross-platform emulator collection distributed with Docker images.
+- [moby/moby](https://github.com/moby/moby) ([v25.0.0-rc.1](https://github.com/moby/moby/releases/tag/v25.0.0-rc.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.11](https://github.com/opencontainers/runc/releases/tag/v1.1.11), 4 days ago) - CLI tool for spawning and running containers according to the OCI specification
 
 #### ❤️ Latest sponsors
-- [Mikal](https://github.com/Ifiht) (4 days ago)
+- [Mikal](https://github.com/Ifiht) (5 days ago)
 - _Anonymous_ (2 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (2 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (11 months ago)
