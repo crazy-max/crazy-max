@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (2 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (6 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (6 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (6 days ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 week ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.8.1](https://github.com/docker/docker-credential-helpers/releases/tag/v0.8.1), 1 day ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.5.0](https://github.com/docker/metadata-action/releases/tag/v5.5.0), 6 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v8.1.4-37](https://github.com/tonistiigi/binfmt/releases/tag/deploy/v8.1.4-37), 6 days ago) - Cross-platform emulator collection distributed with Docker images.
-- [moby/moby](https://github.com/moby/moby) ([v25.0.0-rc.1](https://github.com/moby/moby/releases/tag/v25.0.0-rc.1), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose](https://github.com/docker/compose) ([v2.24.0](https://github.com/docker/compose/releases/tag/v2.24.0), 1 day ago) - Define and run multi-container applications with Docker
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([prebuilt/ld-2.41-100](https://github.com/tonistiigi/xx/releases/tag/prebuilt/ld-2.41-100), 1 day ago) - Dockerfile cross-compilation helpers
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.8.1](https://github.com/docker/docker-credential-helpers/releases/tag/v0.8.1), 2 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.5.0](https://github.com/docker/metadata-action/releases/tag/v5.5.0), 1 week ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 
 #### ❤️ Latest sponsors
 - [Mikal](https://github.com/Ifiht) (1 week ago)
