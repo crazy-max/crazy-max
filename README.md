@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (6 days ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (6 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.13.0-beta3](https://github.com/moby/buildkit/releases/tag/v0.13.0-beta3), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.12](https://github.com/opencontainers/runc/releases/tag/v1.1.12), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.5.1](https://github.com/docker/metadata-action/releases/tag/v5.5.1), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [containers/image](https://github.com/containers/image) ([v5.29.2](https://github.com/containers/image/releases/tag/v5.29.2), 1 day ago) - Work with containers&#39; images
-- [moby/moby](https://github.com/moby/moby) ([v23.0.9](https://github.com/moby/moby/releases/tag/v23.0.9), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) ([v24.0.9](https://github.com/moby/moby/releases/tag/v24.0.9), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ([v1.13.0](https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.13.0), 1 day ago) - Create jobs on a time-based schedule on Docker Swarm
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.13.0-beta3](https://github.com/moby/buildkit/releases/tag/v0.13.0-beta3), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.1.12](https://github.com/opencontainers/runc/releases/tag/v1.1.12), 2 days ago) - CLI tool for spawning and running containers according to the OCI specification
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (3 months ago)
