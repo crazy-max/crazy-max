@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (3 days ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (6 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (6 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.9](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.9), 5 days ago) - Documentation that simply works
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [docker/compose](https://github.com/docker/compose) ([v2.24.6](https://github.com/docker/compose/releases/tag/v2.24.6), 1 day ago) - Define and run multi-container applications with Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.9](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.9), 6 days ago) - Documentation that simply works
 - [moby/moby](https://github.com/moby/moby) ([v25.0.3](https://github.com/moby/moby/releases/tag/v25.0.3), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.4.0](https://github.com/tonistiigi/xx/releases/tag/v1.4.0), 1 week ago) - Dockerfile cross-compilation helpers
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([25.0.2-r0](https://github.com/crazy-max/docker-docker/releases/tag/25.0.2-r0), 1 week ago) - Docker in Docker (DinD) image
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (1 week ago)
