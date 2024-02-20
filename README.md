@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (3 days ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.0.8-r0](https://github.com/anonaddy/docker/releases/tag/1.0.8-r0), 1 day ago) - AnonAddy Docker image
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.27.0](https://github.com/crazy-max/goxx/releases/tag/v0.27.0), 3 days ago) - Go CGO cross-compiler Docker image
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.13.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.13.0-rc1), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/compose](https://github.com/docker/compose) ([v2.24.6](https://github.com/docker/compose/releases/tag/v2.24.6), 4 days ago) - Define and run multi-container applications with Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) ([v0.5.3](https://github.com/unum-cloud/ucall/releases/tag/v0.5.3), 1 day ago) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC &amp; 🔜 REST over io_uring and SIMDJSON ☎️
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.7.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.7.0), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.10](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.10), 1 day ago) - Documentation that simply works
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.0.8-r0](https://github.com/anonaddy/docker/releases/tag/1.0.8-r0), 2 days ago) - AnonAddy Docker image
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.27.0](https://github.com/crazy-max/goxx/releases/tag/v0.27.0), 4 days ago) - Go CGO cross-compiler Docker image
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (1 week ago)
+- _Anonymous_ (2 weeks ago)
 - _Anonymous_ (4 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (4 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 year ago)
