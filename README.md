@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) ([v0.5.3](https://github.com/unum-cloud/ucall/releases/tag/v0.5.3), 2 days ago) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC &amp; 🔜 REST over io_uring and SIMDJSON ☎️
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.7.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.7.0), 2 days ago) - Utilities to generate (reference) documentation for the docker CLI
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.10](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.10), 2 days ago) - Documentation that simply works
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.0.8-r0](https://github.com/anonaddy/docker/releases/tag/1.0.8-r0), 3 days ago) - AnonAddy Docker image
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.27.0](https://github.com/crazy-max/goxx/releases/tag/v0.27.0), 5 days ago) - Go CGO cross-compiler Docker image
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) ([v0.5.3](https://github.com/unum-cloud/ucall/releases/tag/v0.5.3), 3 days ago) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC &amp; 🔜 REST over io_uring and SIMDJSON ☎️
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.7.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.7.0), 3 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.10](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.10), 3 days ago) - Documentation that simply works
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.0.8-r0](https://github.com/anonaddy/docker/releases/tag/1.0.8-r0), 4 days ago) - AnonAddy Docker image
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.27.0](https://github.com/crazy-max/goxx/releases/tag/v0.27.0), 6 days ago) - Go CGO cross-compiler Docker image
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
