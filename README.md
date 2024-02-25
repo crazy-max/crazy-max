@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (2 days ago)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.17.0](https://github.com/docker/actions-toolkit/releases/tag/v0.17.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) ([v2.2.0](https://github.com/crazy-max/ghaction-dump-context/releases/tag/v2.2.0), 1 day ago) - GitHub Action composite to dump context
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [unum-cloud/ucall](https://github.com/unum-cloud/ucall) ([v0.5.3](https://github.com/unum-cloud/ucall/releases/tag/v0.5.3), 5 days ago) - Remote Procedure Calls  - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC &amp; 🔜 REST over io_uring and SIMDJSON ☎️
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.7.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.7.0), 5 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.11](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.11), 1 day ago) - Documentation that simply works
+- [docker/buildx](https://github.com/docker/buildx) ([v0.13.0-rc1](https://github.com/docker/buildx/releases/tag/v0.13.0-rc1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.13.0-rc2](https://github.com/moby/buildkit/releases/tag/v0.13.0-rc2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.17.0](https://github.com/docker/actions-toolkit/releases/tag/v0.17.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) ([v2.2.0](https://github.com/crazy-max/ghaction-dump-context/releases/tag/v2.2.0), 2 days ago) - GitHub Action composite to dump context
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
