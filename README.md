@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (3 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (3 days ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.1.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.1.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.4.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.4.0), 2 days ago) - BuildKit Syft scanner
-- [crazy-max/xcalxls2csv](https://github.com/crazy-max/xcalxls2csv) ([v0.2.0](https://github.com/crazy-max/xcalxls2csv/releases/tag/v0.2.0), 3 days ago) - Xcalibur XLS data frames to CSV
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.11](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.11), 4 days ago) - Documentation that simply works
-- [docker/buildx](https://github.com/docker/buildx) ([v0.13.0-rc1](https://github.com/docker/buildx/releases/tag/v0.13.0-rc1), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [librenms/docker](https://github.com/librenms/docker) ([24.2.0-r0](https://github.com/librenms/docker/releases/tag/24.2.0-r0), 1 day ago) - LibreNMS Docker image
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.0.9-r0](https://github.com/anonaddy/docker/releases/tag/1.0.9-r0), 1 day ago) - AnonAddy Docker image
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.13.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.13.0-rc3), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.1.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.1.0), 2 days ago) - GitHub Action to set up Docker Buildx
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.4.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.4.0), 3 days ago) - BuildKit Syft scanner
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (3 weeks ago)
