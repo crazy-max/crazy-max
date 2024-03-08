@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose](https://github.com/docker/compose) ([v2.24.7](https://github.com/docker/compose/releases/tag/v2.24.7), 1 day ago) - Define and run multi-container applications with Docker
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.13](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.13), 1 day ago) - Documentation that simply works
-- [docker/buildx](https://github.com/docker/buildx) ([v0.13.0](https://github.com/docker/buildx/releases/tag/v0.13.0), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.7.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.7.0-labs), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [containers/image](https://github.com/containers/image) ([v5.30.0](https://github.com/containers/image/releases/tag/v5.30.0), 2 days ago) - Work with containers&#39; images
+- [moby/moby](https://github.com/moby/moby) ([v26.0.0-rc2](https://github.com/moby/moby/releases/tag/v26.0.0-rc2), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [docker/compose](https://github.com/docker/compose) ([v2.24.7](https://github.com/docker/compose/releases/tag/v2.24.7), 2 days ago) - Define and run multi-container applications with Docker
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.13](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.13), 2 days ago) - Documentation that simply works
+- [docker/buildx](https://github.com/docker/buildx) ([v0.13.0](https://github.com/docker/buildx/releases/tag/v0.13.0), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (1 month ago)
 - _Anonymous_ (4 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (4 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 year ago)
 - [Sean M. Collins](https://github.com/sc68cal) (1 year ago)
+- [Baptiste Canton](https://github.com/batmac) (2 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
