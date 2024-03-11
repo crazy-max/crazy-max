@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (1 day ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.10.0](https://github.com/portapps/portapps/releases/tag/v3.10.0), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v5.2.0](https://github.com/docker/build-push-action/releases/tag/v5.2.0), 2 days ago) - GitHub Action to build and push Docker images with Buildx
-- [moby/moby](https://github.com/moby/moby) ([v26.0.0-rc2](https://github.com/moby/moby/releases/tag/v26.0.0-rc2), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/compose](https://github.com/docker/compose) ([v2.24.7](https://github.com/docker/compose/releases/tag/v2.24.7), 4 days ago) - Define and run multi-container applications with Docker
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.10.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.10.0), 1 day ago) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([10.24.0-59](https://github.com/portapps/postman-portable/releases/tag/10.24.0-59), 1 day ago) - 🚀 Postman portable for Windows
+- [portapps/caprine-portable](https://github.com/portapps/caprine-portable) ([2.59.3-39](https://github.com/portapps/caprine-portable/releases/tag/2.59.3-39), 1 day ago) - 🚀 Caprine portable for Windows
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.12.3-13](https://github.com/portapps/cryptomator-portable/releases/tag/1.12.3-13), 1 day ago) - 🚀 Cryptomator portable for Windows
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.207-11](https://github.com/portapps/tabby-portable/releases/tag/1.0.207-11), 1 day ago) - 🚀 Tabby portable for Windows 
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (4 months ago)
