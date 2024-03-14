@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.13.1](https://github.com/docker/buildx/releases/tag/v0.13.1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [docker/bake-action](https://github.com/docker/bake-action) ([v4.2.0](https://github.com/docker/bake-action/releases/tag/v4.2.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([28.0.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/28.0.3-r0), 2 days ago) - Nextcloud Docker image
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) ([v1.10.0](https://github.com/crazy-max/geoip-updater/releases/tag/v1.10.0), 3 days ago) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([10.24.0-59](https://github.com/portapps/postman-portable/releases/tag/10.24.0-59), 3 days ago) - 🚀 Postman portable for Windows
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.19.0](https://github.com/docker/actions-toolkit/releases/tag/v0.19.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [docker/login-action](https://github.com/docker/login-action) ([v3.1.0](https://github.com/docker/login-action/releases/tag/v3.1.0), 1 day ago) - GitHub Action to login against a Docker registry
+- [docker/buildx](https://github.com/docker/buildx) ([v0.13.1](https://github.com/docker/buildx/releases/tag/v0.13.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [docker/bake-action](https://github.com/docker/bake-action) ([v4.2.0](https://github.com/docker/bake-action/releases/tag/v4.2.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([28.0.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/28.0.3-r0), 3 days ago) - Nextcloud Docker image
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (4 months ago)
