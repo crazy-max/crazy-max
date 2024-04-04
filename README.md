@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (6 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.20.0](https://github.com/docker/actions-toolkit/releases/tag/v0.20.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.17](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.17), 1 day ago) - Documentation that simply works
-- [docker/compose](https://github.com/docker/compose) ([v2.26.1](https://github.com/docker/compose/releases/tag/v2.26.1), 5 days ago) - Define and run multi-container applications with Docker
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.1.0-r0](https://github.com/anonaddy/docker/releases/tag/1.1.0-r0), 5 days ago) - AnonAddy Docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.25.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.25.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.20.0](https://github.com/docker/actions-toolkit/releases/tag/v0.20.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.17](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.17), 2 days ago) - Documentation that simply works
+- [docker/compose](https://github.com/docker/compose) ([v2.26.1](https://github.com/docker/compose/releases/tag/v2.26.1), 6 days ago) - Define and run multi-container applications with Docker
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.1.0-r0](https://github.com/anonaddy/docker/releases/tag/1.1.0-r0), 6 days ago) - AnonAddy Docker image
 
 #### ❤️ Latest sponsors
-- [Circenn](https://github.com/Circenn5130) (5 days ago)
+- [Circenn](https://github.com/Circenn5130) (6 days ago)
 - [Guiorgy](https://github.com/Guiorgy) (2 weeks ago)
 - [Hans-Nikolai Viessmann](https://github.com/hv15) (2 weeks ago)
 - _Anonymous_ (5 months ago)
