@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - GitHub Action to set up containerd (today)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages (today)
+- [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage (today)
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - GitHub Action to expose GitHub runtime to the workflow (today)
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - GitHub Action to check GitHub Status in your workflow (today)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.28.0](https://github.com/crazy-max/diun/releases/tag/v4.28.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [librenms/docker](https://github.com/librenms/docker) ([24.3.0-r0](https://github.com/librenms/docker/releases/tag/24.3.0-r0), 1 day ago) - LibreNMS Docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.25.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.25.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.20.0](https://github.com/docker/actions-toolkit/releases/tag/v0.20.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.17](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.17), 5 days ago) - Documentation that simply works
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.28.0](https://github.com/crazy-max/diun/releases/tag/v4.28.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
+- [librenms/docker](https://github.com/librenms/docker) ([24.3.0-r0](https://github.com/librenms/docker/releases/tag/24.3.0-r0), 2 days ago) - LibreNMS Docker image
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.25.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.25.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.20.0](https://github.com/docker/actions-toolkit/releases/tag/v0.20.0), 6 days ago) - Toolkit for Docker (GitHub) Actions
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.17](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.17), 6 days ago) - Documentation that simply works
 
 #### ❤️ Latest sponsors
 - [Circenn](https://github.com/Circenn5130) (1 week ago)
