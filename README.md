@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (1 day ago)
-- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (2 days ago)
-- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server Docker image (2 days ago)
-- [crazy-max/docker-loop](https://github.com/crazy-max/docker-loop) - Simple loop for dummy services (2 days ago)
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) - DokuWiki Docker image (2 days ago)
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v26.1.1](https://github.com/moby/moby/releases/tag/v26.1.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.5.20](https://github.com/squidfunk/mkdocs-material/releases/tag/9.5.20), 2 days ago) - Documentation that simply works
-- [docker/bake-action](https://github.com/docker/bake-action) ([v4.5.0](https://github.com/docker/bake-action/releases/tag/v4.5.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2024-02-06a-r0](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2024-02-06a-r0), 2 days ago) - DokuWiki Docker image
-- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) ([26.1.0-r0](https://github.com/crazy-max/docker-docker/releases/tag/26.1.0-r0), 2 days ago) - Docker in Docker (DinD) image
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([7.29.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/7.29.0-r0), 1 day ago) - GitHub Linguist Docker image
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.26-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.26-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.5-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.5-r0), 1 day ago) - Flarum Docker image
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.0-r0](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.0-r0), 1 day ago) - Fail2ban Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.3.0-0.9.8_3-0.13.8_2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.3.0-0.9.8_3-0.13.8_2-r0), 1 day ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
-- [Phillip Winn](https://github.com/pwinnski) (5 days ago)
+- [Phillip Winn](https://github.com/pwinnski) (6 days ago)
 - _Anonymous_ (6 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (6 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 year ago)
