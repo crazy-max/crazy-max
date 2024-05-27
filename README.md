@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (4 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 week ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 week ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose](https://github.com/docker/compose) ([v2.27.1](https://github.com/docker/compose/releases/tag/v2.27.1), 2 days ago) - Define and run multi-container applications with Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.26.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.8.2](https://github.com/docker/docker-credential-helpers/releases/tag/v0.8.2), 3 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [docker/buildx](https://github.com/docker/buildx) ([v0.14.1](https://github.com/docker/buildx/releases/tag/v0.14.1), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [containers/image](https://github.com/containers/image) ([v5.31.0](https://github.com/containers/image/releases/tag/v5.31.0), 5 days ago) - Work with containers&#39; images
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.0.3-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.0.3-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.27.1](https://github.com/docker/compose/releases/tag/v2.27.1), 3 days ago) - Define and run multi-container applications with Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.26.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.8.2](https://github.com/docker/docker-credential-helpers/releases/tag/v0.8.2), 4 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/buildx](https://github.com/docker/buildx) ([v0.14.1](https://github.com/docker/buildx/releases/tag/v0.14.1), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Eric Cloninger](https://github.com/ehcloninger) (1 week ago)
 - [Tom Ternquist](https://github.com/tternquist) (2 weeks ago)
 - [todd densmore](https://github.com/tdensmore) (3 weeks ago)
-- [Phillip Winn](https://github.com/pwinnski) (1 month ago)
 - _Anonymous_ (7 months ago)
+- [Bryan Pinsker](https://github.com/BryanPinsker) (7 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
