@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (6 days ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (6 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (1 week ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.15.0-rc2](https://github.com/docker/buildx/releases/tag/v0.15.0-rc2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.8.0-rc2-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.8.0-rc2-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [moby/moby](https://github.com/moby/moby) ([v26.1.4](https://github.com/moby/moby/releases/tag/v26.1.4), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.0.0), 3 days ago) - GitHub Action for GoReleaser
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.0.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [docker/buildx](https://github.com/docker/buildx) ([v0.15.0-rc2](https://github.com/docker/buildx/releases/tag/v0.15.0-rc2), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.8.0-rc2-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.8.0-rc2-labs), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [moby/moby](https://github.com/moby/moby) ([v26.1.4](https://github.com/moby/moby/releases/tag/v26.1.4), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.0.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.0.0), 4 days ago) - GitHub Action for GoReleaser
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.0.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
-- [Arnold Sobanski](https://github.com/Arsobbiak) (5 days ago)
+- [Arnold Sobanski](https://github.com/Arsobbiak) (6 days ago)
 - [Eric Cloninger](https://github.com/ehcloninger) (3 weeks ago)
 - [Tom Ternquist](https://github.com/tternquist) (4 weeks ago)
 - _Anonymous_ (7 months ago)
