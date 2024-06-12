@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (1 day ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) ([v3.3.0](https://github.com/crazy-max/ghaction-setup-docker/releases/tag/v3.3.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.25.0](https://github.com/docker/actions-toolkit/releases/tag/v0.25.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/bake-action](https://github.com/docker/bake-action) ([v4.6.0](https://github.com/docker/bake-action/releases/tag/v4.6.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v5.4.0](https://github.com/docker/build-push-action/releases/tag/v5.4.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/buildx](https://github.com/docker/buildx) ([v0.15.0-rc2](https://github.com/docker/buildx/releases/tag/v0.15.0-rc2), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.1.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.1.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.15.0](https://github.com/docker/buildx/releases/tag/v0.15.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.8.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.8.0-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.0.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.0.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) ([v3.3.0](https://github.com/crazy-max/ghaction-setup-docker/releases/tag/v3.3.0), 2 days ago) - GitHub Action to set up (download and install) Docker CE
 
 #### ❤️ Latest sponsors
 - [Arnold Sobanski](https://github.com/Arsobbiak) (1 week ago)
