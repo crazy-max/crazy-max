@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - GitHub Action to check Docker system status in your workflow (1 day ago)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.26.0](https://github.com/docker/actions-toolkit/releases/tag/v0.26.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([prebuilt/ld-2.42-173](https://github.com/tonistiigi/xx/releases/tag/prebuilt/ld-2.42-173), 3 days ago) - Dockerfile cross-compilation helpers
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.3.3-3.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.3.3-3.2-r0), 3 days ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.1.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.1.0-r0), 5 days ago) - Matomo (formerly Piwik) Docker image
-- [docker/buildx](https://github.com/docker/buildx) ([v0.15.0](https://github.com/docker/buildx/releases/tag/v0.15.0), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [librenms/docker](https://github.com/librenms/docker) ([24.5.0-r0](https://github.com/librenms/docker/releases/tag/24.5.0-r0), 1 day ago) - LibreNMS Docker image
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.26.0](https://github.com/docker/actions-toolkit/releases/tag/v0.26.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([prebuilt/ld-2.42-173](https://github.com/tonistiigi/xx/releases/tag/prebuilt/ld-2.42-173), 4 days ago) - Dockerfile cross-compilation helpers
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.3.3-3.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.3.3-3.2-r0), 4 days ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.1.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.1.0-r0), 6 days ago) - Matomo (formerly Piwik) Docker image
 
 #### ❤️ Latest sponsors
-- [Arnold Sobanski](https://github.com/Arsobbiak) (1 week ago)
-- [Eric Cloninger](https://github.com/ehcloninger) (4 weeks ago)
+- [Arnold Sobanski](https://github.com/Arsobbiak) (2 weeks ago)
+- [Eric Cloninger](https://github.com/ehcloninger) (1 month ago)
 - _Anonymous_ (7 months ago)
-- [Bryan Pinsker](https://github.com/BryanPinsker) (7 months ago)
+- [Bryan Pinsker](https://github.com/BryanPinsker) (8 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 year ago)
 
 Thanks again for your support, it is much appreciated! 🙏
