@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) - Spliit Docker image (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) - Spliit Docker image (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose](https://github.com/docker/compose) ([v2.28.0](https://github.com/docker/compose/releases/tag/v2.28.0), 1 day ago) - Define and run multi-container applications with Docker
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.1.0](https://github.com/docker/build-push-action/releases/tag/v6.1.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/bake-action](https://github.com/docker/bake-action) ([v5.1.0](https://github.com/docker/bake-action/releases/tag/v5.1.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [containers/image](https://github.com/containers/image) ([v5.31.1](https://github.com/containers/image/releases/tag/v5.31.1), 2 days ago) - Work with containers&#39; images
-- [moby/moby](https://github.com/moby/moby) ([v23.0.13](https://github.com/moby/moby/releases/tag/v23.0.13), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose](https://github.com/docker/compose) ([v2.28.0](https://github.com/docker/compose/releases/tag/v2.28.0), 2 days ago) - Define and run multi-container applications with Docker
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.1.0](https://github.com/docker/build-push-action/releases/tag/v6.1.0), 2 days ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/bake-action](https://github.com/docker/bake-action) ([v5.1.0](https://github.com/docker/bake-action/releases/tag/v5.1.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [containers/image](https://github.com/containers/image) ([v5.31.1](https://github.com/containers/image/releases/tag/v5.31.1), 3 days ago) - Work with containers&#39; images
+- [moby/moby](https://github.com/moby/moby) ([v23.0.13](https://github.com/moby/moby/releases/tag/v23.0.13), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Arnold Sobanski](https://github.com/Arsobbiak) (2 weeks ago)
