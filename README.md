@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (today)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) - Utilities to generate (reference) documentation for the docker CLI (1 day ago)
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (3 days ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v27.0.3](https://github.com/moby/moby/releases/tag/v27.0.3), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2024.6.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2024.6.1-r0), 3 days ago) - Cloudflared proxy-dns Docker image
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.8.0](https://github.com/crazy-max/undock/releases/tag/v0.8.0), 5 days ago) - Extract contents of a container image in a local folder
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.3.5-3.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.3.5-3.2-r0), 5 days ago) - rTorrent and ruTorrent Docker image
-- [containers/image](https://github.com/containers/image) ([v5.30.2](https://github.com/containers/image/releases/tag/v5.30.2), 5 days ago) - Work with containers&#39; images
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.8.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.8.0), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.31.0](https://github.com/docker/actions-toolkit/releases/tag/v0.31.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([14.5-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/14.5-r0), 1 day ago) - MacOSX cross toolchain as Docker image
+- [moby/moby](https://github.com/moby/moby) ([v27.0.3](https://github.com/moby/moby/releases/tag/v27.0.3), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2024.6.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2024.6.1-r0), 4 days ago) - Cloudflared proxy-dns Docker image
 
 #### ❤️ Latest sponsors
-- [Arnold Sobanski](https://github.com/Arsobbiak) (4 weeks ago)
+- [Arnold Sobanski](https://github.com/Arsobbiak) (1 month ago)
 - _Anonymous_ (8 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (8 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (1 year ago)
