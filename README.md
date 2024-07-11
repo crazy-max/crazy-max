@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (3 days ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (3 days ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (5 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (5 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (4 days ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (4 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (6 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (6 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.3.5-4.0-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.3.5-4.0-r0), 3 days ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([29.0.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/29.0.3-r0), 5 days ago) - Nextcloud Docker image
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.32.0](https://github.com/docker/actions-toolkit/releases/tag/v0.32.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.4.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.4.0), 6 days ago) - GitHub Action to set up Docker Buildx
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.9.0-rc2-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.9.0-rc2-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildx](https://github.com/docker/buildx) ([v0.16.0-rc2](https://github.com/docker/buildx/releases/tag/v0.16.0-rc2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-beta.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-beta.1), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([4.3.5-4.0-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/4.3.5-4.0-r0), 4 days ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([29.0.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/29.0.3-r0), 6 days ago) - Nextcloud Docker image
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (8 months ago)
