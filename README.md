@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [gofrs/flock](https://github.com/gofrs/flock) ([v0.12.1](https://github.com/gofrs/flock/releases/tag/v0.12.1), 1 day ago) - Thread-safe file locking library in Go
-- [moby/moby](https://github.com/moby/moby) ([v27.1.0](https://github.com/moby/moby/releases/tag/v27.1.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.5.0](https://github.com/docker/build-push-action/releases/tag/v6.5.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.5.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.5.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [docker/bake-action](https://github.com/docker/bake-action) ([v5.5.0](https://github.com/docker/bake-action/releases/tag/v5.5.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [moby/moby](https://github.com/moby/moby) ([v27.1.1](https://github.com/moby/moby/releases/tag/v27.1.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose](https://github.com/docker/compose) ([v2.29.1](https://github.com/docker/compose/releases/tag/v2.29.1), 1 day ago) - Define and run multi-container applications with Docker
+- [gofrs/flock](https://github.com/gofrs/flock) ([v0.12.1](https://github.com/gofrs/flock/releases/tag/v0.12.1), 2 days ago) - Thread-safe file locking library in Go
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.5.0](https://github.com/docker/build-push-action/releases/tag/v6.5.0), 2 days ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.5.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.5.0), 2 days ago) - GitHub Action to set up Docker Buildx
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (9 months ago)
