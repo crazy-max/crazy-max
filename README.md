@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v27.1.1](https://github.com/moby/moby/releases/tag/v27.1.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/compose](https://github.com/docker/compose) ([v2.29.1](https://github.com/docker/compose/releases/tag/v2.29.1), 2 days ago) - Define and run multi-container applications with Docker
-- [gofrs/flock](https://github.com/gofrs/flock) ([v0.12.1](https://github.com/gofrs/flock/releases/tag/v0.12.1), 3 days ago) - Thread-safe file locking library in Go
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.5.0](https://github.com/docker/build-push-action/releases/tag/v6.5.0), 3 days ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.5.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.5.0), 3 days ago) - GitHub Action to set up Docker Buildx
+- [containers/image](https://github.com/containers/image) ([v5.32.0](https://github.com/containers/image/releases/tag/v5.32.0), 1 day ago) - Work with containers&#39; images
+- [moby/moby](https://github.com/moby/moby) ([v25.0.6](https://github.com/moby/moby/releases/tag/v25.0.6), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/buildx](https://github.com/docker/buildx) ([v0.16.2](https://github.com/docker/buildx/releases/tag/v0.16.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.15.1](https://github.com/moby/buildkit/releases/tag/v0.15.1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (9 months ago)
