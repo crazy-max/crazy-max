@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.6.1](https://github.com/docker/setup-buildx-action/releases/tag/v3.6.1), 1 day ago) - GitHub Action to set up Docker Buildx
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.5.0](https://github.com/tonistiigi/xx/releases/tag/v1.5.0), 4 days ago) - Dockerfile cross-compilation helpers
-- [containers/image](https://github.com/containers/image) ([v5.32.0](https://github.com/containers/image/releases/tag/v5.32.0), 5 days ago) - Work with containers&#39; images
-- [moby/moby](https://github.com/moby/moby) ([v25.0.6](https://github.com/moby/moby/releases/tag/v25.0.6), 5 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/buildx](https://github.com/docker/buildx) ([v0.16.2](https://github.com/docker/buildx/releases/tag/v0.16.2), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.36.0](https://github.com/docker/actions-toolkit/releases/tag/v0.36.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.0](https://github.com/abiosoft/colima/releases/tag/v0.7.0), 1 day ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.6.1](https://github.com/docker/setup-buildx-action/releases/tag/v3.6.1), 2 days ago) - GitHub Action to set up Docker Buildx
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.5.0](https://github.com/tonistiigi/xx/releases/tag/v1.5.0), 5 days ago) - Dockerfile cross-compilation helpers
+- [containers/image](https://github.com/containers/image) ([v5.32.0](https://github.com/containers/image/releases/tag/v5.32.0), 6 days ago) - Work with containers&#39; images
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (9 months ago)
