@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 days ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.37.0](https://github.com/docker/actions-toolkit/releases/tag/v0.37.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
-- [librenms/docker](https://github.com/librenms/docker) ([24.6.0-r0](https://github.com/librenms/docker/releases/tag/24.6.0-r0), 2 days ago) - LibreNMS Docker image
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.0](https://github.com/abiosoft/colima/releases/tag/v0.7.0), 3 days ago) - Container runtimes on macOS (and Linux) with minimal setup
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.6.1](https://github.com/docker/setup-buildx-action/releases/tag/v3.6.1), 4 days ago) - GitHub Action to set up Docker Buildx
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.37.0](https://github.com/docker/actions-toolkit/releases/tag/v0.37.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
+- [librenms/docker](https://github.com/librenms/docker) ([24.6.0-r0](https://github.com/librenms/docker/releases/tag/24.6.0-r0), 3 days ago) - LibreNMS Docker image
+- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.0](https://github.com/abiosoft/colima/releases/tag/v0.7.0), 4 days ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.6.1](https://github.com/docker/setup-buildx-action/releases/tag/v3.6.1), 5 days ago) - GitHub Action to set up Docker Buildx
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.5.0](https://github.com/tonistiigi/xx/releases/tag/v1.5.0), 1 week ago) - Dockerfile cross-compilation helpers
 
 #### ❤️ Latest sponsors
