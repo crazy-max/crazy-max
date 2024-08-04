@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) - 🚀 Visual Studio Code portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.37.0](https://github.com/docker/actions-toolkit/releases/tag/v0.37.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
-- [librenms/docker](https://github.com/librenms/docker) ([24.6.0-r0](https://github.com/librenms/docker/releases/tag/24.6.0-r0), 3 days ago) - LibreNMS Docker image
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.0](https://github.com/abiosoft/colima/releases/tag/v0.7.0), 4 days ago) - Container runtimes on macOS (and Linux) with minimal setup
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.6.1](https://github.com/docker/setup-buildx-action/releases/tag/v3.6.1), 5 days ago) - GitHub Action to set up Docker Buildx
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.5.0](https://github.com/tonistiigi/xx/releases/tag/v1.5.0), 1 week ago) - Dockerfile cross-compilation helpers
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([29.0.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/29.0.4-r0), 1 day ago) - Nextcloud Docker image
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1095-27](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1095-27), 1 day ago) - 🚀 Discord PTB portable for Windows
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9156-20](https://github.com/portapps/discord-portable/releases/tag/1.0.9156-20), 1 day ago) - 🚀 Discord portable for Windows
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.92.0-49](https://github.com/portapps/vscode-portable/releases/tag/1.92.0-49), 1 day ago) - 🚀 Visual Studio Code portable for Windows
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([127.0.6533.89-18](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/127.0.6533.89-18), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (9 months ago)
