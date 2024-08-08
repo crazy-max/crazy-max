@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (4 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [containers/image](https://github.com/containers/image) ([v5.29.5](https://github.com/containers/image/releases/tag/v5.29.5), 2 days ago) - Work with containers&#39; images
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([29.0.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/29.0.4-r0), 4 days ago) - Nextcloud Docker image
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1095-27](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1095-27), 4 days ago) - 🚀 Discord PTB portable for Windows
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9156-20](https://github.com/portapps/discord-portable/releases/tag/1.0.9156-20), 4 days ago) - 🚀 Discord portable for Windows
-- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.92.0-49](https://github.com/portapps/vscode-portable/releases/tag/1.92.0-49), 4 days ago) - 🚀 Visual Studio Code portable for Windows
+- [docker/bake-action](https://github.com/docker/bake-action) ([v5.6.1](https://github.com/docker/bake-action/releases/tag/v5.6.1), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.6.1](https://github.com/docker/build-push-action/releases/tag/v6.6.1), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.37.1](https://github.com/docker/actions-toolkit/releases/tag/v0.37.1), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [containers/image](https://github.com/containers/image) ([v5.29.5](https://github.com/containers/image/releases/tag/v5.29.5), 3 days ago) - Work with containers&#39; images
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (9 months ago)
