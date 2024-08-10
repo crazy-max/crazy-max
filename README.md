@@ -4,9 +4,9 @@
 
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (2 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [docker/bake-action](https://github.com/docker/bake-action) ([v5.6.1](https://github.com/docker/bake-action/releases/tag/v5.6.1), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.6.1](https://github.com/docker/build-push-action/releases/tag/v6.6.1), 2 days ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.37.1](https://github.com/docker/actions-toolkit/releases/tag/v0.37.1), 2 days ago) - Toolkit for Docker (GitHub) Actions
-- [containers/image](https://github.com/containers/image) ([v5.29.5](https://github.com/containers/image/releases/tag/v5.29.5), 4 days ago) - Work with containers&#39; images
+- [containers/image](https://github.com/containers/image) ([v5.32.1](https://github.com/containers/image/releases/tag/v5.32.1), 1 day ago) - Work with containers&#39; images
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [docker/bake-action](https://github.com/docker/bake-action) ([v5.6.1](https://github.com/docker/bake-action/releases/tag/v5.6.1), 3 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.6.1](https://github.com/docker/build-push-action/releases/tag/v6.6.1), 3 days ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.37.1](https://github.com/docker/actions-toolkit/releases/tag/v0.37.1), 3 days ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
-- [Henrik Soerensen](https://github.com/hsoerensen) (1 day ago)
+- [Henrik Soerensen](https://github.com/hsoerensen) (2 days ago)
 - _Anonymous_ (9 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (9 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (2 years ago)
