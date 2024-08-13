@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (4 days ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (4 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (5 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (5 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.1](https://github.com/abiosoft/colima/releases/tag/v0.7.1), 2 days ago) - Container runtimes on macOS (and Linux) with minimal setup
-- [containers/image](https://github.com/containers/image) ([v5.32.1](https://github.com/containers/image/releases/tag/v5.32.1), 3 days ago) - Work with containers&#39; images
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [docker/bake-action](https://github.com/docker/bake-action) ([v5.6.1](https://github.com/docker/bake-action/releases/tag/v5.6.1), 5 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.6.1](https://github.com/docker/build-push-action/releases/tag/v6.6.1), 5 days ago) - GitHub Action to build and push Docker images with Buildx
+- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.1](https://github.com/abiosoft/colima/releases/tag/v0.7.1), 3 days ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [containers/image](https://github.com/containers/image) ([v5.32.1](https://github.com/containers/image/releases/tag/v5.32.1), 4 days ago) - Work with containers&#39; images
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [docker/bake-action](https://github.com/docker/bake-action) ([v5.6.1](https://github.com/docker/bake-action/releases/tag/v5.6.1), 6 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.6.1](https://github.com/docker/build-push-action/releases/tag/v6.6.1), 6 days ago) - GitHub Action to build and push Docker images with Buildx
 
 #### ❤️ Latest sponsors
-- [Henrik Soerensen](https://github.com/hsoerensen) (4 days ago)
+- [Henrik Soerensen](https://github.com/hsoerensen) (5 days ago)
 - _Anonymous_ (9 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (9 months ago)
 - [Pavel Boldyrev](https://github.com/bpg) (2 years ago)
