@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (3 days ago)
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (6 days ago)
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (6 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 week ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (2 days ago)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v23.0.14](https://github.com/moby/moby/releases/tag/v23.0.14), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.33.0](https://github.com/crazy-max/xgo/releases/tag/v0.33.0), 2 days ago) - Go CGO cross compiler
-- [docker/compose](https://github.com/docker/compose) ([v2.29.2](https://github.com/docker/compose/releases/tag/v2.29.2), 4 days ago) - Define and run multi-container applications with Docker
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.15.2](https://github.com/moby/buildkit/releases/tag/v0.15.2), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.2.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.2.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.5.0](https://github.com/tonistiigi/xx/releases/tag/v1.5.0), 1 day ago) - Dockerfile cross-compilation helpers
+- [containers/image](https://github.com/containers/image) ([v5.32.2](https://github.com/containers/image/releases/tag/v5.32.2), 1 day ago) - Work with containers&#39; images
+- [moby/moby](https://github.com/moby/moby) ([v23.0.14](https://github.com/moby/moby/releases/tag/v23.0.14), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.33.0](https://github.com/crazy-max/xgo/releases/tag/v0.33.0), 3 days ago) - Go CGO cross compiler
+- [docker/compose](https://github.com/docker/compose) ([v2.29.2](https://github.com/docker/compose/releases/tag/v2.29.2), 5 days ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Henrik Soerensen](https://github.com/hsoerensen) (1 week ago)
