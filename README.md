@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - GitHub Action to set up containerd (1 day ago)
 - [moby/buildkit-bench](https://github.com/moby/buildkit-bench) -  (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (4 days ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (4 days ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (4 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (5 days ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (5 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v27.2.0](https://github.com/moby/moby/releases/tag/v27.2.0), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.5](https://github.com/abiosoft/colima/releases/tag/v0.7.5), 3 days ago) - Container runtimes on macOS (and Linux) with minimal setup
-- [librenms/docker](https://github.com/librenms/docker) ([24.8.1-r0](https://github.com/librenms/docker/releases/tag/24.8.1-r0), 4 days ago) - LibreNMS Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([29.0.5-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/29.0.5-r0), 4 days ago) - Nextcloud Docker image
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.2.3-r0](https://github.com/anonaddy/docker/releases/tag/1.2.3-r0), 4 days ago) - AnonAddy Docker image
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [moby/moby](https://github.com/moby/moby) ([v27.2.0](https://github.com/moby/moby/releases/tag/v27.2.0), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.7.5](https://github.com/abiosoft/colima/releases/tag/v0.7.5), 4 days ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [librenms/docker](https://github.com/librenms/docker) ([24.8.1-r0](https://github.com/librenms/docker/releases/tag/24.8.1-r0), 5 days ago) - LibreNMS Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([29.0.5-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/29.0.5-r0), 5 days ago) - Nextcloud Docker image
 
 #### ❤️ Latest sponsors
 - [Henrik Soerensen](https://github.com/hsoerensen) (3 weeks ago)
