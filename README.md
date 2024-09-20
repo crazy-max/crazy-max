@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (6 days ago)
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages (6 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v27.3.0-rc.2](https://github.com/moby/moby/releases/tag/v27.3.0-rc.2), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/compose](https://github.com/docker/compose) ([v2.29.5](https://github.com/docker/compose/releases/tag/v2.29.5), 2 days ago) - Define and run multi-container applications with Docker
-- [docker/buildx](https://github.com/docker/buildx) ([v0.17.1](https://github.com/docker/buildx/releases/tag/v0.17.1), 6 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/moby](https://github.com/moby/moby) ([v27.3.0](https://github.com/moby/moby/releases/tag/v27.3.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose](https://github.com/docker/compose) ([v2.29.6](https://github.com/docker/compose/releases/tag/v2.29.6), 1 day ago) - Define and run multi-container applications with Docker
+- [docker/buildx](https://github.com/docker/buildx) ([v0.17.1](https://github.com/docker/buildx/releases/tag/v0.17.1), 1 week ago) - Docker CLI plugin for extended build capabilities with BuildKit
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.1.1-r1](https://github.com/crazy-max/docker-matomo/releases/tag/5.1.1-r1), 1 week ago) - Matomo (formerly Piwik) Docker image
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.16.0](https://github.com/moby/buildkit/releases/tag/v0.16.0), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (6 days ago)
+- _Anonymous_ (1 week ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (1 month ago)
 - _Anonymous_ (11 months ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (11 months ago)
