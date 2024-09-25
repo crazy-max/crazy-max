@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (5 days ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v27.3.1](https://github.com/moby/moby/releases/tag/v27.3.1), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/compose](https://github.com/docker/compose) ([v2.29.7](https://github.com/docker/compose/releases/tag/v2.29.7), 4 days ago) - Define and run multi-container applications with Docker
+- [moby/moby](https://github.com/moby/moby) ([v27.3.1](https://github.com/moby/moby/releases/tag/v27.3.1), 5 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose](https://github.com/docker/compose) ([v2.29.7](https://github.com/docker/compose/releases/tag/v2.29.7), 5 days ago) - Define and run multi-container applications with Docker
 - [docker/buildx](https://github.com/docker/buildx) ([v0.17.1](https://github.com/docker/buildx/releases/tag/v0.17.1), 1 week ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.1.1-r1](https://github.com/crazy-max/docker-matomo/releases/tag/5.1.1-r1), 1 week ago) - Matomo (formerly Piwik) Docker image
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.1.1-r1](https://github.com/crazy-max/docker-matomo/releases/tag/5.1.1-r1), 2 weeks ago) - Matomo (formerly Piwik) Docker image
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.16.0](https://github.com/moby/buildkit/releases/tag/v0.16.0), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
