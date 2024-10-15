@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (today)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (6 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (6 days ago)
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.18.0-rc1](https://github.com/docker/buildx/releases/tag/v0.18.0-rc1), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.11.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.11.0-rc1-labs), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildx](https://github.com/docker/buildx) ([v0.18.0-rc1](https://github.com/docker/buildx/releases/tag/v0.18.0-rc1), 6 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.11.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.11.0-rc1-labs), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [moby/moby](https://github.com/moby/moby) ([v23.0.15](https://github.com/moby/moby/releases/tag/v23.0.15), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [portapps/portapps](https://github.com/portapps/portapps) ([v3.12.0](https://github.com/portapps/portapps/releases/tag/v3.12.0), 1 week ago) - 🛰 Collection of portable apps for Windows
 - [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.2.0.0-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.2.0.0-r0), 1 week ago) - Alpine Linux with s6 overlay
@@ -27,7 +27,7 @@
 #### ❤️ Latest sponsors
 - [Henrik Soerensen](https://github.com/hsoerensen) (2 months ago)
 - _Anonymous_ (11 months ago)
-- [Bryan Pinsker](https://github.com/BryanPinsker) (11 months ago)
+- [Bryan Pinsker](https://github.com/BryanPinsker) (1 year ago)
 - [Pavel Boldyrev](https://github.com/bpg) (2 years ago)
 - [Baptiste Canton](https://github.com/batmac) (2 years ago)
 
