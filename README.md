@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 week ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 week ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (today)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (today)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (today)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (today)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.40.0](https://github.com/docker/actions-toolkit/releases/tag/v0.40.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v3.2.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v3.2.0), 1 day ago) - GitHub Action for Chocolatey, the package manager for Windows
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.40.0](https://github.com/docker/actions-toolkit/releases/tag/v0.40.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
 - [librenms/docker](https://github.com/librenms/docker) ([24.9.1-r0](https://github.com/librenms/docker/releases/tag/24.9.1-r0), 1 week ago) - LibreNMS Docker image
 - [docker/buildx](https://github.com/docker/buildx) ([v0.18.0-rc1](https://github.com/docker/buildx/releases/tag/v0.18.0-rc1), 2 weeks ago) - Docker CLI plugin for extended build capabilities with BuildKit
 - [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.11.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.11.0-rc1-labs), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [moby/moby](https://github.com/moby/moby) ([v23.0.15](https://github.com/moby/moby/releases/tag/v23.0.15), 2 weeks ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Henrik Soerensen](https://github.com/hsoerensen) (2 months ago)
