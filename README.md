@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (today)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (today)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (today)
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (today)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (today)
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (today)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - GitHub Action to check Docker system status in your workflow (1 day ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages (1 day ago)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v3.2.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v3.2.0), 1 day ago) - GitHub Action for Chocolatey, the package manager for Windows
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.40.0](https://github.com/docker/actions-toolkit/releases/tag/v0.40.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
-- [librenms/docker](https://github.com/librenms/docker) ([24.9.1-r0](https://github.com/librenms/docker/releases/tag/24.9.1-r0), 1 week ago) - LibreNMS Docker image
-- [docker/buildx](https://github.com/docker/buildx) ([v0.18.0-rc1](https://github.com/docker/buildx/releases/tag/v0.18.0-rc1), 2 weeks ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.11.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.11.0-rc1-labs), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v3.1.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v3.1.0), 1 day ago) - GitHub Action to set up containerd
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v6.2.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v6.2.0), 1 day ago) - GitHub Action to import a GPG key
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) ([v3.1.0](https://github.com/crazy-max/ghaction-hugo/releases/tag/v3.1.0), 1 day ago) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) ([v4.1.0](https://github.com/crazy-max/ghaction-github-status/releases/tag/v4.1.0), 1 day ago) - GitHub Action to check GitHub Status in your workflow
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) ([v4.1.0](https://github.com/crazy-max/ghaction-github-pages/releases/tag/v4.1.0), 1 day ago) - GitHub Action to deploy to GitHub Pages
 
 #### ❤️ Latest sponsors
 - [Henrik Soerensen](https://github.com/hsoerensen) (2 months ago)
