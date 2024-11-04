@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [crazy-max/docker-healthchecks](https://github.com/crazy-max/docker-healthchecks) - Healthchecks Docker image (1 day ago)
+- [crazy-max/docker-ejtserver](https://github.com/crazy-max/docker-ejtserver) - EJT License Server Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.19.9-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.19.9-r0), 1 day ago) - Samba Docker image
-- [docker/buildx](https://github.com/docker/buildx) ([v0.18.0](https://github.com/docker/buildx/releases/tag/v0.18.0), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.0](https://github.com/moby/buildkit/releases/tag/v0.17.0), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.42.0](https://github.com/docker/actions-toolkit/releases/tag/v0.42.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
-- [docker/compose](https://github.com/docker/compose) ([v2.30.1](https://github.com/docker/compose/releases/tag/v2.30.1), 4 days ago) - Define and run multi-container applications with Docker
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) ([17.05-r1](https://github.com/crazy-max/docker-7zip/releases/tag/17.05-r1), 1 day ago) - 7-Zip Docker image
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.8.0-r6-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.8.0-r6-r0), 1 day ago) - RRDcached Docker image
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.0-r0](https://github.com/anonaddy/docker/releases/tag/1.3.0-r0), 1 day ago) - AnonAddy Docker image
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([8.0.1-r0](https://github.com/crazy-max/docker-linguist/releases/tag/8.0.1-r0), 1 day ago) - GitHub Linguist Docker image
+- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) ([1.14.1-r0](https://github.com/crazy-max/docker-spliit/releases/tag/1.14.1-r0), 1 day ago) - Spliit Docker image
 
 #### ❤️ Latest sponsors
-- [Eduardo Teles](https://github.com/eduardoteles17) (5 days ago)
+- [Eduardo Teles](https://github.com/eduardoteles17) (6 days ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (2 months ago)
 - _Anonymous_ (1 year ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (1 year ago)
