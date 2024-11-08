@@ -2,27 +2,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [tonistiigi/go-actions-cache](https://github.com/tonistiigi/go-actions-cache) -  (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (2 days ago)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (4 days ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [crazy-max/docker-captains-briefing-20241106](https://github.com/crazy-max/docker-captains-briefing-20241106)
 - [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) - Spliit Docker image
 - [crazy-max/xcalxls2csv](https://github.com/crazy-max/xcalxls2csv) - Xcalibur XLS data frames to CSV
 - [crazy-max/alpine-edge-musl-segfault](https://github.com/crazy-max/alpine-edge-musl-segfault)
 - [crazy-max/.github](https://github.com/crazy-max/.github)
-- [crazy-max/xmlrpc-c](https://github.com/crazy-max/xmlrpc-c) - Mirror of xmlrpc-c
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose](https://github.com/docker/compose) ([v2.30.2](https://github.com/docker/compose/releases/tag/v2.30.2), 2 days ago) - Define and run multi-container applications with Docker
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) ([17.05-r1](https://github.com/crazy-max/docker-7zip/releases/tag/17.05-r1), 4 days ago) - 7-Zip Docker image
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.8.0-r6-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.8.0-r6-r0), 4 days ago) - RRDcached Docker image
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.0-r0](https://github.com/anonaddy/docker/releases/tag/1.3.0-r0), 4 days ago) - AnonAddy Docker image
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([8.0.1-r0](https://github.com/crazy-max/docker-linguist/releases/tag/8.0.1-r0), 4 days ago) - GitHub Linguist Docker image
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.43.0](https://github.com/docker/actions-toolkit/releases/tag/v0.43.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.1.0), 1 day ago) - GitHub Action for GoReleaser
+- [docker/compose](https://github.com/docker/compose) ([v2.30.3](https://github.com/docker/compose/releases/tag/v2.30.3), 1 day ago) - Define and run multi-container applications with Docker
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([30.0.1-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/30.0.1-r1), 1 day ago) - Nextcloud Docker image
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 week ago)
