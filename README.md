@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (1 day ago)
-- [tonistiigi/go-actions-cache](https://github.com/tonistiigi/go-actions-cache) -  (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (1 day ago)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.43.0](https://github.com/docker/actions-toolkit/releases/tag/v0.43.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.1.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.1.0), 1 day ago) - GitHub Action for GoReleaser
-- [docker/compose](https://github.com/docker/compose) ([v2.30.3](https://github.com/docker/compose/releases/tag/v2.30.3), 1 day ago) - Define and run multi-container applications with Docker
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([30.0.1-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/30.0.1-r1), 1 day ago) - Nextcloud Docker image
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.14.1](https://github.com/portapps/portapps/releases/tag/v3.14.1), 1 day ago) - 🛰 Collection of portable apps for Windows
+- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.8.0](https://github.com/abiosoft/colima/releases/tag/v0.8.0), 1 day ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.1](https://github.com/moby/buildkit/releases/tag/v0.17.1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.43.0](https://github.com/docker/actions-toolkit/releases/tag/v0.43.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 week ago)
