@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (1 day ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (2 days ago)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (2 days ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (2 days ago)
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (2 days ago)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.14.1](https://github.com/portapps/portapps/releases/tag/v3.14.1), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.8.0](https://github.com/abiosoft/colima/releases/tag/v0.8.0), 1 day ago) - Container runtimes on macOS (and Linux) with minimal setup
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.1](https://github.com/moby/buildkit/releases/tag/v0.17.1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.43.0](https://github.com/docker/actions-toolkit/releases/tag/v0.43.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [portapps/portapps](https://github.com/portapps/portapps) ([v3.14.1](https://github.com/portapps/portapps/releases/tag/v3.14.1), 2 days ago) - 🛰 Collection of portable apps for Windows
+- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.8.0](https://github.com/abiosoft/colima/releases/tag/v0.8.0), 2 days ago) - Container runtimes on macOS (and Linux) with minimal setup
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.1](https://github.com/moby/buildkit/releases/tag/v0.17.1), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 3 days ago) - The toolkit to pack, ship, store, and deliver container content
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.43.0](https://github.com/docker/actions-toolkit/releases/tag/v0.43.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 week ago)
