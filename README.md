@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (2 days ago)
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (2 days ago)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (2 days ago)
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (2 days ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (2 days ago)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
+- [portapps/skype-portable](https://github.com/portapps/skype-portable) - 🚀 Skype portable for Windows  (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (1 day ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([v3.14.1](https://github.com/portapps/portapps/releases/tag/v3.14.1), 2 days ago) - 🛰 Collection of portable apps for Windows
-- [abiosoft/colima](https://github.com/abiosoft/colima) ([v0.8.0](https://github.com/abiosoft/colima/releases/tag/v0.8.0), 2 days ago) - Container runtimes on macOS (and Linux) with minimal setup
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.1](https://github.com/moby/buildkit/releases/tag/v0.17.1), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 3 days ago) - The toolkit to pack, ship, store, and deliver container content
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.43.0](https://github.com/docker/actions-toolkit/releases/tag/v0.43.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([130.0.6723.122-19](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/130.0.6723.122-19), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.215-12](https://github.com/portapps/tabby-portable/releases/tag/1.0.215-12), 1 day ago) - 🚀 Tabby portable for Windows 
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.29.1-9](https://github.com/portapps/ueli-portable/releases/tag/8.29.1-9), 1 day ago) - 🚀 ueli portable for Windows
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.71.123-93](https://github.com/portapps/brave-portable/releases/tag/1.71.123-93), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([11.19.0-61](https://github.com/portapps/postman-portable/releases/tag/11.19.0-61), 1 day ago) - 🚀 Postman portable for Windows
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 week ago)
