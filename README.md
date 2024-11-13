@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [portapps/caprine-portable](https://github.com/portapps/caprine-portable) - 🚀 Caprine portable for Windows (1 day ago)
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (2 days ago)
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (2 days ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
+- [portapps/kitty-portable](https://github.com/portapps/kitty-portable) - 🚀 KiTTY portable for Windows  (1 day ago)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
+- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/portapps](https://github.com/portapps/portapps) ([tool/resourcehacker-5.2.7](https://github.com/portapps/portapps/releases/tag/tool/resourcehacker-5.2.7), 1 day ago) - 🛰 Collection of portable apps for Windows
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([130.0.6723.122-19](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/130.0.6723.122-19), 2 days ago) - 🚀 Ungoogled Chromium portable for Windows
-- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.215-12](https://github.com/portapps/tabby-portable/releases/tag/1.0.215-12), 2 days ago) - 🚀 Tabby portable for Windows 
-- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([8.29.1-9](https://github.com/portapps/ueli-portable/releases/tag/8.29.1-9), 2 days ago) - 🚀 ueli portable for Windows
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.71.123-93](https://github.com/portapps/brave-portable/releases/tag/1.71.123-93), 2 days ago) - 🚀 Brave web browser portable for Windows
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.14.0-14](https://github.com/portapps/cryptomator-portable/releases/tag/1.14.0-14), 1 day ago) - 🚀 Cryptomator portable for Windows
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.5.1-30](https://github.com/portapps/waterfox-portable/releases/tag/6.5.1-30), 1 day ago) - 🚀 Waterfox portable for Windows 
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([132.0.1-67](https://github.com/portapps/phyrox-portable/releases/tag/132.0.1-67), 1 day ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([128.4.0-64](https://github.com/portapps/phyrox-esr-portable/releases/tag/128.4.0-64), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([133.0b7-51](https://github.com/portapps/phyrox-developer-portable/releases/tag/133.0b7-51), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (2 weeks ago)
