@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
-- [portapps/kitty-portable](https://github.com/portapps/kitty-portable) - 🚀 KiTTY portable for Windows  (1 day ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
-- [portapps/gnupg-portable](https://github.com/portapps/gnupg-portable) - 🚀 GnuPG portable for Windows (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.14.0-14](https://github.com/portapps/cryptomator-portable/releases/tag/1.14.0-14), 1 day ago) - 🚀 Cryptomator portable for Windows
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.5.1-30](https://github.com/portapps/waterfox-portable/releases/tag/6.5.1-30), 1 day ago) - 🚀 Waterfox portable for Windows 
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([132.0.1-67](https://github.com/portapps/phyrox-portable/releases/tag/132.0.1-67), 1 day ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([128.4.0-64](https://github.com/portapps/phyrox-esr-portable/releases/tag/128.4.0-64), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([133.0b7-51](https://github.com/portapps/phyrox-developer-portable/releases/tag/133.0b7-51), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.44.0](https://github.com/docker/actions-toolkit/releases/tag/v0.44.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.14.0-14](https://github.com/portapps/cryptomator-portable/releases/tag/1.14.0-14), 2 days ago) - 🚀 Cryptomator portable for Windows
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.5.1-30](https://github.com/portapps/waterfox-portable/releases/tag/6.5.1-30), 2 days ago) - 🚀 Waterfox portable for Windows 
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([132.0.1-67](https://github.com/portapps/phyrox-portable/releases/tag/132.0.1-67), 2 days ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([128.4.0-64](https://github.com/portapps/phyrox-esr-portable/releases/tag/128.4.0-64), 2 days ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (2 weeks ago)
