@@ -4,9 +4,9 @@
 
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
+- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (3 days ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.6.1](https://github.com/docker/metadata-action/releases/tag/v5.6.1), 2 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [moby/moby](https://github.com/moby/moby) ([v27.4.0-rc.2](https://github.com/moby/moby/releases/tag/v27.4.0-rc.2), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.45.0](https://github.com/docker/actions-toolkit/releases/tag/v0.45.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.12.0-rc1](https://github.com/moby/buildkit/releases/tag/dockerfile/1.12.0-rc1), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.6.1](https://github.com/docker/metadata-action/releases/tag/v5.6.1), 3 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [moby/moby](https://github.com/moby/moby) ([v27.4.0-rc.2](https://github.com/moby/moby/releases/tag/v27.4.0-rc.2), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.45.0](https://github.com/docker/actions-toolkit/releases/tag/v0.45.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
 - [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.14.0-14](https://github.com/portapps/cryptomator-portable/releases/tag/1.14.0-14), 1 week ago) - 🚀 Cryptomator portable for Windows
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.5.1-30](https://github.com/portapps/waterfox-portable/releases/tag/6.5.1-30), 1 week ago) - 🚀 Waterfox portable for Windows 
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (3 weeks ago)
