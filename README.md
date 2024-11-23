@@ -2,27 +2,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
-- [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE (3 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (3 days ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [crazy-max/go-longpath-win](https://github.com/crazy-max/go-longpath-win)
 - [crazy-max/docker-captains-briefing-20241106](https://github.com/crazy-max/docker-captains-briefing-20241106)
 - [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) - Spliit Docker image
 - [crazy-max/xcalxls2csv](https://github.com/crazy-max/xcalxls2csv) - Xcalibur XLS data frames to CSV
 - [crazy-max/alpine-edge-musl-segfault](https://github.com/crazy-max/alpine-edge-musl-segfault)
-- [crazy-max/.github](https://github.com/crazy-max/.github)
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.12.0-rc1](https://github.com/moby/buildkit/releases/tag/dockerfile/1.12.0-rc1), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.6.1](https://github.com/docker/metadata-action/releases/tag/v5.6.1), 3 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [moby/moby](https://github.com/moby/moby) ([v27.4.0-rc.2](https://github.com/moby/moby/releases/tag/v27.4.0-rc.2), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.45.0](https://github.com/docker/actions-toolkit/releases/tag/v0.45.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
-- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) ([1.14.0-14](https://github.com/portapps/cryptomator-portable/releases/tag/1.14.0-14), 1 week ago) - 🚀 Cryptomator portable for Windows
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.2](https://github.com/moby/buildkit/releases/tag/v0.17.2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildx](https://github.com/docker/buildx) ([v0.19.0-rc1](https://github.com/docker/buildx/releases/tag/v0.19.0-rc1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.6.1](https://github.com/docker/metadata-action/releases/tag/v5.6.1), 4 days ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [moby/moby](https://github.com/moby/moby) ([v27.4.0-rc.2](https://github.com/moby/moby/releases/tag/v27.4.0-rc.2), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.45.0](https://github.com/docker/actions-toolkit/releases/tag/v0.45.0), 5 days ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (3 weeks ago)
