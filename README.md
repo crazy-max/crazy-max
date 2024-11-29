@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/docker](https://github.com/librenms/docker) ([24.10.1-r0](https://github.com/librenms/docker/releases/tag/24.10.1-r0), 1 day ago) - LibreNMS Docker image
-- [docker/buildx](https://github.com/docker/buildx) ([v0.19.1](https://github.com/docker/buildx/releases/tag/v0.19.1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [crazy-max/releases-json-test](https://github.com/crazy-max/releases-json-test) ([v0.2.0-rc1](https://github.com/crazy-max/releases-json-test/releases/tag/v0.2.0-rc1), 1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.18.0](https://github.com/moby/buildkit/releases/tag/v0.18.0), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.10.0](https://github.com/docker/build-push-action/releases/tag/v6.10.0), 2 days ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/compose](https://github.com/docker/compose) ([v2.31.0](https://github.com/docker/compose/releases/tag/v2.31.0), 1 day ago) - Define and run multi-container applications with Docker
+- [librenms/docker](https://github.com/librenms/docker) ([24.10.1-r0](https://github.com/librenms/docker/releases/tag/24.10.1-r0), 2 days ago) - LibreNMS Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.19.1](https://github.com/docker/buildx/releases/tag/v0.19.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/releases-json-test](https://github.com/crazy-max/releases-json-test) ([v0.2.0-rc1](https://github.com/crazy-max/releases-json-test/releases/tag/v0.2.0-rc1), 2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.18.0](https://github.com/moby/buildkit/releases/tag/v0.18.0), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 month ago)
