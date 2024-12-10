@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (3 days ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (4 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.0.0](https://github.com/docker/setup-docker-action/releases/tag/v4.0.0), 3 days ago) - GitHub Action to set up (download and install) Docker CE
-- [moby/moby](https://github.com/moby/moby) ([v23.0.16](https://github.com/moby/moby/releases/tag/v23.0.16), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.3](https://github.com/moby/buildkit/releases/tag/v0.17.3), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/bake-action](https://github.com/docker/bake-action) ([v5.11.0](https://github.com/docker/bake-action/releases/tag/v5.11.0), 6 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.47.0](https://github.com/docker/actions-toolkit/releases/tag/v0.47.0), 6 days ago) - Toolkit for Docker (GitHub) Actions
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.6.0](https://github.com/tonistiigi/xx/releases/tag/v1.6.0), 1 day ago) - Dockerfile cross-compilation helpers
+- [moby/moby](https://github.com/moby/moby) ([v27.4.0](https://github.com/moby/moby/releases/tag/v27.4.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.0.0](https://github.com/docker/setup-docker-action/releases/tag/v4.0.0), 4 days ago) - GitHub Action to set up (download and install) Docker CE
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.17.3](https://github.com/moby/buildkit/releases/tag/v0.17.3), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/bake-action](https://github.com/docker/bake-action) ([v5.11.0](https://github.com/docker/bake-action/releases/tag/v5.11.0), 1 week ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 month ago)
