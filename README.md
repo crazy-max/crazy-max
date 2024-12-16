@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([30.0.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/30.0.4-r0), 1 day ago) - Nextcloud Docker image
-- [docker/compose](https://github.com/docker/compose) ([v2.32.0](https://github.com/docker/compose/releases/tag/v2.32.0), 2 days ago) - Define and run multi-container applications with Docker
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.48.0](https://github.com/docker/actions-toolkit/releases/tag/v0.48.0), 3 days ago) - Toolkit for Docker (GitHub) Actions
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.5.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.5.0), 5 days ago) - BuildKit Syft scanner
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.6.1](https://github.com/tonistiigi/xx/releases/tag/v1.6.1), 5 days ago) - Dockerfile cross-compilation helpers
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([30.0.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/30.0.4-r0), 2 days ago) - Nextcloud Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.32.0](https://github.com/docker/compose/releases/tag/v2.32.0), 3 days ago) - Define and run multi-container applications with Docker
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.48.0](https://github.com/docker/actions-toolkit/releases/tag/v0.48.0), 4 days ago) - Toolkit for Docker (GitHub) Actions
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.5.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.5.0), 6 days ago) - BuildKit Syft scanner
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.6.1](https://github.com/tonistiigi/xx/releases/tag/v1.6.1), 6 days ago) - Dockerfile cross-compilation helpers
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 month ago)
