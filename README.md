@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.19.3](https://github.com/docker/buildx/releases/tag/v0.19.3), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.18.2](https://github.com/moby/buildkit/releases/tag/v0.18.2), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/compose](https://github.com/docker/compose) ([v2.32.1](https://github.com/docker/compose/releases/tag/v2.32.1), 2 days ago) - Define and run multi-container applications with Docker
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.1.0](https://github.com/docker/setup-docker-action/releases/tag/v4.1.0), 2 days ago) - GitHub Action to set up (download and install) Docker CE
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.49.0](https://github.com/docker/actions-toolkit/releases/tag/v0.49.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.2](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.2), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
+- [moby/moby](https://github.com/moby/moby) ([v27.4.1](https://github.com/moby/moby/releases/tag/v27.4.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/buildx](https://github.com/docker/buildx) ([v0.19.3](https://github.com/docker/buildx/releases/tag/v0.19.3), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.18.2](https://github.com/moby/buildkit/releases/tag/v0.18.2), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/compose](https://github.com/docker/compose) ([v2.32.1](https://github.com/docker/compose/releases/tag/v2.32.1), 3 days ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 month ago)
