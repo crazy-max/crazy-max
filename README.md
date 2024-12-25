@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (today)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (1 day ago)
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (1 day ago)
+- [crazy-max/docker-docker](https://github.com/crazy-max/docker-docker) - Docker in Docker (DinD) image (1 day ago)
+- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) - DokuWiki Docker image (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.1.5-6.3-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.1.5-6.3-r0), today) - rTorrent and ruTorrent Docker image
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.9.0](https://github.com/crazy-max/undock/releases/tag/v0.9.0), 1 day ago) - Extract contents of a container image in a local folder
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ([v1.14.0](https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.14.0), 1 day ago) - Create jobs on a time-based schedule on Docker Swarm
-- [moby/moby](https://github.com/moby/moby) ([v27.5.0-rc.1](https://github.com/moby/moby/releases/tag/v27.5.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) ([v0.4.0](https://github.com/crazy-max/gotestlist/releases/tag/v0.4.0), 3 days ago) - List tests in the given Go packages
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.0-r2](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.0-r2), 1 day ago) - Fail2ban Docker image
+- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2024-02-06b-r0](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2024-02-06b-r0), 1 day ago) - DokuWiki Docker image
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2024.12.2-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2024.12.2-r0), 1 day ago) - Cloudflared proxy-dns Docker image
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([3.2.0.2-r0](https://github.com/crazy-max/docker-alpine-s6/releases/tag/3.2.0.2-r0), 1 day ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.1.5-6.3-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.1.5-6.3-r0), 1 day ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
-- [Matthew Fuller](https://github.com/mathematics333) (5 days ago)
+- [Matthew Fuller](https://github.com/mathematics333) (6 days ago)
 - [Eduardo Teles](https://github.com/eduardoteles17) (1 month ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (4 months ago)
 - _Anonymous_ (1 year ago)
