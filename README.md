@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (3 days ago)
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 week ago)
 - [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 week ago)
 - [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image (1 week ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.1.5-7.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.1.5-7.2-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.1.5-7.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.1.5-7.2-r0), 2 days ago) - rTorrent and ruTorrent Docker image
 - [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.9.0-r0-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.9.0-r0-r0), 1 week ago) - RRDcached Docker image
 - [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([30.0.4-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/30.0.4-r1), 1 week ago) - Nextcloud Docker image
 - [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.27-r1](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.27-r1), 1 week ago) - Lightweight SMTP relay Docker image using msmtpd
