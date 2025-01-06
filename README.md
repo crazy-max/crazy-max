@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (4 days ago)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 week ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (today)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/docker](https://github.com/librenms/docker) ([24.12.0-r0](https://github.com/librenms/docker/releases/tag/24.12.0-r0), 1 day ago) - LibreNMS Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.1.5-7.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.1.5-7.2-r0), 3 days ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.9.0-r0-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.9.0-r0-r0), 1 week ago) - RRDcached Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([30.0.4-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/30.0.4-r1), 1 week ago) - Nextcloud Docker image
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.27-r1](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.27-r1), 1 week ago) - Lightweight SMTP relay Docker image using msmtpd
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2024.3.1.1-43](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2024.3.1.1-43), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2024.3.1.1-57](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2024.3.1.1-57), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([7.36.1-9](https://github.com/portapps/signal-portable/releases/tag/7.36.1-9), 1 day ago) - 🚀 Signal portable for Windows
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([24.1.1-40](https://github.com/portapps/smartgit-portable/releases/tag/24.1.1-40), 1 day ago) - 🚀 SmartGit portable for Windows 
+- [librenms/docker](https://github.com/librenms/docker) ([24.12.0-r0](https://github.com/librenms/docker/releases/tag/24.12.0-r0), 2 days ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (2 weeks ago)
