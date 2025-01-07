@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (today)
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2024.3.1.1-43](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2024.3.1.1-43), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2024.3.1.1-57](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2024.3.1.1-57), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
-- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([7.36.1-9](https://github.com/portapps/signal-portable/releases/tag/7.36.1-9), 1 day ago) - 🚀 Signal portable for Windows
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([24.1.1-40](https://github.com/portapps/smartgit-portable/releases/tag/24.1.1-40), 1 day ago) - 🚀 SmartGit portable for Windows 
-- [librenms/docker](https://github.com/librenms/docker) ([24.12.0-r0](https://github.com/librenms/docker/releases/tag/24.12.0-r0), 2 days ago) - LibreNMS Docker image
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2024.3.1.1-43](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2024.3.1.1-43), 2 days ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2024.3.1.1-57](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2024.3.1.1-57), 2 days ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([7.36.1-9](https://github.com/portapps/signal-portable/releases/tag/7.36.1-9), 2 days ago) - 🚀 Signal portable for Windows
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([24.1.1-40](https://github.com/portapps/smartgit-portable/releases/tag/24.1.1-40), 2 days ago) - 🚀 SmartGit portable for Windows 
+- [librenms/docker](https://github.com/librenms/docker) ([24.12.0-r0](https://github.com/librenms/docker/releases/tag/24.12.0-r0), 3 days ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (2 weeks ago)
