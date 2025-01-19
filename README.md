@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.20.0-rc3](https://github.com/docker/buildx/releases/tag/v0.20.0-rc3), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.19.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.19.0-rc3), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.6.0-rc.1](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.6.0-rc.1), 2 days ago) - BuildKit Syft scanner
-- [docker/compose](https://github.com/docker/compose) ([v2.32.4](https://github.com/docker/compose/releases/tag/v2.32.4), 3 days ago) - Define and run multi-container applications with Docker
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.12.0](https://github.com/docker/build-push-action/releases/tag/v6.12.0), 3 days ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/buildx](https://github.com/docker/buildx) ([v0.20.0-rc3](https://github.com/docker/buildx/releases/tag/v0.20.0-rc3), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.19.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.19.0-rc3), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.6.0-rc.1](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.6.0-rc.1), 3 days ago) - BuildKit Syft scanner
+- [docker/compose](https://github.com/docker/compose) ([v2.32.4](https://github.com/docker/compose/releases/tag/v2.32.4), 4 days ago) - Define and run multi-container applications with Docker
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.12.0](https://github.com/docker/build-push-action/releases/tag/v6.12.0), 4 days ago) - GitHub Action to build and push Docker images with Buildx
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (1 month ago)
