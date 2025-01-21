@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (today)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (3 days ago)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (3 days ago)
+- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) - Spliit Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.20.0-rc3](https://github.com/docker/buildx/releases/tag/v0.20.0-rc3), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.19.0-rc3](https://github.com/moby/buildkit/releases/tag/v0.19.0-rc3), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.6.0-rc.1](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.6.0-rc.1), 4 days ago) - BuildKit Syft scanner
-- [docker/compose](https://github.com/docker/compose) ([v2.32.4](https://github.com/docker/compose/releases/tag/v2.32.4), 5 days ago) - Define and run multi-container applications with Docker
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.12.0](https://github.com/docker/build-push-action/releases/tag/v6.12.0), 5 days ago) - GitHub Action to build and push Docker images with Buildx
+- [librenms/docker](https://github.com/librenms/docker) ([25.1.0-r0](https://github.com/librenms/docker/releases/tag/25.1.0-r0), 1 day ago) - LibreNMS Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.20.0](https://github.com/docker/buildx/releases/tag/v0.20.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.19.0](https://github.com/moby/buildkit/releases/tag/v0.19.0), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.52.0](https://github.com/docker/actions-toolkit/releases/tag/v0.52.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (1 month ago)
