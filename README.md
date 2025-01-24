@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (today)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (today)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (today)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.20.1](https://github.com/docker/buildx/releases/tag/v0.20.1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/moby](https://github.com/moby/moby) ([v27.5.1](https://github.com/moby/moby/releases/tag/v27.5.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/bake-action](https://github.com/docker/bake-action) ([v3.2.0](https://github.com/docker/bake-action/releases/tag/v3.2.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.53.0](https://github.com/docker/actions-toolkit/releases/tag/v0.53.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.6.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.6.0), 1 day ago) - BuildKit Syft scanner
-- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) ([1.15.0-r0](https://github.com/crazy-max/docker-spliit/releases/tag/1.15.0-r0), 2 days ago) - Spliit Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.20.1](https://github.com/docker/buildx/releases/tag/v0.20.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/moby](https://github.com/moby/moby) ([v27.5.1](https://github.com/moby/moby/releases/tag/v27.5.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (1 month ago)
