@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (1 day ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (3 days ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (3 days ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (3 days ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (2 days ago)
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (4 days ago)
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([5.0.3-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/5.0.3-r0), 1 day ago) - qBittorrent Docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r27](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r27), 3 days ago) - Alpine Linux with s6 overlay
-- [moby/moby](https://github.com/moby/moby) ([v28.0.0-rc.1](https://github.com/moby/moby/releases/tag/v28.0.0-rc.1), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.9.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.9.0), 5 days ago) - GitHub Action to set up Docker Buildx
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([desktop/v9.2.0-49](https://github.com/tonistiigi/binfmt/releases/tag/desktop/v9.2.0-49), 1 day ago) - Cross-platform emulator collection distributed with Docker images.
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.3](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.3), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.2.1](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.2.1), 1 day ago) - GitHub Action for GoReleaser
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.7.0), 1 day ago) - Release engineering, simplified
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) ([5.0.3-r0](https://github.com/crazy-max/docker-qbittorrent/releases/tag/5.0.3-r0), 2 days ago) - qBittorrent Docker image
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (1 month ago)
