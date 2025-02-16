@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (today)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.21.0-rc2](https://github.com/docker/buildx/releases/tag/v0.21.0-rc2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.14.0-rc2](https://github.com/moby/buildkit/releases/tag/dockerfile/1.14.0-rc2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.1-r0](https://github.com/anonaddy/docker/releases/tag/1.3.1-r0), 1 day ago) - AnonAddy Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([30.0.6-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/30.0.6-r0), 1 day ago) - Nextcloud Docker image
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.30.0](https://github.com/crazy-max/goxx/releases/tag/v0.30.0), 3 days ago) - Go CGO cross-compiler Docker image
-- [docker/compose](https://github.com/docker/compose) ([v2.33.0](https://github.com/docker/compose/releases/tag/v2.33.0), 3 days ago) - Define and run multi-container applications with Docker
+- [docker/buildx](https://github.com/docker/buildx) ([v0.21.0-rc2](https://github.com/docker/buildx/releases/tag/v0.21.0-rc2), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.14.0-rc2](https://github.com/moby/buildkit/releases/tag/dockerfile/1.14.0-rc2), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (1 month ago)
