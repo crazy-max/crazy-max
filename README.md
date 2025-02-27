@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [librenms/docker](https://github.com/librenms/docker) ([25.2.0-r0](https://github.com/librenms/docker/releases/tag/25.2.0-r0), 3 days ago) - LibreNMS Docker image
-- [docker/compose](https://github.com/docker/compose) ([v2.33.1](https://github.com/docker/compose/releases/tag/v2.33.1), 5 days ago) - Define and run multi-container applications with Docker
-- [docker/buildx](https://github.com/docker/buildx) ([v0.21.1](https://github.com/docker/buildx/releases/tag/v0.21.1), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/moby](https://github.com/moby/moby) ([v28.0.0](https://github.com/moby/moby/releases/tag/v28.0.0), 6 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v3.5.0](https://github.com/docker/setup-qemu-action/releases/tag/v3.5.0), 1 day ago) - GitHub Action to install QEMU static binaries
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.2.0](https://github.com/docker/setup-docker-action/releases/tag/v4.2.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) ([v1.2.0](https://github.com/docker/setup-compose-action/releases/tag/v1.2.0), 1 day ago) - GitHub Action to set up Docker Compose
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.10.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.10.0), 1 day ago) - GitHub Action to set up Docker Buildx
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.7.0](https://github.com/docker/metadata-action/releases/tag/v5.7.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (2 months ago)
