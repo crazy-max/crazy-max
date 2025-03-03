@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (today)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (1 day ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage (1 day ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v3.6.0](https://github.com/docker/setup-qemu-action/releases/tag/v3.6.0), 2 days ago) - GitHub Action to install QEMU static binaries
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.1](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.1), 2 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v9.2.2-52](https://github.com/tonistiigi/binfmt/releases/tag/deploy/v9.2.2-52), 3 days ago) - Cross-platform emulator collection distributed with Docker images.
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.2.0](https://github.com/docker/setup-docker-action/releases/tag/v4.2.0), 4 days ago) - GitHub Action to set up (download and install) Docker CE
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v3.3.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v3.3.0), 1 day ago) - GitHub Action for Chocolatey, the package manager for Windows
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v3.6.0](https://github.com/docker/setup-qemu-action/releases/tag/v3.6.0), 3 days ago) - GitHub Action to install QEMU static binaries
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.1](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.1), 3 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v9.2.2-52](https://github.com/tonistiigi/binfmt/releases/tag/deploy/v9.2.2-52), 4 days ago) - Cross-platform emulator collection distributed with Docker images.
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (2 months ago)
