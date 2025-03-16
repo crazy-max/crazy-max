@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (3 days ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.3](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.3), 1 day ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [docker/login-action](https://github.com/docker/login-action) ([v3.4.0](https://github.com/docker/login-action/releases/tag/v3.4.0), 1 day ago) - GitHub Action to login against a Docker registry
-- [docker/compose](https://github.com/docker/compose) ([v2.34.0](https://github.com/docker/compose/releases/tag/v2.34.0), 1 day ago) - Define and run multi-container applications with Docker
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.8.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.8.1), 1 day ago) - Release engineering, simplified
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.3.0](https://github.com/docker/setup-docker-action/releases/tag/v4.3.0), 3 days ago) - GitHub Action to set up (download and install) Docker CE
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.3](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.3), 2 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/login-action](https://github.com/docker/login-action) ([v3.4.0](https://github.com/docker/login-action/releases/tag/v3.4.0), 2 days ago) - GitHub Action to login against a Docker registry
+- [docker/compose](https://github.com/docker/compose) ([v2.34.0](https://github.com/docker/compose/releases/tag/v2.34.0), 2 days ago) - Define and run multi-container applications with Docker
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.3.0](https://github.com/docker/setup-docker-action/releases/tag/v4.3.0), 4 days ago) - GitHub Action to set up (download and install) Docker CE
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (2 months ago)
