@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (2 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (2 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v28.0.2](https://github.com/moby/moby/releases/tag/v28.0.2), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.1-r0), 1 day ago) - Nextcloud Docker image
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/buildx](https://github.com/docker/buildx) ([v0.22.0](https://github.com/docker/buildx/releases/tag/v0.22.0), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [librenms/docker](https://github.com/librenms/docker) ([25.3.0-r0](https://github.com/librenms/docker/releases/tag/25.3.0-r0), 3 days ago) - LibreNMS Docker image
+- [moby/moby](https://github.com/moby/moby) ([v28.0.2](https://github.com/moby/moby/releases/tag/v28.0.2), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.1-r0), 2 days ago) - Nextcloud Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.22.0](https://github.com/docker/buildx/releases/tag/v0.22.0), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [librenms/docker](https://github.com/librenms/docker) ([25.3.0-r0](https://github.com/librenms/docker/releases/tag/25.3.0-r0), 4 days ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (3 months ago)
