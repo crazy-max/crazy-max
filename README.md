@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (3 days ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (3 days ago)
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image (today)
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (today)
+- [crazy-max/docker-jetbrains-license-server](https://github.com/crazy-max/docker-jetbrains-license-server) - JetBrains License Server Docker image (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.28-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.28-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.3.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.3.1-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.4](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.4), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.2-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.2-r0), 1 day ago) - Nextcloud Docker image
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [moby/moby](https://github.com/moby/moby) ([v28.0.2](https://github.com/moby/moby/releases/tag/v28.0.2), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.1-r0), 3 days ago) - Nextcloud Docker image
-- [docker/buildx](https://github.com/docker/buildx) ([v0.22.0](https://github.com/docker/buildx/releases/tag/v0.22.0), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [librenms/docker](https://github.com/librenms/docker) ([25.3.0-r0](https://github.com/librenms/docker/releases/tag/25.3.0-r0), 5 days ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (3 months ago)
