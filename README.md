@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (today)
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (1 day ago)
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image (1 day ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (today)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key (today)
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - GitHub Action to set up containerd (today)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - GitHub Action to expose GitHub runtime to the workflow (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [moby/moby](https://github.com/moby/moby) ([v28.0.4](https://github.com/moby/moby/releases/tag/v28.0.4), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.20.2](https://github.com/moby/buildkit/releases/tag/v0.20.2), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.28-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.28-r0), 1 week ago) - Lightweight SMTP relay Docker image using msmtpd
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.3.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.3.1-r0), 1 week ago) - Matomo (formerly Piwik) Docker image
+- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v3.2.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v3.2.0), 1 day ago) - GitHub Action to set up containerd
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v6.3.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v6.3.0), 1 day ago) - GitHub Action to import a GPG key
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) ([v3.2.0](https://github.com/crazy-max/ghaction-hugo/releases/tag/v3.2.0), 1 day ago) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) ([v4.2.0](https://github.com/crazy-max/ghaction-github-status/releases/tag/v4.2.0), 1 day ago) - GitHub Action to check GitHub Status in your workflow
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) ([v3.1.0](https://github.com/crazy-max/ghaction-github-runtime/releases/tag/v3.1.0), 1 day ago) - GitHub Action to expose GitHub runtime to the workflow
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (3 months ago)
