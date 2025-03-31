@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (today)
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key (today)
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) - GitHub Action to set up containerd (today)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (1 day ago)
-- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - GitHub Action to expose GitHub runtime to the workflow (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (today)
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (today)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal (1 day ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/ghaction-setup-containerd](https://github.com/crazy-max/ghaction-setup-containerd) ([v3.2.0](https://github.com/crazy-max/ghaction-setup-containerd/releases/tag/v3.2.0), 1 day ago) - GitHub Action to set up containerd
-- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) ([v6.3.0](https://github.com/crazy-max/ghaction-import-gpg/releases/tag/v6.3.0), 1 day ago) - GitHub Action to import a GPG key
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) ([v3.2.0](https://github.com/crazy-max/ghaction-hugo/releases/tag/v3.2.0), 1 day ago) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites
-- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) ([v4.2.0](https://github.com/crazy-max/ghaction-github-status/releases/tag/v4.2.0), 1 day ago) - GitHub Action to check GitHub Status in your workflow
-- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) ([v3.1.0](https://github.com/crazy-max/ghaction-github-runtime/releases/tag/v3.1.0), 1 day ago) - GitHub Action to expose GitHub runtime to the workflow
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.36.0](https://github.com/crazy-max/xgo/releases/tag/v0.36.0), 1 day ago) - Go CGO cross compiler
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.31.0](https://github.com/crazy-max/goxx/releases/tag/v0.31.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [magefile/mage-action](https://github.com/magefile/mage-action) ([v3.1.0](https://github.com/magefile/mage-action/releases/tag/v3.1.0), 1 day ago) - GitHub Action for Mage
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.3.0), 1 day ago) - GitHub Action for GoReleaser
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) ([v3.2.0](https://github.com/crazy-max/ghaction-xgo/releases/tag/v3.2.0), 1 day ago) - GitHub Action for xgo, a Golang CGO cross compiler
 
 #### ❤️ Latest sponsors
 - [Matthew Fuller](https://github.com/mathematics333) (3 months ago)
