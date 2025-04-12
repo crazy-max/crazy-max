@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/octoguard](https://github.com/docker/octoguard) - Reusable GitHub Actions workflows for security scanning, auditing, and compliance (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) - 🚀 ueli portable for Windows (today)
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (today)
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) - 🚀 Tabby portable for Windows  (today)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/compose](https://github.com/docker/compose) ([v2.35.0](https://github.com/docker/compose/releases/tag/v2.35.0), 1 day ago) - Define and run multi-container applications with Docker
-- [docker/octoguard](https://github.com/docker/octoguard) ([v1.0.0](https://github.com/docker/octoguard/releases/tag/v1.0.0), 1 day ago) - Reusable GitHub Actions workflows for security scanning, auditing, and compliance
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.21.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.21.0-rc1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/buildx](https://github.com/docker/buildx) ([v0.23.0-rc1](https://github.com/docker/buildx/releases/tag/v0.23.0-rc1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([137.0.1-45](https://github.com/portapps/stormhen-portable/releases/tag/137.0.1-45), 1 day ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([9.21.0-10](https://github.com/portapps/ueli-portable/releases/tag/9.21.0-10), 1 day ago) - 🚀 ueli portable for Windows
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.223-13](https://github.com/portapps/tabby-portable/releases/tag/1.0.223-13), 1 day ago) - 🚀 Tabby portable for Windows 
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([134.0.6998.181-20](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/134.0.6998.181-20), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/vlc-portable](https://github.com/portapps/vlc-portable) ([3.0.21-12](https://github.com/portapps/vlc-portable/releases/tag/3.0.21-12), 1 day ago) - 🚀 VLC Media Player portable for Windows 
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (1 week ago)
