@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
-- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) - 🚀 ueli portable for Windows (today)
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (today)
-- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) - 🚀 Tabby portable for Windows  (today)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (today)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (today)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (today)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (today)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) - 🚀 ueli portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([137.0.1-45](https://github.com/portapps/stormhen-portable/releases/tag/137.0.1-45), 1 day ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
-- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([9.21.0-10](https://github.com/portapps/ueli-portable/releases/tag/9.21.0-10), 1 day ago) - 🚀 ueli portable for Windows
-- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) ([1.0.223-13](https://github.com/portapps/tabby-portable/releases/tag/1.0.223-13), 1 day ago) - 🚀 Tabby portable for Windows 
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([134.0.6998.181-20](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/134.0.6998.181-20), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
-- [portapps/vlc-portable](https://github.com/portapps/vlc-portable) ([3.0.21-12](https://github.com/portapps/vlc-portable/releases/tag/3.0.21-12), 1 day ago) - 🚀 VLC Media Player portable for Windows 
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2025.4.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2025.4.0-r0), today) - Cloudflared proxy-dns Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.1.7-7.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.1.7-7.2-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([137.0.1-45](https://github.com/portapps/stormhen-portable/releases/tag/137.0.1-45), 2 days ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([9.21.0-10](https://github.com/portapps/ueli-portable/releases/tag/9.21.0-10), 2 days ago) - 🚀 ueli portable for Windows
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (1 week ago)
 - [Matthew Fuller](https://github.com/mathematics333) (3 months ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (8 months ago)
 - _Anonymous_ (1 year ago)
-- [Bryan Pinsker](https://github.com/BryanPinsker) (1 year ago)
+- [Bryan Pinsker](https://github.com/BryanPinsker) (2 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
