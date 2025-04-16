@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (2 days ago)
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (2 days ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (2 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) - 🚀 ueli portable for Windows (today)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.3-r0), 2 days ago) - Nextcloud Docker image
-- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2025.4.0-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2025.4.0-r0), 2 days ago) - Cloudflared proxy-dns Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.1.7-7.2-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.1.7-7.2-r0), 3 days ago) - rTorrent and ruTorrent Docker image
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([137.0.1-45](https://github.com/portapps/stormhen-portable/releases/tag/137.0.1-45), 4 days ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([9.21.1-11](https://github.com/portapps/ueli-portable/releases/tag/9.21.1-11), 1 day ago) - 🚀 ueli portable for Windows
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.21.1](https://github.com/oliverschwendener/ueli/releases/tag/v9.21.1), 1 day ago) - Cross-Platform Keystroke Launcher
+- [docker/buildx](https://github.com/docker/buildx) ([v0.23.0](https://github.com/docker/buildx/releases/tag/v0.23.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.21.0](https://github.com/moby/buildkit/releases/tag/v0.21.0), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [librenms/docker](https://github.com/librenms/docker) ([25.4.0-r0](https://github.com/librenms/docker/releases/tag/25.4.0-r0), 1 day ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (1 week ago)
