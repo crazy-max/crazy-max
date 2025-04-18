@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) - 🚀 ueli portable for Windows (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (today)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v28.1.0-rc.2](https://github.com/moby/moby/releases/tag/v28.1.0-rc.2), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([9.21.1-11](https://github.com/portapps/ueli-portable/releases/tag/9.21.1-11), 2 days ago) - 🚀 ueli portable for Windows
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.21.1](https://github.com/oliverschwendener/ueli/releases/tag/v9.21.1), 2 days ago) - Cross-Platform Keystroke Launcher
-- [docker/buildx](https://github.com/docker/buildx) ([v0.23.0](https://github.com/docker/buildx/releases/tag/v0.23.0), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [docker/compose](https://github.com/docker/compose) ([v2.35.1](https://github.com/docker/compose/releases/tag/v2.35.1), 1 day ago) - Define and run multi-container applications with Docker
+- [moby/moby](https://github.com/moby/moby) ([v28.1.0](https://github.com/moby/moby/releases/tag/v28.1.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
+- [portapps/ueli-portable](https://github.com/portapps/ueli-portable) ([9.21.1-11](https://github.com/portapps/ueli-portable/releases/tag/9.21.1-11), 3 days ago) - 🚀 ueli portable for Windows
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.21.1](https://github.com/oliverschwendener/ueli/releases/tag/v9.21.1), 3 days ago) - Cross-Platform Keystroke Launcher
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (1 week ago)
-- [Matthew Fuller](https://github.com/mathematics333) (3 months ago)
+- _Anonymous_ (2 weeks ago)
+- [Matthew Fuller](https://github.com/mathematics333) (4 months ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (8 months ago)
 - _Anonymous_ (2 years ago)
 - [Bryan Pinsker](https://github.com/BryanPinsker) (2 years ago)
