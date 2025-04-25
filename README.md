@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/octoguard](https://github.com/docker/octoguard) - Reusable GitHub Actions workflows for security scanning, auditing, and compliance (today)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 day ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/octoguard](https://github.com/docker/octoguard) - Reusable GitHub Actions workflows for security scanning, auditing, and compliance (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 days ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.60.0](https://github.com/docker/actions-toolkit/releases/tag/v0.60.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.22.0](https://github.com/oliverschwendener/ueli/releases/tag/v9.22.0), 4 days ago) - Cross-Platform Keystroke Launcher
-- [moby/moby](https://github.com/moby/moby) ([v28.1.1](https://github.com/moby/moby/releases/tag/v28.1.1), 6 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.10.0](https://github.com/crazy-max/undock/releases/tag/v0.10.0), 6 days ago) - Extract contents of a container image in a local folder
+- [docker/bake-action](https://github.com/docker/bake-action) ([v6.6.0](https://github.com/docker/bake-action/releases/tag/v6.6.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.16.0](https://github.com/docker/build-push-action/releases/tag/v6.16.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.61.0](https://github.com/docker/actions-toolkit/releases/tag/v0.61.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.22.0](https://github.com/oliverschwendener/ueli/releases/tag/v9.22.0), 5 days ago) - Cross-Platform Keystroke Launcher
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (1 day ago)
-- _Anonymous_ (2 weeks ago)
+- _Anonymous_ (2 days ago)
+- _Anonymous_ (3 weeks ago)
 - [Matthew Fuller](https://github.com/mathematics333) (4 months ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (8 months ago)
 - _Anonymous_ (2 years ago)
