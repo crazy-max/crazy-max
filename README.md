@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - 🚀 IntelliJ IDEA Ultimate portable for Windows  (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) - 🚀 IntelliJ IDEA Community portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,16 +18,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/docker](https://github.com/librenms/docker) ([25.5.0-r0](https://github.com/librenms/docker/releases/tag/25.5.0-r0), 1 day ago) - LibreNMS Docker image
-- [moby/moby](https://github.com/moby/moby) ([v23.0.18](https://github.com/moby/moby/releases/tag/v23.0.18), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/bake-action](https://github.com/docker/bake-action) ([v6.7.0](https://github.com/docker/bake-action/releases/tag/v6.7.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.17.0](https://github.com/docker/build-push-action/releases/tag/v6.17.0), 2 days ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.7.0-rc.1](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.7.0-rc.1), 2 days ago) - BuildKit Syft scanner
+- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2025.1.1.1-44](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2025.1.1.1-44), 1 day ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
+- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2025.1.1.1-58](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2025.1.1.1-58), 1 day ago) - 🚀 IntelliJ IDEA Community portable for Windows
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.78.102-95](https://github.com/portapps/brave-portable/releases/tag/1.78.102-95), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.5.7-31](https://github.com/portapps/waterfox-portable/releases/tag/6.5.7-31), 1 day ago) - 🚀 Waterfox portable for Windows 
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.5-0.15.3-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.5-0.15.3-r0), 1 day ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
 - [Seow Alex](https://github.com/seowalex) (2 weeks ago)
 - _Anonymous_ (3 weeks ago)
-- [Matthew Fuller](https://github.com/mathematics333) (4 months ago)
+- [Matthew Fuller](https://github.com/mathematics333) (5 months ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (9 months ago)
 - _Anonymous_ (2 years ago)
 
