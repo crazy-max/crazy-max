@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - 🚀 IntelliJ IDEA Ultimate portable for Windows  (2 days ago)
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) ([2025.1.1.1-44](https://github.com/portapps/intellij-idea-ultimate-portable/releases/tag/2025.1.1.1-44), 2 days ago) - 🚀 IntelliJ IDEA Ultimate portable for Windows 
-- [portapps/intellij-idea-community-portable](https://github.com/portapps/intellij-idea-community-portable) ([2025.1.1.1-58](https://github.com/portapps/intellij-idea-community-portable/releases/tag/2025.1.1.1-58), 2 days ago) - 🚀 IntelliJ IDEA Community portable for Windows
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.78.102-95](https://github.com/portapps/brave-portable/releases/tag/1.78.102-95), 2 days ago) - 🚀 Brave web browser portable for Windows
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.5.7-31](https://github.com/portapps/waterfox-portable/releases/tag/6.5.7-31), 2 days ago) - 🚀 Waterfox portable for Windows 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.5-0.15.3-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.5-0.15.3-r0), 2 days ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.5-0.15.3-r2](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.5-0.15.3-r2), 1 day ago) - rTorrent and ruTorrent Docker image
+- [moby/moby](https://github.com/moby/moby) ([v28.2.0-rc.1](https://github.com/moby/moby/releases/tag/v28.2.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.22.0-rc2](https://github.com/moby/buildkit/releases/tag/v0.22.0-rc2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.10.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.10.0), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [docker/compose](https://github.com/docker/compose) ([v2.36.1](https://github.com/docker/compose/releases/tag/v2.36.1), 1 day ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Seow Alex](https://github.com/seowalex) (2 weeks ago)
