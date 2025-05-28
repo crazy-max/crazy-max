@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [docker/bake-action](https://github.com/docker/bake-action) ([v6.8.0](https://github.com/docker/bake-action/releases/tag/v6.8.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.18.0](https://github.com/docker/build-push-action/releases/tag/v6.18.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.62.1](https://github.com/docker/actions-toolkit/releases/tag/v0.62.1), 1 day ago) - Toolkit for Docker (GitHub) Actions
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.6-0.15.3-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.6-0.15.3-r0), 2 days ago) - rTorrent and ruTorrent Docker image
-- [moby/moby](https://github.com/moby/moby) ([v28.2.0-rc.2](https://github.com/moby/moby/releases/tag/v28.2.0-rc.2), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/compose](https://github.com/docker/compose) ([v2.36.2](https://github.com/docker/compose/releases/tag/v2.36.2), 4 days ago) - Define and run multi-container applications with Docker
-- [docker/buildx](https://github.com/docker/buildx) ([v0.24.0](https://github.com/docker/buildx/releases/tag/v0.24.0), 6 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.6-0.15.3-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.6-0.15.3-r0), 3 days ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
 - [Seow Alex](https://github.com/seowalex) (3 weeks ago)
