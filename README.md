@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (3 days ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (3 days ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,16 +18,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.9-0.15.4-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.9-0.15.4-r0), 2 days ago) - rTorrent and ruTorrent Docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Release engineering, simplified
-- [docker/compose](https://github.com/docker/compose) ([v2.37.1](https://github.com/docker/compose/releases/tag/v2.37.1), 4 days ago) - Define and run multi-container applications with Docker
-- [docker/buildx](https://github.com/docker/buildx) ([v0.25.0-rc1](https://github.com/docker/buildx/releases/tag/v0.25.0-rc1), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.23.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.23.0-rc1), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildx](https://github.com/docker/buildx) ([v0.25.0](https://github.com/docker/buildx/releases/tag/v0.25.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.17.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.17.0-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [librenms/docker](https://github.com/librenms/docker) ([25.6.0-r0](https://github.com/librenms/docker/releases/tag/25.6.0-r0), 2 days ago) - LibreNMS Docker image
+- [moby/moby](https://github.com/moby/moby) ([v28.3.0-rc.1](https://github.com/moby/moby/releases/tag/v28.3.0-rc.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Don Pattee](https://github.com/DPattee) (2 weeks ago)
 - [Seow Alex](https://github.com/seowalex) (1 month ago)
-- [Matthew Fuller](https://github.com/mathematics333) (5 months ago)
+- [Matthew Fuller](https://github.com/mathematics333) (6 months ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (10 months ago)
 - _Anonymous_ (2 years ago)
 
