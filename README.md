@@ -4,9 +4,9 @@
 
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.25.0](https://github.com/docker/buildx/releases/tag/v0.25.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.17.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.17.0-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [moby/moby](https://github.com/moby/moby) ([v25.0.11](https://github.com/moby/moby/releases/tag/v25.0.11), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.11.1](https://github.com/docker/setup-buildx-action/releases/tag/v3.11.1), 1 day ago) - GitHub Action to set up Docker Buildx
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [librenms/docker](https://github.com/librenms/docker) ([25.6.0-r0](https://github.com/librenms/docker/releases/tag/25.6.0-r0), 2 days ago) - LibreNMS Docker image
-- [moby/moby](https://github.com/moby/moby) ([v28.3.0-rc.1](https://github.com/moby/moby/releases/tag/v28.3.0-rc.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/buildx](https://github.com/docker/buildx) ([v0.25.0](https://github.com/docker/buildx/releases/tag/v0.25.0), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.17.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.17.0-labs), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Don Pattee](https://github.com/DPattee) (2 weeks ago)
