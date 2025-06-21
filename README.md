@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (today)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image (today)
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (today)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (today)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (today)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [moby/moby](https://github.com/moby/moby) ([v25.0.11](https://github.com/moby/moby/releases/tag/v25.0.11), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.11.1](https://github.com/docker/setup-buildx-action/releases/tag/v3.11.1), 2 days ago) - GitHub Action to set up Docker Buildx
-- [docker/buildx](https://github.com/docker/buildx) ([v0.25.0](https://github.com/docker/buildx/releases/tag/v0.25.0), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.17.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.17.0-labs), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.6-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.6-r0), 1 day ago) - Nextcloud Docker image
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.30-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.30-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([9.2.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/9.2.0-r0), 1 day ago) - GitHub Linguist Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.10-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.10-r0), 1 day ago) - Flarum Docker image
+- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2025-05-14a-r0](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2025-05-14a-r0), 1 day ago) - DokuWiki Docker image
 
 #### ❤️ Latest sponsors
 - [Don Pattee](https://github.com/DPattee) (2 weeks ago)
