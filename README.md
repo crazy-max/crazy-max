@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) - GitHub Linguist Docker image (today)
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (today)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (today)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (today)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (today)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) - RRDcached Docker image (1 day ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.6-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.6-r0), 1 day ago) - Nextcloud Docker image
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.30-r0](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.30-r0), 1 day ago) - Lightweight SMTP relay Docker image using msmtpd
-- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([9.2.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/9.2.0-r0), 1 day ago) - GitHub Linguist Docker image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.10-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.10-r0), 1 day ago) - Flarum Docker image
-- [crazy-max/docker-dokuwiki](https://github.com/crazy-max/docker-dokuwiki) ([2025-05-14a-r0](https://github.com/crazy-max/docker-dokuwiki/releases/tag/2025-05-14a-r0), 1 day ago) - DokuWiki Docker image
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.23.0-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.23.0-r0), 1 day ago) - Unbound Docker image
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([15.5-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/15.5-r0), 1 day ago) - MacOSX cross toolchain as Docker image
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.21.4-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.21.4-r0), 1 day ago) - Samba Docker image
+- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.9.0-r4-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.9.0-r4-r0), 1 day ago) - RRDcached Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.6-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.6-r0), 2 days ago) - Nextcloud Docker image
 
 #### ❤️ Latest sponsors
-- [Don Pattee](https://github.com/DPattee) (2 weeks ago)
+- [Jeremy Chabernaud](https://github.com/djerfy) (1 day ago)
+- [Don Pattee](https://github.com/DPattee) (3 weeks ago)
 - [Seow Alex](https://github.com/seowalex) (1 month ago)
 - [Matthew Fuller](https://github.com/mathematics333) (6 months ago)
 - [Henrik Soerensen](https://github.com/hsoerensen) (10 months ago)
-- _Anonymous_ (2 years ago)
 
 Thanks again for your support, it is much appreciated! 🙏
