@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.23.2](https://github.com/moby/buildkit/releases/tag/v0.23.2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [moby/moby](https://github.com/moby/moby) ([v28.3.1](https://github.com/moby/moby/releases/tag/v28.3.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/compose](https://github.com/docker/compose) ([v2.38.1](https://github.com/docker/compose/releases/tag/v2.38.1), 2 days ago) - Define and run multi-container applications with Docker
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.10-0.15.5-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.10-0.15.5-r0), 6 days ago) - rTorrent and ruTorrent Docker image
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.8.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.8.0), 6 days ago) - BuildKit Syft scanner
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.23.2](https://github.com/moby/buildkit/releases/tag/v0.23.2), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/compose](https://github.com/docker/compose) ([v2.38.1](https://github.com/docker/compose/releases/tag/v2.38.1), 3 days ago) - Define and run multi-container applications with Docker
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.10-0.15.5-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.10-0.15.5-r0), 1 week ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
 - [Jeremy Chabernaud](https://github.com/djerfy) (1 week ago)
