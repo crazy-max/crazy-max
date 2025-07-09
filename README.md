@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (2 days ago)
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (2 days ago)
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) - 🚀 Postman portable for Windows (3 days ago)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([11.52.5-63](https://github.com/portapps/postman-portable/releases/tag/11.52.5-63), 2 days ago) - 🚀 Postman portable for Windows
-- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([7.60.0-11](https://github.com/portapps/signal-portable/releases/tag/7.60.0-11), 2 days ago) - 🚀 Signal portable for Windows
-- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.16.6-23](https://github.com/portapps/nextcloud-portable/releases/tag/3.16.6-23), 2 days ago) - 🚀 Nextcloud portable for Windows
-- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1151-29](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1151-29), 2 days ago) - 🚀 Discord PTB portable for Windows
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9198-22](https://github.com/portapps/discord-portable/releases/tag/1.0.9198-22), 2 days ago) - 🚀 Discord portable for Windows
+- [docker/compose](https://github.com/docker/compose) ([v2.38.2](https://github.com/docker/compose/releases/tag/v2.38.2), 1 day ago) - Define and run multi-container applications with Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([11.52.5-63](https://github.com/portapps/postman-portable/releases/tag/11.52.5-63), 3 days ago) - 🚀 Postman portable for Windows
+- [portapps/signal-portable](https://github.com/portapps/signal-portable) ([7.60.0-11](https://github.com/portapps/signal-portable/releases/tag/7.60.0-11), 3 days ago) - 🚀 Signal portable for Windows
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([3.16.6-23](https://github.com/portapps/nextcloud-portable/releases/tag/3.16.6-23), 3 days ago) - 🚀 Nextcloud portable for Windows
 
 #### ❤️ Latest sponsors
 - [Jeremy Chabernaud](https://github.com/djerfy) (2 weeks ago)
