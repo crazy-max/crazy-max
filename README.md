@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.26.0](https://github.com/docker/buildx/releases/tag/v0.26.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Release engineering, simplified
+- [docker/buildx](https://github.com/docker/buildx) ([v0.26.1](https://github.com/docker/buildx/releases/tag/v0.26.1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
 - [moby/moby](https://github.com/moby/moby) ([v25.0.12](https://github.com/moby/moby/releases/tag/v25.0.12), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [docker/compose](https://github.com/docker/compose) ([v2.38.2](https://github.com/docker/compose/releases/tag/v2.38.2), 2 weeks ago) - Define and run multi-container applications with Docker
 - [portapps/postman-portable](https://github.com/portapps/postman-portable) ([11.52.5-63](https://github.com/portapps/postman-portable/releases/tag/11.52.5-63), 2 weeks ago) - 🚀 Postman portable for Windows
