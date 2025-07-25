@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [docker/docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE (2 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.8.0](https://github.com/compose-spec/compose-go/releases/tag/v2.8.0), 1 day ago) - Reference library for parsing and loading Compose YAML files
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/buildx](https://github.com/docker/buildx) ([v0.26.1](https://github.com/docker/buildx/releases/tag/v0.26.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/moby](https://github.com/moby/moby) ([v25.0.12](https://github.com/moby/moby/releases/tag/v25.0.12), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/compose](https://github.com/docker/compose) ([v2.38.2](https://github.com/docker/compose/releases/tag/v2.38.2), 2 weeks ago) - Define and run multi-container applications with Docker
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.3-r0](https://github.com/anonaddy/docker/releases/tag/1.3.3-r0), 1 day ago) - AnonAddy Docker image
+- [docker/compose](https://github.com/docker/compose) ([v2.39.1](https://github.com/docker/compose/releases/tag/v2.39.1), 1 day ago) - Define and run multi-container applications with Docker
+- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.8.1](https://github.com/compose-spec/compose-go/releases/tag/v2.8.1), 1 day ago) - Reference library for parsing and loading Compose YAML files
+- [librenms/docker](https://github.com/librenms/docker) ([25.7.0-r0](https://github.com/librenms/docker/releases/tag/25.7.0-r0), 1 day ago) - LibreNMS Docker image
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.9.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.9.0), 1 day ago) - BuildKit Syft scanner
 
 #### ❤️ Latest sponsors
 - [Jeremy Chabernaud](https://github.com/djerfy) (1 month ago)
