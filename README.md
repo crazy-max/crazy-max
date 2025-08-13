@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Release engineering, simplified
-- [docker/compose](https://github.com/docker/compose) ([v2.39.2](https://github.com/docker/compose/releases/tag/v2.39.2), 4 days ago) - Define and run multi-container applications with Docker
-- [docker/docker-language-server](https://github.com/docker/docker-language-server) ([v0.15.0](https://github.com/docker/docker-language-server/releases/tag/v0.15.0), 6 days ago) - Language server for Dockerfiles, Compose files, and Bake files
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.63.0](https://github.com/docker/actions-toolkit/releases/tag/v0.63.0), 6 days ago) - Toolkit for Docker (GitHub) Actions
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.25.0](https://github.com/oliverschwendener/ueli/releases/tag/v9.25.0), 1 week ago) - Cross-Platform Keystroke Launcher
+- [docker/docker-language-server](https://github.com/docker/docker-language-server) ([v0.16.0](https://github.com/docker/docker-language-server/releases/tag/v0.16.0), 1 day ago) - Language server for Dockerfiles, Compose files, and Bake files
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.25.1](https://github.com/oliverschwendener/ueli/releases/tag/v9.25.1), 1 day ago) - Cross-Platform Keystroke Launcher
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [docker/compose](https://github.com/docker/compose) ([v2.39.2](https://github.com/docker/compose/releases/tag/v2.39.2), 5 days ago) - Define and run multi-container applications with Docker
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.63.0](https://github.com/docker/actions-toolkit/releases/tag/v0.63.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Jeremy Chabernaud](https://github.com/djerfy) (1 month ago)
