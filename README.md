@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
-- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (3 days ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (3 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (6 days ago)
+- [docker/docker-ce-packaging](https://github.com/docker/docker-ce-packaging) - Packaging scripts for Docker CE (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) ([v0.15.0](https://github.com/docker/mcp-gateway/releases/tag/v0.15.0), 1 day ago) - docker mcp CLI plugin / MCP Gateway
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([31.0.8-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/31.0.8-r0), 3 days ago) - Nextcloud Docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Release engineering, simplified
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v6.4.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v6.4.0), 6 days ago) - GitHub Action for GoReleaser
-- [docker/buildx](https://github.com/docker/buildx) ([v0.27.0-rc1](https://github.com/docker/buildx/releases/tag/v0.27.0-rc1), 6 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [librenms/docker](https://github.com/librenms/docker) ([25.8.0-r0](https://github.com/librenms/docker/releases/tag/25.8.0-r0), 1 day ago) - LibreNMS Docker image
+- [docker/bake-action](https://github.com/docker/bake-action) ([v6.9.0](https://github.com/docker/bake-action/releases/tag/v6.9.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/buildx](https://github.com/docker/buildx) ([v0.27.0](https://github.com/docker/buildx/releases/tag/v0.27.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) ([v0.15.0](https://github.com/docker/mcp-gateway/releases/tag/v0.15.0), 2 days ago) - docker mcp CLI plugin / MCP Gateway
 
 #### ❤️ Latest sponsors
 - [Jeremy Chabernaud](https://github.com/djerfy) (2 months ago)
