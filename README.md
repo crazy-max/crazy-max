@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.28.0-rc1](https://github.com/docker/buildx/releases/tag/v0.28.0-rc1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.24.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.24.0-rc1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
-- [docker/docker-language-server](https://github.com/docker/docker-language-server) ([v0.18.0](https://github.com/docker/docker-language-server/releases/tag/v0.18.0), 3 days ago) - Language server for Dockerfiles, Compose files, and Bake files
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [docker/buildx](https://github.com/docker/buildx) ([v0.28.0-rc1](https://github.com/docker/buildx/releases/tag/v0.28.0-rc1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.24.0-rc1](https://github.com/moby/buildkit/releases/tag/v0.24.0-rc1), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/docker-language-server](https://github.com/docker/docker-language-server) ([v0.18.0](https://github.com/docker/docker-language-server/releases/tag/v0.18.0), 4 days ago) - Language server for Dockerfiles, Compose files, and Bake files
 - [librenms/docker](https://github.com/librenms/docker) ([25.8.0-r0](https://github.com/librenms/docker/releases/tag/25.8.0-r0), 1 week ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
-- [Jonathan Prusik](https://github.com/jprusik) (2 days ago)
+- [Jonathan Prusik](https://github.com/jprusik) (3 days ago)
 - [Jeremy Chabernaud](https://github.com/djerfy) (2 months ago)
 - [Don Pattee](https://github.com/DPattee) (2 months ago)
 - [Seow Alex](https://github.com/seowalex) (3 months ago)
