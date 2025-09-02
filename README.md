@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (4 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (4 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.30.0](https://github.com/crazy-max/diun/releases/tag/v4.30.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
-- [docker/buildx](https://github.com/docker/buildx) ([v0.28.0-rc2](https://github.com/docker/buildx/releases/tag/v0.28.0-rc2), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.24.0-rc2](https://github.com/moby/buildkit/releases/tag/v0.24.0-rc2), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/docker-language-server](https://github.com/docker/docker-language-server) ([v0.18.0](https://github.com/docker/docker-language-server/releases/tag/v0.18.0), 1 week ago) - Language server for Dockerfiles, Compose files, and Bake files
+- [moby/moby](https://github.com/moby/moby) ([v28.4.0-rc.1](https://github.com/moby/moby/releases/tag/v28.4.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.30.0](https://github.com/crazy-max/diun/releases/tag/v4.30.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Release engineering, simplified
+- [docker/buildx](https://github.com/docker/buildx) ([v0.28.0-rc2](https://github.com/docker/buildx/releases/tag/v0.28.0-rc2), 4 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.24.0-rc2](https://github.com/moby/buildkit/releases/tag/v0.24.0-rc2), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
-- [Jonathan Prusik](https://github.com/jprusik) (6 days ago)
+- [Jonathan Prusik](https://github.com/jprusik) (1 week ago)
 - [Jeremy Chabernaud](https://github.com/djerfy) (2 months ago)
 - [Don Pattee](https://github.com/DPattee) (3 months ago)
 - [Seow Alex](https://github.com/seowalex) (4 months ago)
