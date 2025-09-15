@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (2 days ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (today)
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows (1 day ago)
+- [portapps/signal-portable](https://github.com/portapps/signal-portable) - 🚀 Signal portable for Windows (1 day ago)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,17 +18,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/cagent](https://github.com/docker/cagent) ([v1.1.1](https://github.com/docker/cagent/releases/tag/v1.1.1), 3 days ago) - Agent Builder and Runtime by Docker Engineering
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([buildkit/v10.0.4-57](https://github.com/tonistiigi/binfmt/releases/tag/buildkit/v10.0.4-57), 3 days ago) - Cross-platform emulator collection distributed with Docker images.
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.4.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.4.0-r0), 4 days ago) - Matomo (formerly Piwik) Docker image
-- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) ([1.17.0-r0](https://github.com/crazy-max/docker-spliit/releases/tag/1.17.0-r0), 4 days ago) - Spliit Docker image
+- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.37.0](https://github.com/crazy-max/xgo/releases/tag/v0.37.0), 1 day ago) - Go CGO cross compiler
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.23.1-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.23.1-r0), 1 day ago) - Unbound Docker image
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.32.0](https://github.com/crazy-max/goxx/releases/tag/v0.32.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([140.0.7339.137-21](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/140.0.7339.137-21), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/postman-portable](https://github.com/portapps/postman-portable) ([11.62.7-64](https://github.com/portapps/postman-portable/releases/tag/11.62.7-64), 1 day ago) - 🚀 Postman portable for Windows
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (2 weeks ago)
 - [Jeremy Chabernaud](https://github.com/djerfy) (2 months ago)
 - [Don Pattee](https://github.com/DPattee) (3 months ago)
 - [Seow Alex](https://github.com/seowalex) (4 months ago)
-- [Matthew Fuller](https://github.com/mathematics333) (8 months ago)
+- [Matthew Fuller](https://github.com/mathematics333) (9 months ago)
 
 Thanks again for your support, it is much appreciated! 🙏
