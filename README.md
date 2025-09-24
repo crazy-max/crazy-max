@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.5.0](https://github.com/docker/cagent/releases/tag/v1.5.0), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
-- [docker/compose](https://github.com/docker/compose) ([v2.39.4](https://github.com/docker/compose/releases/tag/v2.39.4), 4 days ago) - Define and run multi-container applications with Docker
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.9.0](https://github.com/compose-spec/compose-go/releases/tag/v2.9.0), 4 days ago) - Reference library for parsing and loading Compose YAML files
-- [librenms/librenms](https://github.com/librenms/librenms) ([25.9.1](https://github.com/librenms/librenms/releases/tag/25.9.1), 6 days ago) - Community-based GPL-licensed network monitoring system
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [docker/cagent](https://github.com/docker/cagent) ([v1.5.0](https://github.com/docker/cagent/releases/tag/v1.5.0), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/compose](https://github.com/docker/compose) ([v2.39.4](https://github.com/docker/compose/releases/tag/v2.39.4), 5 days ago) - Define and run multi-container applications with Docker
+- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.9.0](https://github.com/compose-spec/compose-go/releases/tag/v2.9.0), 5 days ago) - Reference library for parsing and loading Compose YAML files
+- [librenms/librenms](https://github.com/librenms/librenms) ([25.9.1](https://github.com/librenms/librenms/releases/tag/25.9.1), 1 week ago) - Community-based GPL-licensed network monitoring system
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (4 weeks ago)
