@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
+- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) - Spliit Docker image (1 day ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (1 day ago)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/compose](https://github.com/docker/compose) ([v2.40.0](https://github.com/docker/compose/releases/tag/v2.40.0), 2 days ago) - Define and run multi-container applications with Docker
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.29.1-35](https://github.com/docker/packaging/releases/tag/buildx/v0.29.1-35), 2 days ago) - Docker Packaging (deb, rpm, static)
-- [docker/buildx](https://github.com/docker/buildx) ([v0.29.1](https://github.com/docker/buildx/releases/tag/v0.29.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [docker/cagent](https://github.com/docker/cagent) ([v1.6.2](https://github.com/docker/cagent/releases/tag/v1.6.2), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) ([1.18.0-r0](https://github.com/crazy-max/docker-spliit/releases/tag/1.18.0-r0), 1 day ago) - Spliit Docker image
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.24.0-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.24.0-r0), 1 day ago) - Unbound Docker image
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) ([2025.9.1-r0](https://github.com/crazy-max/docker-cloudflared/releases/tag/2025.9.1-r0), 1 day ago) - Cloudflared proxy-dns Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([32.0.0-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/32.0.0-r0), 1 day ago) - Nextcloud Docker image
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (1 month ago)
