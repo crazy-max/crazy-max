@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (2 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (3 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (3 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.7.0](https://github.com/docker/cagent/releases/tag/v1.7.0), 1 day ago) - Agent Builder and Runtime by Docker Engineering
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [moby/moby](https://github.com/moby/moby) ([v28.5.1](https://github.com/moby/moby/releases/tag/v28.5.1), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.25.1](https://github.com/moby/buildkit/releases/tag/v0.25.1), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) ([1.18.0-r0](https://github.com/crazy-max/docker-spliit/releases/tag/1.18.0-r0), 6 days ago) - Spliit Docker image
+- [docker/cagent](https://github.com/docker/cagent) ([v1.7.0](https://github.com/docker/cagent/releases/tag/v1.7.0), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [moby/moby](https://github.com/moby/moby) ([v28.5.1](https://github.com/moby/moby/releases/tag/v28.5.1), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.25.1](https://github.com/moby/buildkit/releases/tag/v0.25.1), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) ([1.18.0-r0](https://github.com/crazy-max/docker-spliit/releases/tag/1.18.0-r0), 1 week ago) - Spliit Docker image
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (1 month ago)
