@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/librenms](https://github.com/librenms/librenms) ([25.10.0](https://github.com/librenms/librenms/releases/tag/25.10.0), 1 day ago) - Community-based GPL-licensed network monitoring system
-- [docker/cagent](https://github.com/docker/cagent) ([v1.7.2](https://github.com/docker/cagent/releases/tag/v1.7.2), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.4.0](https://github.com/docker/setup-docker-action/releases/tag/v4.4.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.64.0](https://github.com/docker/actions-toolkit/releases/tag/v0.64.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/docker-language-server](https://github.com/docker/docker-language-server) ([v0.20.1](https://github.com/docker/docker-language-server/releases/tag/v0.20.1), 2 days ago) - Language server for Dockerfiles, Compose files, and Bake files
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.0.0-rc.1](https://github.com/moby/moby/releases/tag/docker-v29.0.0-rc.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [librenms/librenms](https://github.com/librenms/librenms) ([25.10.0](https://github.com/librenms/librenms/releases/tag/25.10.0), 2 days ago) - Community-based GPL-licensed network monitoring system
+- [docker/cagent](https://github.com/docker/cagent) ([v1.7.2](https://github.com/docker/cagent/releases/tag/v1.7.2), 2 days ago) - Agent Builder and Runtime by Docker Engineering
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (1 day ago)
-- [Fedor Dikarev](https://github.com/fedordikarev) (4 days ago)
+- _Anonymous_ (2 days ago)
+- [Fedor Dikarev](https://github.com/fedordikarev) (5 days ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 month ago)
 - [Jeremy Chabernaud](https://github.com/djerfy) (3 months ago)
 - [Don Pattee](https://github.com/DPattee) (4 months ago)
