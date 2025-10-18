@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.4.0](https://github.com/docker/setup-docker-action/releases/tag/v4.4.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.64.0](https://github.com/docker/actions-toolkit/releases/tag/v0.64.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [docker/compose](https://github.com/docker/compose) ([v2.40.1](https://github.com/docker/compose/releases/tag/v2.40.1), 1 day ago) - Define and run multi-container applications with Docker
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.8.0](https://github.com/tonistiigi/xx/releases/tag/v1.8.0), 1 day ago) - Dockerfile cross-compilation helpers
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [librenms/librenms](https://github.com/librenms/librenms) ([25.10.0](https://github.com/librenms/librenms/releases/tag/25.10.0), 2 days ago) - Community-based GPL-licensed network monitoring system
-- [docker/cagent](https://github.com/docker/cagent) ([v1.7.2](https://github.com/docker/cagent/releases/tag/v1.7.2), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.4.0](https://github.com/docker/setup-docker-action/releases/tag/v4.4.0), 2 days ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.64.0](https://github.com/docker/actions-toolkit/releases/tag/v0.64.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (2 days ago)
-- [Fedor Dikarev](https://github.com/fedordikarev) (5 days ago)
+- _Anonymous_ (3 days ago)
+- [Fedor Dikarev](https://github.com/fedordikarev) (6 days ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 month ago)
 - [Jeremy Chabernaud](https://github.com/djerfy) (3 months ago)
 - [Don Pattee](https://github.com/DPattee) (4 months ago)
