@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,16 +18,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.9.0](https://github.com/docker/cagent/releases/tag/v1.9.0), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/compose](https://github.com/docker/compose) ([v2.40.2](https://github.com/docker/compose/releases/tag/v2.40.2), 2 days ago) - Define and run multi-container applications with Docker
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v2.40.1-36](https://github.com/docker/packaging/releases/tag/compose/v2.40.1-36), 2 days ago) - Docker Packaging (deb, rpm, static)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.10-0.16.1-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.10-0.16.1-r0), 5 days ago) - rTorrent and ruTorrent Docker image
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [docker/cagent](https://github.com/docker/cagent) ([v1.9.0](https://github.com/docker/cagent/releases/tag/v1.9.0), 3 days ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/compose](https://github.com/docker/compose) ([v2.40.2](https://github.com/docker/compose/releases/tag/v2.40.2), 4 days ago) - Define and run multi-container applications with Docker
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v2.40.1-36](https://github.com/docker/packaging/releases/tag/compose/v2.40.1-36), 4 days ago) - Docker Packaging (deb, rpm, static)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.10-0.16.1-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.10-0.16.1-r0), 1 week ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (1 week ago)
-- [Fedor Dikarev](https://github.com/fedordikarev) (1 week ago)
-- [Jonathan Prusik](https://github.com/jprusik) (1 month ago)
+- [Fedor Dikarev](https://github.com/fedordikarev) (2 weeks ago)
+- [Jonathan Prusik](https://github.com/jprusik) (2 months ago)
 - [Jeremy Chabernaud](https://github.com/djerfy) (4 months ago)
 - [Don Pattee](https://github.com/DPattee) (4 months ago)
 
