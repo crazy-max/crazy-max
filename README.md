@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (3 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.9.1](https://github.com/docker/cagent/releases/tag/v1.9.1), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Release engineering, simplified
-- [docker/compose](https://github.com/docker/compose) ([v2.40.2](https://github.com/docker/compose/releases/tag/v2.40.2), 1 week ago) - Define and run multi-container applications with Docker
+- [docker/cagent](https://github.com/docker/cagent) ([v1.9.3](https://github.com/docker/cagent/releases/tag/v1.9.3), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/compose](https://github.com/docker/compose) ([v2.40.3](https://github.com/docker/compose/releases/tag/v2.40.3), 1 day ago) - Define and run multi-container applications with Docker
+- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.9.1](https://github.com/compose-spec/compose-go/releases/tag/v2.9.1), 1 day ago) - Reference library for parsing and loading Compose YAML files
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Release engineering, simplified
 - [docker/packaging](https://github.com/docker/packaging) ([compose/v2.40.1-36](https://github.com/docker/packaging/releases/tag/compose/v2.40.1-36), 1 week ago) - Docker Packaging (deb, rpm, static)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.10-0.16.1-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.10-0.16.1-r0), 1 week ago) - rTorrent and ruTorrent Docker image
 
 #### ❤️ Latest sponsors
 - _Anonymous_ (2 weeks ago)
