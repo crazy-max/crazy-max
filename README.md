@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (today)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (3 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (4 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (4 days ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.65.0](https://github.com/docker/actions-toolkit/releases/tag/v0.65.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/cagent](https://github.com/docker/cagent) ([v1.9.7](https://github.com/docker/cagent/releases/tag/v1.9.7), 2 days ago) - Agent Builder and Runtime by Docker Engineering
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([32.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/32.0.1-r0), 2 days ago) - Nextcloud Docker image
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.0.0-rc.2](https://github.com/moby/moby/releases/tag/docker-v29.0.0-rc.2), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/packaging](https://github.com/docker/packaging) ([cagent/v1.9.9-5](https://github.com/docker/packaging/releases/tag/cagent/v1.9.9-5), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.9.0](https://github.com/docker/metadata-action/releases/tag/v5.9.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/cagent](https://github.com/docker/cagent) ([v1.9.9](https://github.com/docker/cagent/releases/tag/v1.9.9), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.66.0](https://github.com/docker/actions-toolkit/releases/tag/v0.66.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.5.0](https://github.com/docker/setup-docker-action/releases/tag/v4.5.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
 
 #### ❤️ Latest sponsors
-- _Anonymous_ (2 weeks ago)
+- _Anonymous_ (3 weeks ago)
 - [Fedor Dikarev](https://github.com/fedordikarev) (3 weeks ago)
 - [Jonathan Prusik](https://github.com/jprusik) (2 months ago)
 - [Jeremy Chabernaud](https://github.com/djerfy) (4 months ago)
