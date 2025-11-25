@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (4 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (4 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/cagent](https://github.com/docker/cagent) ([v1.9.21](https://github.com/docker/cagent/releases/tag/v1.9.21), 3 days ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.0.1-16](https://github.com/docker/packaging/releases/tag/model/v1.0.1-16), 4 days ago) - Docker Packaging (deb, rpm, static)
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.26.2](https://github.com/moby/buildkit/releases/tag/v0.26.2), 4 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [librenms/docker](https://github.com/librenms/docker) ([25.11.0-r0](https://github.com/librenms/docker/releases/tag/25.11.0-r0), 5 days ago) - LibreNMS Docker image
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.0.4](https://github.com/moby/moby/releases/tag/docker-v29.0.4), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/cagent](https://github.com/docker/cagent) ([v1.9.23](https://github.com/docker/cagent/releases/tag/v1.9.23), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.0.1-16](https://github.com/docker/packaging/releases/tag/model/v1.0.1-16), 5 days ago) - Docker Packaging (deb, rpm, static)
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.26.2](https://github.com/moby/buildkit/releases/tag/v0.26.2), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (1 month ago)
