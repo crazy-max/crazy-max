@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
-- [crazy-max/docker-spliit](https://github.com/crazy-max/docker-spliit) - Spliit Docker image (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [docker/github-builder-experimental](https://github.com/docker/github-builder-experimental) - Official Docker-maintained reusable GitHub Actions workflows (1 day ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.5-r1](https://github.com/anonaddy/docker/releases/tag/1.3.5-r1), 1 day ago) - AnonAddy Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.10-0.16.4-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.10-0.16.4-r0), 1 day ago) - rTorrent and ruTorrent Docker image
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.0](https://github.com/moby/moby/releases/tag/docker-v29.1.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.6.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.6.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v5.10.0](https://github.com/docker/metadata-action/releases/tag/v5.10.0), 1 day ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/cagent](https://github.com/docker/cagent) ([v1.9.30](https://github.com/docker/cagent/releases/tag/v1.9.30), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.2.0-54](https://github.com/docker/packaging/releases/tag/containerd/v2.2.0-54), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.6.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.6.1-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.1](https://github.com/moby/moby/releases/tag/docker-v29.1.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (1 month ago)
