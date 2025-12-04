@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/github-builder-experimental](https://github.com/docker/github-builder-experimental) - Official Docker-maintained reusable GitHub Actions workflows (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (5 days ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.2](https://github.com/moby/moby/releases/tag/docker-v29.1.2), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.69.0](https://github.com/docker/actions-toolkit/releases/tag/v0.69.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.0.0-39](https://github.com/docker/packaging/releases/tag/compose/v5.0.0-39), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/cagent](https://github.com/docker/cagent) ([v1.10.3](https://github.com/docker/cagent/releases/tag/v1.10.3), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/compose](https://github.com/docker/compose) ([v5.0.0](https://github.com/docker/compose/releases/tag/v5.0.0), 1 day ago) - Define and run multi-container applications with Docker
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.2](https://github.com/moby/moby/releases/tag/docker-v29.1.2), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.69.0](https://github.com/docker/actions-toolkit/releases/tag/v0.69.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.0.0-39](https://github.com/docker/packaging/releases/tag/compose/v5.0.0-39), 2 days ago) - Docker Packaging (deb, rpm, static)
+- [docker/cagent](https://github.com/docker/cagent) ([v1.10.3](https://github.com/docker/cagent/releases/tag/v1.10.3), 2 days ago) - Agent Builder and Runtime by Docker Engineering
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (1 month ago)
