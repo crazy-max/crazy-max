@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (4 days ago)
-- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (5 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (6 days ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (6 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (5 days ago)
+- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (6 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.11.0](https://github.com/docker/cagent/releases/tag/v1.11.0), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.9.0](https://github.com/tonistiigi/xx/releases/tag/v1.9.0), 5 days ago) - Dockerfile cross-compilation helpers
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.11.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.11.0), 1 day ago) - Utilities to generate (reference) documentation for the docker CLI
+- [docker/cagent](https://github.com/docker/cagent) ([v1.13.0](https://github.com/docker/cagent/releases/tag/v1.13.0), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.9.0](https://github.com/tonistiigi/xx/releases/tag/v1.9.0), 6 days ago) - Dockerfile cross-compilation helpers
 - [moby/moby](https://github.com/moby/moby) ([docker-v29.1.2](https://github.com/moby/moby/releases/tag/docker-v29.1.2), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.69.0](https://github.com/docker/actions-toolkit/releases/tag/v0.69.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (1 month ago)
