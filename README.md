@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.14.0](https://github.com/docker/cagent/releases/tag/v1.14.0), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.3](https://github.com/moby/moby/releases/tag/docker-v29.1.3), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.11.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.11.0), 3 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [docker/cagent](https://github.com/docker/cagent) ([v1.14.0](https://github.com/docker/cagent/releases/tag/v1.14.0), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.11.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.11.0), 4 days ago) - Utilities to generate (reference) documentation for the docker CLI
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.9.0](https://github.com/tonistiigi/xx/releases/tag/v1.9.0), 1 week ago) - Dockerfile cross-compilation helpers
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.2](https://github.com/moby/moby/releases/tag/docker-v29.1.2), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (2 months ago)
