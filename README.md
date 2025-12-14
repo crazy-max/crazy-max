@@ -18,10 +18,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.3](https://github.com/moby/moby/releases/tag/docker-v29.1.3), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/cagent](https://github.com/docker/cagent) ([v1.14.0](https://github.com/docker/cagent/releases/tag/v1.14.0), 2 days ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.11.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.11.0), 4 days ago) - Utilities to generate (reference) documentation for the docker CLI
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.3](https://github.com/moby/moby/releases/tag/docker-v29.1.3), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/cagent](https://github.com/docker/cagent) ([v1.14.0](https://github.com/docker/cagent/releases/tag/v1.14.0), 3 days ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.11.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.11.0), 5 days ago) - Utilities to generate (reference) documentation for the docker CLI
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.9.0](https://github.com/tonistiigi/xx/releases/tag/v1.9.0), 1 week ago) - Dockerfile cross-compilation helpers
 
 #### ❤️ Latest sponsors
@@ -29,6 +29,6 @@
 - [Jonathan Prusik](https://github.com/jprusik) (3 months ago)
 - [Don Pattee](https://github.com/DPattee) (6 months ago)
 - [Seow Alex](https://github.com/seowalex) (7 months ago)
-- [Matthew Fuller](https://github.com/mathematics333) (11 months ago)
+- [Matthew Fuller](https://github.com/mathematics333) (1 year ago)
 
 Thanks again for your support, it is much appreciated! 🙏
