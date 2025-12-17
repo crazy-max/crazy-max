@@ -4,9 +4,9 @@
 
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
 - [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
-- [docker/github-builder-experimental](https://github.com/docker/github-builder-experimental) - Official Docker-maintained reusable GitHub Actions workflows (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.15.2](https://github.com/docker/cagent/releases/tag/v1.15.2), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [librenms/librenms](https://github.com/librenms/librenms) ([25.12.0](https://github.com/librenms/librenms/releases/tag/25.12.0), 1 day ago) - Community-based GPL-licensed network monitoring system
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Release engineering, simplified
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.3](https://github.com/moby/moby/releases/tag/docker-v29.1.3), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/cli-docs-tool](https://github.com/docker/cli-docs-tool) ([v0.11.0](https://github.com/docker/cli-docs-tool/releases/tag/v0.11.0), 1 week ago) - Utilities to generate (reference) documentation for the docker CLI
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.26.3](https://github.com/moby/buildkit/releases/tag/v0.26.3), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/cagent](https://github.com/docker/cagent) ([v1.15.3](https://github.com/docker/cagent/releases/tag/v1.15.3), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [librenms/librenms](https://github.com/librenms/librenms) ([25.12.0](https://github.com/librenms/librenms/releases/tag/25.12.0), 2 days ago) - Community-based GPL-licensed network monitoring system
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.3](https://github.com/moby/moby/releases/tag/docker-v29.1.3), 5 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (2 months ago)
