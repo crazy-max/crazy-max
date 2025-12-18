@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [docker/github-builder-experimental](https://github.com/docker/github-builder-experimental) - Official Docker-maintained reusable GitHub Actions workflows (1 day ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (2 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.26.3](https://github.com/moby/buildkit/releases/tag/v0.26.3), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/cagent](https://github.com/docker/cagent) ([v1.15.3](https://github.com/docker/cagent/releases/tag/v1.15.3), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [librenms/librenms](https://github.com/librenms/librenms) ([25.12.0](https://github.com/librenms/librenms/releases/tag/25.12.0), 2 days ago) - Community-based GPL-licensed network monitoring system
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.1.3](https://github.com/moby/moby/releases/tag/docker-v29.1.3), 5 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.2.0-rc.1](https://github.com/moby/moby/releases/tag/docker-v29.2.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.0.6-21](https://github.com/docker/packaging/releases/tag/model/v1.0.6-21), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.26.3](https://github.com/moby/buildkit/releases/tag/v0.26.3), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/cagent](https://github.com/docker/cagent) ([v1.15.3](https://github.com/docker/cagent/releases/tag/v1.15.3), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (2 months ago)
