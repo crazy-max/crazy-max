@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 days ago)
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (today)
+- [crazy-max/docker-cloudflared](https://github.com/crazy-max/docker-cloudflared) - Cloudflared proxy-dns Docker image (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.2.10-0.16.5-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.2.10-0.16.5-r0), 1 day ago) - rTorrent and ruTorrent Docker image
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [librenms/docker](https://github.com/librenms/docker) ([25.12.0-r0](https://github.com/librenms/docker/releases/tag/25.12.0-r0), 2 days ago) - LibreNMS Docker image
-- [docker/cagent](https://github.com/docker/cagent) ([v1.15.6](https://github.com/docker/cagent/releases/tag/v1.15.6), 2 days ago) - Agent Builder and Runtime by Docker Engineering
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.6.2-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.6.2-r0), 2 days ago) - Matomo (formerly Piwik) Docker image
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v3.12.0](https://github.com/docker/setup-buildx-action/releases/tag/v3.12.0), 2 days ago) - GitHub Action to set up Docker Buildx
+- [librenms/docker](https://github.com/librenms/docker) ([25.12.0-r0](https://github.com/librenms/docker/releases/tag/25.12.0-r0), 3 days ago) - LibreNMS Docker image
+- [docker/cagent](https://github.com/docker/cagent) ([v1.15.6](https://github.com/docker/cagent/releases/tag/v1.15.6), 3 days ago) - Agent Builder and Runtime by Docker Engineering
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.6.2-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.6.2-r0), 3 days ago) - Matomo (formerly Piwik) Docker image
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (2 months ago)
