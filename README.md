@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (2 days ago)
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (3 days ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (3 days ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (3 days ago)
+- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) - Middleware that provides ipfilter support for echo framework (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.11.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.11.0), 2 days ago) - Grab your files periodically from a remote FTP or SFTP server easily
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.31.0](https://github.com/crazy-max/diun/releases/tag/v4.31.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
-- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) ([v1.13.0](https://github.com/crazy-max/echo-ipfilter/releases/tag/v1.13.0), 3 days ago) - Middleware that provides ipfilter support for echo framework
-- [docker/cagent](https://github.com/docker/cagent) ([v1.15.8](https://github.com/docker/cagent/releases/tag/v1.15.8), 3 days ago) - Agent Builder and Runtime by Docker Engineering
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([32.0.3-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/32.0.3-r0), 1 day ago) - Nextcloud Docker image
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Release engineering, simplified
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.11.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.11.0), 3 days ago) - Grab your files periodically from a remote FTP or SFTP server easily
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.31.0](https://github.com/crazy-max/diun/releases/tag/v4.31.0), 3 days ago) - Receive notifications when an image is updated on a Docker registry
+- [crazy-max/echo-ipfilter](https://github.com/crazy-max/echo-ipfilter) ([v1.13.0](https://github.com/crazy-max/echo-ipfilter/releases/tag/v1.13.0), 4 days ago) - Middleware that provides ipfilter support for echo framework
 
 #### ❤️ Latest sponsors
 - [Fedor Dikarev](https://github.com/fedordikarev) (2 months ago)
