@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (4 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (4 days ago)
-- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites (5 days ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (5 days ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (today)
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) - 🚀 Insomnia REST Client portable for Windows (today)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (today)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (today)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [docker/cagent](https://github.com/docker/cagent) ([v1.17.0](https://github.com/docker/cagent/releases/tag/v1.17.0), 2 days ago) - Agent Builder and Runtime by Docker Engineering
-- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ([v1.15.0](https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.15.0), 4 days ago) - Create jobs on a time-based schedule on Docker Swarm
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.11.0](https://github.com/crazy-max/undock/releases/tag/v0.11.0), 5 days ago) - Extract contents of a container image in a local folder
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.14.0](https://github.com/crazy-max/ddns-route53/releases/tag/v2.14.0), 5 days ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9219-24](https://github.com/portapps/discord-portable/releases/tag/1.0.9219-24), 1 day ago) - 🚀 Discord portable for Windows
+- [portapps/handbrake-portable](https://github.com/portapps/handbrake-portable) ([1.10.2-10](https://github.com/portapps/handbrake-portable/releases/tag/1.10.2-10), 1 day ago) - 🚀 HandBrake portable for Windows
+- [portapps/insomnia-portable](https://github.com/portapps/insomnia-portable) ([12.2.0-30](https://github.com/portapps/insomnia-portable/releases/tag/12.2.0-30), 1 day ago) - 🚀 Insomnia REST Client portable for Windows
+- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) ([1.107.1-50](https://github.com/portapps/vscode-portable/releases/tag/1.107.1-50), 1 day ago) - 🚀 Visual Studio Code portable for Windows
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.6.7-32](https://github.com/portapps/waterfox-portable/releases/tag/6.6.7-32), 1 day ago) - 🚀 Waterfox portable for Windows 
 
 #### ❤️ Latest sponsors
-- [Juliette](https://github.com/jrfnl) (5 days ago)
+- [Juliette](https://github.com/jrfnl) (6 days ago)
 - [Jonathan Prusik](https://github.com/jprusik) (4 months ago)
 - [Don Pattee](https://github.com/DPattee) (7 months ago)
 - [Seow Alex](https://github.com/seowalex) (8 months ago)
