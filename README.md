@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (1 day ago)
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.18.1](https://github.com/docker/cagent/releases/tag/v1.18.1), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.7.0](https://github.com/docker/setup-docker-action/releases/tag/v4.7.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.72.0](https://github.com/docker/actions-toolkit/releases/tag/v0.72.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9219-24](https://github.com/portapps/discord-portable/releases/tag/1.0.9219-24), 2 days ago) - 🚀 Discord portable for Windows
-- [portapps/handbrake-portable](https://github.com/portapps/handbrake-portable) ([1.10.2-10](https://github.com/portapps/handbrake-portable/releases/tag/1.10.2-10), 2 days ago) - 🚀 HandBrake portable for Windows
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.6-r0](https://github.com/anonaddy/docker/releases/tag/1.3.6-r0), today) - AnonAddy Docker image
+- [docker/cagent](https://github.com/docker/cagent) ([v1.18.6](https://github.com/docker/cagent/releases/tag/v1.18.6), today) - Agent Builder and Runtime by Docker Engineering
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v4.7.0](https://github.com/docker/setup-docker-action/releases/tag/v4.7.0), 2 days ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.72.0](https://github.com/docker/actions-toolkit/releases/tag/v0.72.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9219-24](https://github.com/portapps/discord-portable/releases/tag/1.0.9219-24), 3 days ago) - 🚀 Discord portable for Windows
 
 #### ❤️ Latest sponsors
 - [Juliette](https://github.com/jrfnl) (1 week ago)
