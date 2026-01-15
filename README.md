@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/github-builder-experimental](https://github.com/docker/github-builder-experimental) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/github-builder-experimental](https://github.com/docker/github-builder-experimental) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.10.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.10.0), 1 day ago) - BuildKit Syft scanner
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.74.0](https://github.com/docker/actions-toolkit/releases/tag/v0.74.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.0.7-22](https://github.com/docker/packaging/releases/tag/model/v1.0.7-22), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [librenms/docker](https://github.com/librenms/docker) ([26.1.1-r0](https://github.com/librenms/docker/releases/tag/26.1.1-r0), 1 day ago) - LibreNMS Docker image
-- [librenms/librenms](https://github.com/librenms/librenms) ([26.1.1](https://github.com/librenms/librenms/releases/tag/26.1.1), 2 days ago) - Community-based GPL-licensed network monitoring system
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.75.0](https://github.com/docker/actions-toolkit/releases/tag/v0.75.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.10.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.10.0), 2 days ago) - BuildKit Syft scanner
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.0.7-22](https://github.com/docker/packaging/releases/tag/model/v1.0.7-22), 2 days ago) - Docker Packaging (deb, rpm, static)
+- [librenms/docker](https://github.com/librenms/docker) ([26.1.1-r0](https://github.com/librenms/docker/releases/tag/26.1.1-r0), 2 days ago) - LibreNMS Docker image
 
 #### ❤️ Latest sponsors
 - [Juliette](https://github.com/jrfnl) (2 weeks ago)
