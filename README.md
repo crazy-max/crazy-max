@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 week ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 week ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 week ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/github-builder-experimental](https://github.com/docker/github-builder-experimental) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.2.0](https://github.com/moby/moby/releases/tag/docker-v29.2.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/cagent](https://github.com/docker/cagent) ([v1.19.7](https://github.com/docker/cagent/releases/tag/v1.19.7), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [librenms/docker](https://github.com/librenms/docker) ([26.1.1-r1](https://github.com/librenms/docker/releases/tag/26.1.1-r1), 4 days ago) - LibreNMS Docker image
-- [docker/buildx](https://github.com/docker/buildx) ([v0.31.0](https://github.com/docker/buildx/releases/tag/v0.31.0), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.21.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.21.0-labs), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.76.0](https://github.com/docker/actions-toolkit/releases/tag/v0.76.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.2.0](https://github.com/moby/moby/releases/tag/docker-v29.2.0), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/cagent](https://github.com/docker/cagent) ([v1.19.7](https://github.com/docker/cagent/releases/tag/v1.19.7), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [librenms/docker](https://github.com/librenms/docker) ([26.1.1-r1](https://github.com/librenms/docker/releases/tag/26.1.1-r1), 5 days ago) - LibreNMS Docker image
+- [docker/buildx](https://github.com/docker/buildx) ([v0.31.0](https://github.com/docker/buildx/releases/tag/v0.31.0), 6 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Ryan](https://github.com/Sped0n) (1 week ago)
