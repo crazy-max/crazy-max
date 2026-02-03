@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (2 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.7-r0](https://github.com/anonaddy/docker/releases/tag/1.3.7-r0), 2 days ago) - AnonAddy Docker image
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([26.1-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/26.1-r0), 3 days ago) - MacOSX cross toolchain as Docker image
-- [docker/cagent](https://github.com/docker/cagent) ([v1.20.0](https://github.com/docker/cagent/releases/tag/v1.20.0), 3 days ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.0.0](https://github.com/docker/github-builder/releases/tag/v1.0.0), 4 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v10.0.4-59](https://github.com/tonistiigi/binfmt/releases/tag/deploy/v10.0.4-59), 4 days ago) - Cross-platform emulator collection distributed with Docker images.
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.2.1](https://github.com/moby/moby/releases/tag/docker-v29.2.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/cagent](https://github.com/docker/cagent) ([v1.20.3](https://github.com/docker/cagent/releases/tag/v1.20.3), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.7-r0](https://github.com/anonaddy/docker/releases/tag/1.3.7-r0), 3 days ago) - AnonAddy Docker image
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([26.1-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/26.1-r0), 4 days ago) - MacOSX cross toolchain as Docker image
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.0.0](https://github.com/docker/github-builder/releases/tag/v1.0.0), 5 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
 
 #### ❤️ Latest sponsors
-- [Ryan](https://github.com/Sped0n) (1 week ago)
+- [Ryan](https://github.com/Sped0n) (2 weeks ago)
 - [Jonathan Prusik](https://github.com/jprusik) (5 months ago)
 - [Don Pattee](https://github.com/DPattee) (8 months ago)
 - [Seow Alex](https://github.com/seowalex) (9 months ago)
