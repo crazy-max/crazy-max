@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (3 days ago)
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (3 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker&#39;s Documentation (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.0.10-25](https://github.com/docker/packaging/releases/tag/model/v1.0.10-25), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/cagent](https://github.com/docker/cagent) ([v1.20.4](https://github.com/docker/cagent/releases/tag/v1.20.4), 2 days ago) - Agent Builder and Runtime by Docker Engineering
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.2.1](https://github.com/moby/moby/releases/tag/docker-v29.2.1), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.7-r0](https://github.com/anonaddy/docker/releases/tag/1.3.7-r0), 5 days ago) - AnonAddy Docker image
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([26.1-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/26.1-r0), 6 days ago) - MacOSX cross toolchain as Docker image
+- [docker/cagent](https://github.com/docker/cagent) ([v1.20.5](https://github.com/docker/cagent/releases/tag/v1.20.5), 1 day ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.0.10-25](https://github.com/docker/packaging/releases/tag/model/v1.0.10-25), 2 days ago) - Docker Packaging (deb, rpm, static)
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.2.1](https://github.com/moby/moby/releases/tag/docker-v29.2.1), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.7-r0](https://github.com/anonaddy/docker/releases/tag/1.3.7-r0), 6 days ago) - AnonAddy Docker image
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([26.1-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/26.1-r0), 1 week ago) - MacOSX cross toolchain as Docker image
 
 #### ❤️ Latest sponsors
 - [Ryan](https://github.com/Sped0n) (2 weeks ago)
