@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (2 days ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (3 days ago)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (today)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (today)
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - GitHub Action to expose GitHub runtime to the workflow (1 day ago)
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) - GitHub Action to check Docker system status in your workflow (1 day ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.23.1](https://github.com/docker/cagent/releases/tag/v1.23.1), 2 days ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.19.2](https://github.com/docker/build-push-action/releases/tag/v6.19.2), 3 days ago) - GitHub Action to build and push Docker images with Buildx
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.2.1](https://github.com/moby/moby/releases/tag/docker-v29.2.1), 1 week ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.3.7-r0](https://github.com/anonaddy/docker/releases/tag/1.3.7-r0), 2 weeks ago) - AnonAddy Docker image
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([26.1-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/26.1-r0), 2 weeks ago) - MacOSX cross toolchain as Docker image
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v4.0.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v4.0.0), 1 day ago) - GitHub Action for Chocolatey, the package manager for Windows
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v3.4.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v3.4.0), 1 day ago) - GitHub Action to check Docker system status in your workflow
+- [crazy-max/ghaction-hugo](https://github.com/crazy-max/ghaction-hugo) ([v3.3.0](https://github.com/crazy-max/ghaction-hugo/releases/tag/v3.3.0), 1 day ago) - GitHub Action for Hugo, the world&#39;s fastest framework for building websites
+- [docker/cagent](https://github.com/docker/cagent) ([v1.23.1](https://github.com/docker/cagent/releases/tag/v1.23.1), 3 days ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v6.19.2](https://github.com/docker/build-push-action/releases/tag/v6.19.2), 4 days ago) - GitHub Action to build and push Docker images with Buildx
 
 #### ❤️ Latest sponsors
 - [Ryan](https://github.com/Sped0n) (3 weeks ago)
