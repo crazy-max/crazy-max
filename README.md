@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (today)
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (today)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (2 days ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/cagent](https://github.com/docker/cagent) ([v1.23.3](https://github.com/docker/cagent/releases/tag/v1.23.3), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.0.19](https://github.com/docker/model-runner/releases/tag/v1.0.19), 1 day ago) - Docker Model Runner
-- [librenms/docker](https://github.com/librenms/docker) ([26.2.0-r1](https://github.com/librenms/docker/releases/tag/26.2.0-r1), 1 day ago) - LibreNMS Docker image
-- [librenms/librenms](https://github.com/librenms/librenms) ([26.2.0](https://github.com/librenms/librenms/releases/tag/26.2.0), 1 day ago) - Community-based GPL-licensed network monitoring system
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) ([v4.0.0](https://github.com/crazy-max/ghaction-container-scan/releases/tag/v4.0.0), 1 day ago) - GitHub Action to check for vulnerabilities in your container image
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([desktop/v10.1.3-62](https://github.com/tonistiigi/binfmt/releases/tag/desktop/v10.1.3-62), 1 day ago) - Cross-platform emulator collection distributed with Docker images.
+- [docker/cagent](https://github.com/docker/cagent) ([v1.23.3](https://github.com/docker/cagent/releases/tag/v1.23.3), 2 days ago) - Agent Builder and Runtime by Docker Engineering
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.0.19](https://github.com/docker/model-runner/releases/tag/v1.0.19), 2 days ago) - Docker Model Runner
+- [librenms/docker](https://github.com/librenms/docker) ([26.2.0-r1](https://github.com/librenms/docker/releases/tag/26.2.0-r1), 2 days ago) - LibreNMS Docker image
+- [librenms/librenms](https://github.com/librenms/librenms) ([26.2.0](https://github.com/librenms/librenms/releases/tag/26.2.0), 2 days ago) - Community-based GPL-licensed network monitoring system
 
 #### ❤️ Latest sponsors
 - [Ryan](https://github.com/Sped0n) (4 weeks ago)
