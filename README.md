@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (today)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 week ago)
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.1.8](https://github.com/docker/model-runner/releases/tag/v1.1.8), 1 day ago) - Docker Model Runner
-- [docker/cagent](https://github.com/docker/cagent) ([v1.27.1](https://github.com/docker/cagent/releases/tag/v1.27.1), 1 day ago) - Agent Builder and Runtime by Docker Engineering
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.1.8-43](https://github.com/docker/packaging/releases/tag/model/v1.1.8-43), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/buildx](https://github.com/docker/buildx) ([v0.32.0-rc1](https://github.com/docker/buildx/releases/tag/v0.32.0-rc1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.22.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.22.0-rc1-labs), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.3.0-rc.1](https://github.com/moby/moby/releases/tag/docker-v29.3.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/buildx](https://github.com/docker/buildx) ([v0.32.0-rc2](https://github.com/docker/buildx/releases/tag/v0.32.0-rc2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.28.0-rc2](https://github.com/moby/buildkit/releases/tag/v0.28.0-rc2), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) ([v1.3.0](https://github.com/docker/setup-compose-action/releases/tag/v1.3.0), 1 day ago) - GitHub Action to set up Docker Compose
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.1.0](https://github.com/docker/github-builder/releases/tag/v1.1.0), 1 day ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (6 months ago)
