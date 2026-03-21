@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 day ago)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.34.0](https://github.com/docker/docker-agent/releases/tag/v1.34.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.85.0](https://github.com/docker/actions-toolkit/releases/tag/v0.85.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [magefile/mage-action](https://github.com/magefile/mage-action) ([v4.0.0](https://github.com/magefile/mage-action/releases/tag/v4.0.0), 1 day ago) - GitHub Action for Mage
-- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) ([v0.41.0](https://github.com/docker/mcp-gateway/releases/tag/v0.41.0), 2 days ago) - docker mcp CLI plugin / MCP Gateway
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.1.14](https://github.com/docker/model-runner/releases/tag/v1.1.14), 2 days ago) - Docker Model Runner
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.36.0](https://github.com/docker/docker-agent/releases/tag/v1.36.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) ([v0.40.3](https://github.com/docker/mcp-gateway/releases/tag/v0.40.3), 1 day ago) - docker mcp CLI plugin / MCP Gateway
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.1.17](https://github.com/docker/model-runner/releases/tag/v1.1.17), 1 day ago) - Docker Model Runner
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.1.17-46](https://github.com/docker/packaging/releases/tag/model/v1.1.17-46), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/compose](https://github.com/docker/compose) ([v5.1.1](https://github.com/docker/compose/releases/tag/v5.1.1), 1 day ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (6 months ago)
