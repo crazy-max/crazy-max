@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (today)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (today)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (today)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.1.0](https://github.com/crazy-max/.github/releases/tag/v1.1.0), 1 day ago)
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.1.25](https://github.com/docker/model-runner/releases/tag/v1.1.25), 1 day ago) - Docker Model Runner
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.1.25-48](https://github.com/docker/packaging/releases/tag/model/v1.1.25-48), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.86.0](https://github.com/docker/actions-toolkit/releases/tag/v0.86.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.36.1](https://github.com/docker/docker-agent/releases/tag/v1.36.1), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.3.1](https://github.com/moby/moby/releases/tag/docker-v29.3.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.37.0](https://github.com/docker/docker-agent/releases/tag/v1.37.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.1.0](https://github.com/crazy-max/.github/releases/tag/v1.1.0), 2 days ago)
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.1.25](https://github.com/docker/model-runner/releases/tag/v1.1.25), 2 days ago) - Docker Model Runner
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.1.25-48](https://github.com/docker/packaging/releases/tag/model/v1.1.25-48), 2 days ago) - Docker Packaging (deb, rpm, static)
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (7 months ago)
