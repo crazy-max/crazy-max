@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (today)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (today)
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (today)
-- [crazy-max/ghaction-dockerhub-mirror](https://github.com/crazy-max/ghaction-dockerhub-mirror) - GitHub Action to mirror a DockerHub repo to another registry (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages (today)
+- [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status) - GitHub Action to check GitHub Status in your workflow (today)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (today)
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support (today)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.3.0](https://github.com/crazy-max/.github/releases/tag/v1.3.0), 1 day ago)
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.39.0](https://github.com/docker/docker-agent/releases/tag/v1.39.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [crazy-max/ghaction-dump-context](https://github.com/crazy-max/ghaction-dump-context) ([v3.0.0](https://github.com/crazy-max/ghaction-dump-context/releases/tag/v3.0.0), 1 day ago) - GitHub Action composite to dump context
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.1.28](https://github.com/docker/model-runner/releases/tag/v1.1.28), 1 day ago) - Docker Model Runner
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.1.28-49](https://github.com/docker/packaging/releases/tag/model/v1.1.28-49), 2 days ago) - Docker Packaging (deb, rpm, static)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.24.2-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.24.2-r0), 1 day ago) - Unbound Docker image
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.22.8-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.22.8-r0), 1 day ago) - Samba Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([33.0.1-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/33.0.1-r0), 1 day ago) - Nextcloud Docker image
+- [crazy-max/docker-linguist](https://github.com/crazy-max/docker-linguist) ([9.5.0-r0](https://github.com/crazy-max/docker-linguist/releases/tag/9.5.0-r0), 1 day ago) - GitHub Linguist Docker image
+- [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.3.0](https://github.com/crazy-max/.github/releases/tag/v1.3.0), 2 days ago)
 
 #### ❤️ Latest sponsors
 - [Jonathan Prusik](https://github.com/jprusik) (7 months ago)
