@@ -15,8 +15,12 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
-#### ❤️ Latest sponsors
+#### 🔨 Latest Pull Requests I published
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
+#### ❤️ Latest sponsors
 {{- range sponsors 5 }}
 - {{ if (eq .User.Name "") }}_Anonymous_{{ else }}[{{ .User.Name }}]({{ .User.URL }}){{ end }} ({{ humanize .CreatedAt }})
 {{- end }}
