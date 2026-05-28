@@ -24,14 +24,6 @@
 - [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v5.2.0](https://github.com/docker/setup-docker-action/releases/tag/v5.2.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
 - [docker/setup-compose-action](https://github.com/docker/setup-compose-action) ([v2.2.0](https://github.com/docker/setup-compose-action/releases/tag/v2.2.0), 1 day ago) - GitHub Action to set up Docker Compose
 
-#### 🔨 Latest Pull Requests I published
-
-- [skip non-image artifacts during registry checks](https://github.com/crazy-max/diun/pull/1746) on [crazy-max/diun](https://github.com/crazy-max/diun) (today)
-- [skip generated artifact tags during registry checks](https://github.com/crazy-max/diun/pull/1745) on [crazy-max/diun](https://github.com/crazy-max/diun) (today)
-- [migrate github.com/docker/docker to github.com/moby/moby](https://github.com/crazy-max/undock/pull/451) on [crazy-max/undock](https://github.com/crazy-max/undock) (today)
-- [update yarn to 4.15.0](https://github.com/docker/setup-docker-action/pull/273) on [docker/setup-docker-action](https://github.com/docker/setup-docker-action) (today)
-- [update yarn to 4.15.0](https://github.com/docker/setup-qemu-action/pull/297) on [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) (today)
-
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (1 month ago)
 - [Jonathan Prusik](https://github.com/jprusik) (9 months ago)
