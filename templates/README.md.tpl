@@ -6,9 +6,14 @@
 {{- end}}
 
 #### 👨‍💻 Repositories I created recently
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
-{{- end}}
+{{ $recentReposShown := "" -}}
+{{/* recentRepos adds 1 internally, so 99 keeps the GitHub GraphQL query at first:100. */ -}}
+{{ range recentRepos 99 -}}
+{{ if and .Description (lt (len $recentReposShown) 5) }}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- $recentReposShown = printf "%s." $recentReposShown -}}
+{{ end -}}
+{{ end}}
 
 #### 🚀 Latest releases I've contributed to
 {{range recentReleases 5}}
