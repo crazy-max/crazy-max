@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (3 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (3 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.70.2](https://github.com/docker/docker-agent/releases/tag/v1.70.2), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.33.0](https://github.com/crazy-max/diun/releases/tag/v4.33.0), 3 days ago) - Receive notifications when an image is updated on a Docker registry
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.10.0](https://github.com/docker/github-builder/releases/tag/v1.10.0), 4 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v4.1.0](https://github.com/docker/setup-qemu-action/releases/tag/v4.1.0), 6 days ago) - GitHub Action to install QEMU static binaries
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v5.2.0](https://github.com/docker/setup-docker-action/releases/tag/v5.2.0), 6 days ago) - GitHub Action to set up (download and install) Docker CE
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.10.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.10.1-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.1.8](https://github.com/containerd/containerd/releases/tag/v2.1.8), 1 day ago) - An open and reliable container runtime
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.72.0](https://github.com/docker/docker-agent/releases/tag/v1.72.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.33.0](https://github.com/crazy-max/diun/releases/tag/v4.33.0), 4 days ago) - Receive notifications when an image is updated on a Docker registry
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.10.0](https://github.com/docker/github-builder/releases/tag/v1.10.0), 5 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
