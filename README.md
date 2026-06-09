@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (3 days ago)
-- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (3 days ago)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (3 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.11.0](https://github.com/docker/github-builder/releases/tag/v1.11.0), 3 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.10.0](https://github.com/crazy-max/.github/releases/tag/v1.10.0), 3 days ago)
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.5.3](https://github.com/moby/moby/releases/tag/docker-v29.5.3), 5 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.73.0](https://github.com/docker/docker-agent/releases/tag/v1.73.0), 5 days ago) - AI Agent Builder and Runtime by Docker Engineering
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.10.1-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.10.1-r0), 6 days ago) - Matomo (formerly Piwik) Docker image
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.8](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.8), 1 day ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.2](https://github.com/docker/model-runner/releases/tag/v1.2.2), 1 day ago) - Docker Model Runner
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) ([deploy/v10.2.3-68](https://github.com/tonistiigi/binfmt/releases/tag/deploy/v10.2.3-68), 1 day ago) - Cross-platform emulator collection distributed with Docker images.
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.11.0](https://github.com/docker/github-builder/releases/tag/v1.11.0), 4 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.10.0](https://github.com/crazy-max/.github/releases/tag/v1.10.0), 4 days ago)
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
