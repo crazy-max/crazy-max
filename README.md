@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.14.0](https://github.com/crazy-max/undock/releases/tag/v0.14.0), 1 day ago) - Extract contents of a container image in a local folder
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v3.1.1](https://github.com/sigstore/cosign/releases/tag/v3.1.1), 1 day ago) - Code signing and transparency for containers and binaries
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.74.0](https://github.com/docker/docker-agent/releases/tag/v1.74.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.8](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.8), 2 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.2](https://github.com/docker/model-runner/releases/tag/v1.2.2), 2 days ago) - Docker Model Runner
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.25.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.25.0-rc1-labs), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildx](https://github.com/docker/buildx) ([v0.35.0-rc1](https://github.com/docker/buildx/releases/tag/v0.35.0-rc1), today) - Docker CLI plugin for extended build capabilities with BuildKit
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.77.0](https://github.com/docker/docker-agent/releases/tag/v1.77.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.14.0](https://github.com/crazy-max/undock/releases/tag/v0.14.0), 2 days ago) - Extract contents of a container image in a local folder
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v3.1.1](https://github.com/sigstore/cosign/releases/tag/v3.1.1), 2 days ago) - Code signing and transparency for containers and binaries
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
