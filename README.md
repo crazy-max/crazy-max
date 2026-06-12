@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.25.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.25.0-rc1-labs), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/buildx](https://github.com/docker/buildx) ([v0.35.0-rc1](https://github.com/docker/buildx/releases/tag/v0.35.0-rc1), today) - Docker CLI plugin for extended build capabilities with BuildKit
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.77.0](https://github.com/docker/docker-agent/releases/tag/v1.77.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.14.0](https://github.com/crazy-max/undock/releases/tag/v0.14.0), 2 days ago) - Extract contents of a container image in a local folder
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v3.1.1](https://github.com/sigstore/cosign/releases/tag/v3.1.1), 2 days ago) - Code signing and transparency for containers and binaries
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.78.0](https://github.com/docker/docker-agent/releases/tag/v1.78.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.12.0](https://github.com/docker/github-builder/releases/tag/v1.12.0), 1 day ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.3](https://github.com/docker/model-runner/releases/tag/v1.2.3), 1 day ago) - Docker Model Runner
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.25.0-rc1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.25.0-rc1-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/buildx](https://github.com/docker/buildx) ([v0.35.0-rc1](https://github.com/docker/buildx/releases/tag/v0.35.0-rc1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
