@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (today)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.6.0-rc.1](https://github.com/moby/moby/releases/tag/docker-v29.6.0-rc.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.79.0](https://github.com/docker/docker-agent/releases/tag/v1.79.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/buildx](https://github.com/docker/buildx) ([v0.35.0-rc2](https://github.com/docker/buildx/releases/tag/v0.35.0-rc2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.25.0-rc2-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.25.0-rc2-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.10.1](https://github.com/crazy-max/.github/releases/tag/v1.10.1), 1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.1-0.16.13-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.1-0.16.13-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [portapps/.github](https://github.com/portapps/.github) ([v1.3.0](https://github.com/portapps/.github/releases/tag/v1.3.0), 1 day ago) - 🐙 GitHub&#39;s org-wide settings
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.6.0-rc.1](https://github.com/moby/moby/releases/tag/docker-v29.6.0-rc.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.79.0](https://github.com/docker/docker-agent/releases/tag/v1.79.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/buildx](https://github.com/docker/buildx) ([v0.35.0-rc2](https://github.com/docker/buildx/releases/tag/v0.35.0-rc2), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
