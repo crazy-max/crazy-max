@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (today)
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (1 day ago)
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (1 day ago)
-- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages (1 day ago)
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (1 day ago)
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (2 days ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (2 days ago)
+- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages (2 days ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.12.1](https://github.com/compose-spec/compose-go/releases/tag/v2.12.1), 1 day ago) - Reference library for parsing and loading Compose YAML files
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.85.0](https://github.com/docker/docker-agent/releases/tag/v1.85.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.4](https://github.com/docker/model-runner/releases/tag/v1.2.4), 4 days ago) - Docker Model Runner
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.1.9](https://github.com/containerd/containerd/releases/tag/v2.1.9), 5 days ago) - An open and reliable container runtime
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.6.0](https://github.com/moby/moby/releases/tag/docker-v29.6.0), 5 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.2.0-49](https://github.com/docker/packaging/releases/tag/compose/v5.2.0-49), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/compose](https://github.com/docker/compose) ([v5.2.0](https://github.com/docker/compose/releases/tag/v5.2.0), 1 day ago) - Define and run multi-container applications with Docker
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.86.0](https://github.com/docker/docker-agent/releases/tag/v1.86.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.12.1](https://github.com/compose-spec/compose-go/releases/tag/v2.12.1), 2 days ago) - Reference library for parsing and loading Compose YAML files
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.4](https://github.com/docker/model-runner/releases/tag/v1.2.4), 5 days ago) - Docker Model Runner
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
