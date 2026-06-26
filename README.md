@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (1 day ago)
-- [portapps/.github](https://github.com/portapps/.github) - 🐙 GitHub&#39;s org-wide settings (1 day ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
+- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (2 days ago)
+- [portapps/.github](https://github.com/portapps/.github) - 🐙 GitHub&#39;s org-wide settings (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.31.1](https://github.com/moby/buildkit/releases/tag/v0.31.1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.6.2](https://github.com/anonaddy/anonaddy/releases/tag/v1.6.2), 1 day ago) - Anonymous email forwarding
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.2.0-49](https://github.com/docker/packaging/releases/tag/compose/v5.2.0-49), 2 days ago) - Docker Packaging (deb, rpm, static)
-- [docker/compose](https://github.com/docker/compose) ([v5.2.0](https://github.com/docker/compose/releases/tag/v5.2.0), 2 days ago) - Define and run multi-container applications with Docker
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.86.0](https://github.com/docker/docker-agent/releases/tag/v1.86.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.6.3](https://github.com/anonaddy/anonaddy/releases/tag/v1.6.3), 1 day ago) - Anonymous email forwarding
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.87.0](https://github.com/docker/docker-agent/releases/tag/v1.87.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.31.1](https://github.com/moby/buildkit/releases/tag/v0.31.1), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.2.0-49](https://github.com/docker/packaging/releases/tag/compose/v5.2.0-49), 3 days ago) - Docker Packaging (deb, rpm, static)
+- [docker/compose](https://github.com/docker/compose) ([v5.2.0](https://github.com/docker/compose/releases/tag/v5.2.0), 3 days ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
