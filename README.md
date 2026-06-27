@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (2 days ago)
-- [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind&#39;s GeoIP2 databases on a time-based schedule (2 days ago)
-- [portapps/.github](https://github.com/portapps/.github) - 🐙 GitHub&#39;s org-wide settings (2 days ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (2 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.6.3](https://github.com/anonaddy/anonaddy/releases/tag/v1.6.3), 1 day ago) - Anonymous email forwarding
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.87.0](https://github.com/docker/docker-agent/releases/tag/v1.87.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.31.1](https://github.com/moby/buildkit/releases/tag/v0.31.1), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.2.0-49](https://github.com/docker/packaging/releases/tag/compose/v5.2.0-49), 3 days ago) - Docker Packaging (deb, rpm, static)
-- [docker/compose](https://github.com/docker/compose) ([v5.2.0](https://github.com/docker/compose/releases/tag/v5.2.0), 3 days ago) - Define and run multi-container applications with Docker
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.11.2-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.11.2-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.6.1](https://github.com/moby/moby/releases/tag/docker-v29.6.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.88.1](https://github.com/docker/docker-agent/releases/tag/v1.88.1), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.5](https://github.com/docker/model-runner/releases/tag/v1.2.5), 1 day ago) - Docker Model Runner
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.2.5-63](https://github.com/docker/packaging/releases/tag/model/v1.2.5-63), 1 day ago) - Docker Packaging (deb, rpm, static)
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
