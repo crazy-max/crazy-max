@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (2 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (3 days ago)
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (3 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal (today)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
+- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages (today)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (today)
 
 #### 👨‍💻 Repositories I created recently
 
