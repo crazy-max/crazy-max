@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
-- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal (today)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
-- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages (today)
-- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (today)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows (today)
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - GitHub Action to expose GitHub runtime to the workflow (1 day ago)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.11.2-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.11.2-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.6.1](https://github.com/moby/moby/releases/tag/docker-v29.6.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.88.1](https://github.com/docker/docker-agent/releases/tag/v1.88.1), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.5](https://github.com/docker/model-runner/releases/tag/v1.2.5), 1 day ago) - Docker Model Runner
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.2.5-63](https://github.com/docker/packaging/releases/tag/model/v1.2.5-63), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v4.1.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v4.1.0), 1 day ago) - GitHub Action for Chocolatey, the package manager for Windows
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.11.2-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.11.2-r0), 2 days ago) - Matomo (formerly Piwik) Docker image
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.6.1](https://github.com/moby/moby/releases/tag/docker-v29.6.1), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.88.1](https://github.com/docker/docker-agent/releases/tag/v1.88.1), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.5](https://github.com/docker/model-runner/releases/tag/v1.2.5), 2 days ago) - Docker Model Runner
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
