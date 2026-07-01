@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
-- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
+- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.90.0](https://github.com/docker/docker-agent/releases/tag/v1.90.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.13.0](https://github.com/compose-spec/compose-go/releases/tag/v2.13.0), 1 day ago) - Reference library for parsing and loading Compose YAML files
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v7.2.3](https://github.com/goreleaser/goreleaser-action/releases/tag/v7.2.3), 1 day ago) - GitHub Action for GoReleaser
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v4.1.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v4.1.0), 2 days ago) - GitHub Action to check Docker system status in your workflow
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) ([v4.1.0](https://github.com/crazy-max/ghaction-container-scan/releases/tag/v4.1.0), 2 days ago) - GitHub Action to check for vulnerabilities in your container image
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.6.3-r0](https://github.com/anonaddy/docker/releases/tag/1.6.3-r0), 1 day ago) - AnonAddy Docker image
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.93.0](https://github.com/docker/docker-agent/releases/tag/v1.93.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.13.0](https://github.com/compose-spec/compose-go/releases/tag/v2.13.0), 2 days ago) - Reference library for parsing and loading Compose YAML files
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v7.2.3](https://github.com/goreleaser/goreleaser-action/releases/tag/v7.2.3), 2 days ago) - GitHub Action for GoReleaser
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v4.1.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v4.1.0), 3 days ago) - GitHub Action to check Docker system status in your workflow
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
