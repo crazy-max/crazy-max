@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (1 day ago)
-- [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler) - GitHub Action to manage labels on GitHub (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.6.3-r0](https://github.com/anonaddy/docker/releases/tag/1.6.3-r0), 1 day ago) - AnonAddy Docker image
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.93.0](https://github.com/docker/docker-agent/releases/tag/v1.93.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.13.0](https://github.com/compose-spec/compose-go/releases/tag/v2.13.0), 2 days ago) - Reference library for parsing and loading Compose YAML files
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v7.2.3](https://github.com/goreleaser/goreleaser-action/releases/tag/v7.2.3), 2 days ago) - GitHub Action for GoReleaser
-- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v4.1.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v4.1.0), 3 days ago) - GitHub Action to check Docker system status in your workflow
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.3.0](https://github.com/docker/bake-action/releases/tag/v7.3.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v7.3.0](https://github.com/docker/build-push-action/releases/tag/v7.3.0), 1 day ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v5.3.0](https://github.com/docker/setup-docker-action/releases/tag/v5.3.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) ([v2.3.0](https://github.com/docker/setup-compose-action/releases/tag/v2.3.0), 1 day ago) - GitHub Action to set up Docker Compose
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v4.2.0](https://github.com/docker/setup-qemu-action/releases/tag/v4.2.0), 1 day ago) - GitHub Action to install QEMU static binaries
 
 #### ❤️ Latest sponsors
-- [Nazar Mokrynskyi](https://github.com/nazar-pc) (2 months ago)
+- [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (10 months ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
 - [Seow Alex](https://github.com/seowalex) (1 year ago)
