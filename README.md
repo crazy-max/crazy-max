@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.97.0](https://github.com/docker/docker-agent/releases/tag/v1.97.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.6.4](https://github.com/anonaddy/anonaddy/releases/tag/v1.6.4), 1 day ago) - Anonymous email forwarding
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.3.0-50](https://github.com/docker/packaging/releases/tag/compose/v5.3.0-50), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v4.2.0](https://github.com/docker/setup-buildx-action/releases/tag/v4.2.0), 1 day ago) - GitHub Action to set up Docker Buildx
-- [docker/compose](https://github.com/docker/compose) ([v5.3.0](https://github.com/docker/compose/releases/tag/v5.3.0), 1 day ago) - Define and run multi-container applications with Docker
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.6.4-r1](https://github.com/anonaddy/docker/releases/tag/1.6.4-r1), 1 day ago) - AnonAddy Docker image
+- [docker/login-action](https://github.com/docker/login-action) ([v4.4.0](https://github.com/docker/login-action/releases/tag/v4.4.0), 1 day ago) - GitHub Action to login against a Docker registry
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.98.0](https://github.com/docker/docker-agent/releases/tag/v1.98.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.6.4](https://github.com/anonaddy/anonaddy/releases/tag/v1.6.4), 2 days ago) - Anonymous email forwarding
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.3.0-50](https://github.com/docker/packaging/releases/tag/compose/v5.3.0-50), 2 days ago) - Docker Packaging (deb, rpm, static)
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
