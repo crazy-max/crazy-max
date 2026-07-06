@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (2 days ago)
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (2 days ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.6.4-r1](https://github.com/anonaddy/docker/releases/tag/1.6.4-r1), 2 days ago) - AnonAddy Docker image
-- [docker/login-action](https://github.com/docker/login-action) ([v4.4.0](https://github.com/docker/login-action/releases/tag/v4.4.0), 2 days ago) - GitHub Action to login against a Docker registry
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.98.0](https://github.com/docker/docker-agent/releases/tag/v1.98.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.6.4](https://github.com/anonaddy/anonaddy/releases/tag/v1.6.4), 3 days ago) - Anonymous email forwarding
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.3.0-50](https://github.com/docker/packaging/releases/tag/compose/v5.3.0-50), 3 days ago) - Docker Packaging (deb, rpm, static)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.92.134-100](https://github.com/portapps/brave-portable/releases/tag/1.92.134-100), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([152.0.4-70](https://github.com/portapps/phyrox-portable/releases/tag/152.0.4-70), 1 day ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([140.12.0-67](https://github.com/portapps/phyrox-esr-portable/releases/tag/140.12.0-67), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
+- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([153.0b8-54](https://github.com/portapps/phyrox-developer-portable/releases/tag/153.0b8-54), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([26.1.045-44](https://github.com/portapps/smartgit-portable/releases/tag/26.1.045-44), 1 day ago) - 🚀 SmartGit portable for Windows 
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
