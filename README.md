@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (today)
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
-- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) - 🚀 SmartGit portable for Windows  (1 day ago)
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.92.134-100](https://github.com/portapps/brave-portable/releases/tag/1.92.134-100), 1 day ago) - 🚀 Brave web browser portable for Windows
-- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([152.0.4-70](https://github.com/portapps/phyrox-portable/releases/tag/152.0.4-70), 1 day ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
-- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([140.12.0-67](https://github.com/portapps/phyrox-esr-portable/releases/tag/140.12.0-67), 1 day ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
-- [portapps/phyrox-developer-portable](https://github.com/portapps/phyrox-developer-portable) ([153.0b8-54](https://github.com/portapps/phyrox-developer-portable/releases/tag/153.0b8-54), 1 day ago) - 🚀 Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows
-- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([26.1.045-44](https://github.com/portapps/smartgit-portable/releases/tag/26.1.045-44), 1 day ago) - 🚀 SmartGit portable for Windows 
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.07.1](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.07.1), 1 day ago) - The official Pi-hole Docker image from pi-hole.net
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.99.0](https://github.com/docker/docker-agent/releases/tag/v1.99.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.92.134-100](https://github.com/portapps/brave-portable/releases/tag/1.92.134-100), 2 days ago) - 🚀 Brave web browser portable for Windows
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([152.0.4-70](https://github.com/portapps/phyrox-portable/releases/tag/152.0.4-70), 2 days ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) ([140.12.0-67](https://github.com/portapps/phyrox-esr-portable/releases/tag/140.12.0-67), 2 days ago) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
