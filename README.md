@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (today)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
 - [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (2 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/model-runner](https://github.com/docker/model-runner) ([dmr-v0.1.0](https://github.com/docker/model-runner/releases/tag/dmr-v0.1.0), 1 day ago) - Docker Model Runner
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.3.1-51](https://github.com/docker/packaging/releases/tag/compose/v5.3.1-51), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/compose](https://github.com/docker/compose) ([v5.3.1](https://github.com/docker/compose/releases/tag/v5.3.1), 1 day ago) - Define and run multi-container applications with Docker
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.101.0](https://github.com/docker/docker-agent/releases/tag/v1.101.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.07.2](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.07.2), 1 day ago) - The official Pi-hole Docker image from pi-hole.net
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.102.0](https://github.com/docker/docker-agent/releases/tag/v1.102.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.2.5-41-g71f7c822-64](https://github.com/docker/packaging/releases/tag/model/v1.2.5-41-g71f7c822-64), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.13.0](https://github.com/docker/github-builder/releases/tag/v1.13.0), 1 day ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/model-runner](https://github.com/docker/model-runner) ([dmr-v0.1.0](https://github.com/docker/model-runner/releases/tag/dmr-v0.1.0), 2 days ago) - Docker Model Runner
+- [docker/compose](https://github.com/docker/compose) ([v5.3.1](https://github.com/docker/compose/releases/tag/v5.3.1), 2 days ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
