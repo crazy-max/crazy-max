@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (today)
-- [crazy-max/gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages (2 days ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (2 days ago)
+- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.2.6-69](https://github.com/docker/packaging/releases/tag/containerd/v2.2.6-69), 3 days ago) - Docker Packaging (deb, rpm, static)
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.3.3](https://github.com/containerd/containerd/releases/tag/v2.3.3), 3 days ago) - An open and reliable container runtime
-- [docker/docker-py](https://github.com/docker/docker-py) ([7.2.0](https://github.com/docker/docker-py/releases/tag/7.2.0), 4 days ago) - A Python library for the Docker Engine API
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.6](https://github.com/docker/model-runner/releases/tag/v1.2.6), 4 days ago) - Docker Model Runner
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.103.0](https://github.com/docker/docker-agent/releases/tag/v1.103.0), 4 days ago) - AI Agent Builder and Runtime by Docker Engineering
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r30](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r30), 1 day ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.7-0.16.17-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.7-0.16.17-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.2.6-69](https://github.com/docker/packaging/releases/tag/containerd/v2.2.6-69), 4 days ago) - Docker Packaging (deb, rpm, static)
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.3.3](https://github.com/containerd/containerd/releases/tag/v2.3.3), 4 days ago) - An open and reliable container runtime
+- [docker/docker-py](https://github.com/docker/docker-py) ([7.2.0](https://github.com/docker/docker-py/releases/tag/7.2.0), 5 days ago) - A Python library for the Docker Engine API
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
