@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) - Lightweight SMTP relay Docker image using msmtpd (1 day ago)
+- [portapps/caprine-portable](https://github.com/portapps/caprine-portable) - 🚀 Caprine portable for Windows (today)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (today)
+- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (today)
+- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) - 🚀 Android Studio portable for Windows (today)
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r30](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r30), 1 day ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.7-0.16.17-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.7-0.16.17-r0), 1 day ago) - rTorrent and ruTorrent Docker image
-- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.2.6-69](https://github.com/docker/packaging/releases/tag/containerd/v2.2.6-69), 4 days ago) - Docker Packaging (deb, rpm, static)
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.3.3](https://github.com/containerd/containerd/releases/tag/v2.3.3), 4 days ago) - An open and reliable container runtime
-- [docker/docker-py](https://github.com/docker/docker-py) ([7.2.0](https://github.com/docker/docker-py/releases/tag/7.2.0), 5 days ago) - A Python library for the Docker Engine API
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.37.0](https://github.com/crazy-max/goxx/releases/tag/v0.37.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r30](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r30), 2 days ago) - Alpine Linux with s6 overlay
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.7-0.16.17-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.7-0.16.17-r0), 2 days ago) - rTorrent and ruTorrent Docker image
+- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.2.6-69](https://github.com/docker/packaging/releases/tag/containerd/v2.2.6-69), 5 days ago) - Docker Packaging (deb, rpm, static)
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.3.3](https://github.com/containerd/containerd/releases/tag/v2.3.3), 5 days ago) - An open and reliable container runtime
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
