@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/caprine-portable](https://github.com/portapps/caprine-portable) - 🚀 Caprine portable for Windows (today)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (today)
 - [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (today)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (today)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (today)
+- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) - 🚀 Cryptomator portable for Windows (today)
 - [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) - 🚀 Android Studio portable for Windows (today)
-- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.37.0](https://github.com/crazy-max/goxx/releases/tag/v0.37.0), 1 day ago) - Go CGO cross-compiler Docker image
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) ([2.2.0.3-r30](https://github.com/crazy-max/docker-alpine-s6/releases/tag/2.2.0.3-r30), 2 days ago) - Alpine Linux with s6 overlay
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.7-0.16.17-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.7-0.16.17-r0), 2 days ago) - rTorrent and ruTorrent Docker image
-- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.2.6-69](https://github.com/docker/packaging/releases/tag/containerd/v2.2.6-69), 5 days ago) - Docker Packaging (deb, rpm, static)
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.3.3](https://github.com/containerd/containerd/releases/tag/v2.3.3), 5 days ago) - An open and reliable container runtime
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.110.0](https://github.com/docker/docker-agent/releases/tag/v1.110.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.7.0](https://github.com/anonaddy/anonaddy/releases/tag/v1.7.0), 1 day ago) - Anonymous email forwarding
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.93.0](https://github.com/docker/actions-toolkit/releases/tag/v0.93.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.14.0](https://github.com/docker/github-builder/releases/tag/v1.14.0), 1 day ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.37.0](https://github.com/crazy-max/goxx/releases/tag/v0.37.0), 2 days ago) - Go CGO cross-compiler Docker image
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
