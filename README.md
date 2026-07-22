@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/dbeaver-portable](https://github.com/portapps/dbeaver-portable) - 🚀 DBeaver portable for Windows (today)
-- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (today)
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (today)
-- [portapps/cryptomator-portable](https://github.com/portapps/cryptomator-portable) - 🚀 Cryptomator portable for Windows (today)
-- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) - 🚀 Android Studio portable for Windows (today)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (2 days ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.110.0](https://github.com/docker/docker-agent/releases/tag/v1.110.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.7.0](https://github.com/anonaddy/anonaddy/releases/tag/v1.7.0), 1 day ago) - Anonymous email forwarding
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.93.0](https://github.com/docker/actions-toolkit/releases/tag/v0.93.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.14.0](https://github.com/docker/github-builder/releases/tag/v1.14.0), 1 day ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.37.0](https://github.com/crazy-max/goxx/releases/tag/v0.37.0), 2 days ago) - Go CGO cross-compiler Docker image
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.114.0](https://github.com/docker/docker-agent/releases/tag/v1.114.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.17-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.17-r0), 2 days ago) - Flarum Docker image
+- [docker/oidc-action](https://github.com/docker/oidc-action) ([v1.0.0](https://github.com/docker/oidc-action/releases/tag/v1.0.0), 2 days ago) - Official OIDC action for authenticating with Docker
+- [librenms/librenms](https://github.com/librenms/librenms) ([26.7.0](https://github.com/librenms/librenms/releases/tag/26.7.0), 2 days ago) - Community-based GPL-licensed network monitoring system
+- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.23.8-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.23.8-r0), 5 days ago) - Samba Docker image
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
-- [Jonathan Prusik](https://github.com/jprusik) (10 months ago)
+- [Jonathan Prusik](https://github.com/jprusik) (11 months ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
 - [Seow Alex](https://github.com/seowalex) (1 year ago)
 - _Anonymous_ (2 years ago)
