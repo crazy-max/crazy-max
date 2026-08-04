@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
-- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (2 days ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (today)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (today)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI (6 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.114.0](https://github.com/docker/docker-agent/releases/tag/v1.114.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.17-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.17-r0), 2 days ago) - Flarum Docker image
-- [docker/oidc-action](https://github.com/docker/oidc-action) ([v1.0.0](https://github.com/docker/oidc-action/releases/tag/v1.0.0), 2 days ago) - Official OIDC action for authenticating with Docker
-- [librenms/librenms](https://github.com/librenms/librenms) ([26.7.0](https://github.com/librenms/librenms/releases/tag/26.7.0), 2 days ago) - Community-based GPL-licensed network monitoring system
-- [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) ([4.23.8-r0](https://github.com/crazy-max/docker-samba/releases/tag/4.23.8-r0), 5 days ago) - Samba Docker image
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.36.1-55](https://github.com/docker/packaging/releases/tag/buildx/v0.36.1-55), today) - Docker Packaging (deb, rpm, static)
+- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), today) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), today) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/compose](https://github.com/docker/compose) ([v5.4.0](https://github.com/docker/compose/releases/tag/v5.4.0), 1 day ago) - Define and run multi-container applications with Docker
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
-- [Nazar Mokrynskyi](https://github.com/nazar-pc) (3 months ago)
+- [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (11 months ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
 - [Seow Alex](https://github.com/seowalex) (1 year ago)
