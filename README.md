@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 2 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.16.0](https://github.com/docker/github-builder/releases/tag/v1.16.0), 2 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/compose](https://github.com/docker/compose) ([v5.4.0](https://github.com/docker/compose/releases/tag/v5.4.0), 4 days ago) - Define and run multi-container applications with Docker
 - [docker/login-action](https://github.com/docker/login-action) ([v4.6.0](https://github.com/docker/login-action/releases/tag/v4.6.0), 1 week ago) - GitHub Action to login against a Docker registry
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v4.2.0](https://github.com/docker/setup-buildx-action/releases/tag/v4.2.0), 1 month ago) - GitHub Action to set up Docker Buildx
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
