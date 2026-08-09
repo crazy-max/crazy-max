@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (today)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (1 week ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (2 weeks ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (4 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (4 days ago)
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.1-r0](https://github.com/anonaddy/docker/releases/tag/1.7.1-r0), today) - AnonAddy Docker image
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.16.0](https://github.com/docker/github-builder/releases/tag/v1.16.0), 2 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 3 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/compose](https://github.com/docker/compose) ([v5.4.0](https://github.com/docker/compose/releases/tag/v5.4.0), 4 days ago) - Define and run multi-container applications with Docker
-- [docker/login-action](https://github.com/docker/login-action) ([v4.6.0](https://github.com/docker/login-action/releases/tag/v4.6.0), 1 week ago) - GitHub Action to login against a Docker registry
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.1-r0](https://github.com/anonaddy/docker/releases/tag/1.7.1-r0), 2 days ago) - AnonAddy Docker image
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.16.0](https://github.com/docker/github-builder/releases/tag/v1.16.0), 4 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.36.1-55](https://github.com/docker/packaging/releases/tag/buildx/v0.36.1-55), 5 days ago) - Docker Packaging (deb, rpm, static)
+- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 5 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [docker/compose](https://github.com/docker/compose) ([v5.4.0](https://github.com/docker/compose/releases/tag/v5.4.0), 6 days ago) - Define and run multi-container applications with Docker
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
