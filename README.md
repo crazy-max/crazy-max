@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (6 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 week ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (4 weeks ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (4 weeks ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (today)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [docker/buildx-desktop](https://github.com/docker/buildx-desktop) ([v0.36.1-desktop.1](https://github.com/docker/buildx-desktop/releases/tag/v0.36.1-desktop.1), 1 day ago)
 - [docker/github-builder](https://github.com/docker/github-builder) ([v1.16.0](https://github.com/docker/github-builder/releases/tag/v1.16.0), 1 week ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.36.1-55](https://github.com/docker/packaging/releases/tag/buildx/v0.36.1-55), 1 week ago) - Docker Packaging (deb, rpm, static)
-- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 1 week ago) - Docker CLI plugin for extended build capabilities with BuildKit
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
+- [docker/compose](https://github.com/docker/compose) ([v5.4.0](https://github.com/docker/compose/releases/tag/v5.4.0), 1 week ago) - Define and run multi-container applications with Docker
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 3 weeks ago) - Toolkit for Docker (GitHub) Actions
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
