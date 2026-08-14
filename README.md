@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (today)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/buildx-desktop](https://github.com/docker/buildx-desktop) ([v0.36.1-desktop.1](https://github.com/docker/buildx-desktop/releases/tag/v0.36.1-desktop.1), 1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.16.0](https://github.com/docker/github-builder/releases/tag/v1.16.0), 1 week ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.12.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.12.0), 1 day ago) - BuildKit Syft scanner
 - [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 1 week ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [docker/compose](https://github.com/docker/compose) ([v5.4.0](https://github.com/docker/compose/releases/tag/v5.4.0), 1 week ago) - Define and run multi-container applications with Docker
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.94.0](https://github.com/docker/actions-toolkit/releases/tag/v0.94.0), 3 weeks ago) - Toolkit for Docker (GitHub) Actions
+- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.14.0](https://github.com/crazy-max/undock/releases/tag/v0.14.0), 2 months ago) - Extract contents of a container image in a local folder
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
