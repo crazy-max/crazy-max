@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (2 days ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (2 days ago)
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (today)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (today)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (today)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (today)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/innoextract](https://github.com/crazy-max/innoextract) ([v1.11.0](https://github.com/crazy-max/innoextract/releases/tag/v1.11.0), 1 day ago) - A tool to unpack installers created by Inno Setup
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([34.0.3-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/34.0.3-r1), 2 days ago) - Nextcloud Docker image
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.0-r6](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.0-r6), 2 days ago) - Fail2ban Docker image
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.41.0](https://github.com/crazy-max/xgo/releases/tag/v0.41.0), 3 days ago) - Go CGO cross compiler
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.36.1-55](https://github.com/docker/packaging/releases/tag/buildx/v0.36.1-55), 1 week ago) - Docker Packaging (deb, rpm, static)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.12-0.16.20-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.12-0.16.20-r0), today) - rTorrent and ruTorrent Docker image
+- [crazy-max/innoextract](https://github.com/crazy-max/innoextract) ([v1.13.0](https://github.com/crazy-max/innoextract/releases/tag/v1.13.0), today) - A tool to unpack installers created by Inno Setup
+- [docker/compose](https://github.com/docker/compose) ([v5.5.0](https://github.com/docker/compose/releases/tag/v5.5.0), 1 day ago) - Define and run multi-container applications with Docker
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.16.0](https://github.com/docker/github-builder/releases/tag/v1.16.0), 1 week ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 2 weeks ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
