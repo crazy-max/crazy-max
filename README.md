@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (3 days ago)
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.5.0-55](https://github.com/docker/packaging/releases/tag/compose/v5.5.0-55), 4 days ago) - Docker Packaging (deb, rpm, static)
-- [docker/compose](https://github.com/docker/compose) ([v5.5.0](https://github.com/docker/compose/releases/tag/v5.5.0), 4 days ago) - Define and run multi-container applications with Docker
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.38.0](https://github.com/crazy-max/goxx/releases/tag/v0.38.0), 1 week ago) - Go CGO cross-compiler Docker image
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.17.0](https://github.com/docker/github-builder/releases/tag/v1.17.0), 2 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/compose](https://github.com/docker/compose) ([v5.5.0](https://github.com/docker/compose/releases/tag/v5.5.0), 6 days ago) - Define and run multi-container applications with Docker
 - [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.12.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.12.0), 1 week ago) - BuildKit Syft scanner
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.16.0](https://github.com/docker/github-builder/releases/tag/v1.16.0), 2 weeks ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 2 weeks ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
