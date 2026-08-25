@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (3 days ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (3 weeks ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (6 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.17.0](https://github.com/docker/github-builder/releases/tag/v1.17.0), 2 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [docker/compose](https://github.com/docker/compose) ([v5.5.0](https://github.com/docker/compose/releases/tag/v5.5.0), 6 days ago) - Define and run multi-container applications with Docker
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.12.0](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.12.0), 1 week ago) - BuildKit Syft scanner
-- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 2 weeks ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 2 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.12-0.16.20-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.12-0.16.20-r0), 1 week ago) - rTorrent and ruTorrent Docker image
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.5.0-55](https://github.com/docker/packaging/releases/tag/compose/v5.5.0-55), 1 week ago) - Docker Packaging (deb, rpm, static)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([34.0.3-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/34.0.3-r1), 1 week ago) - Nextcloud Docker image
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.0-r6](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.0-r6), 1 week ago) - Fail2ban Docker image
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
