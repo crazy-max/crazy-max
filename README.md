@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (6 days ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 week ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 week ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 weeks ago)
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.12-0.16.20-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.12-0.16.20-r0), 1 week ago) - rTorrent and ruTorrent Docker image
-- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.5.0-55](https://github.com/docker/packaging/releases/tag/compose/v5.5.0-55), 1 week ago) - Docker Packaging (deb, rpm, static)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v4.3.0](https://github.com/docker/setup-buildx-action/releases/tag/v4.3.0), 1 week ago) - GitHub Action to set up Docker Buildx
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([34.0.3-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/34.0.3-r1), 1 week ago) - Nextcloud Docker image
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.0-r6](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.0-r6), 1 week ago) - Fail2ban Docker image
+- [docker/compose](https://github.com/docker/compose) ([v5.5.0](https://github.com/docker/compose/releases/tag/v5.5.0), 1 week ago) - Define and run multi-container applications with Docker
+- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 3 weeks ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.32.2](https://github.com/moby/buildkit/releases/tag/v0.32.2), 3 weeks ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
