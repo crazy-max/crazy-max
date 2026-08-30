@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (5 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (6 days ago)
 - [crazy-max/.github](https://github.com/crazy-max/.github) -  (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.3.4-70](https://github.com/docker/packaging/releases/tag/containerd/v2.3.4-70), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v4.3.0](https://github.com/docker/setup-buildx-action/releases/tag/v4.3.0), 1 week ago) - GitHub Action to set up Docker Buildx
+- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.3.4-70](https://github.com/docker/packaging/releases/tag/containerd/v2.3.4-70), 2 days ago) - Docker Packaging (deb, rpm, static)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 1 week ago) - Toolkit for Docker (GitHub) Actions
 - [docker/compose](https://github.com/docker/compose) ([v5.5.0](https://github.com/docker/compose/releases/tag/v5.5.0), 1 week ago) - Define and run multi-container applications with Docker
 - [crazy-max/.github](https://github.com/crazy-max/.github) ([v1.11.0](https://github.com/crazy-max/.github/releases/tag/v1.11.0), 2 weeks ago)
+- [docker/buildx](https://github.com/docker/buildx) ([v0.36.1](https://github.com/docker/buildx/releases/tag/v0.36.1), 3 weeks ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (4 months ago)
