@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/gomod-updates](https://github.com/crazy-max/gomod-updates) - Report available Go module updates, including major-version candidates (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 week ago)
+- [docker/cli](https://github.com/docker/cli) - The Docker CLI (1 month ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 month ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (1 month ago)
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.1-r1](https://github.com/anonaddy/docker/releases/tag/1.7.1-r1), 1 day ago) - AnonAddy Docker image
-- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.3.4-70](https://github.com/docker/packaging/releases/tag/containerd/v2.3.4-70), 4 days ago) - Docker Packaging (deb, rpm, static)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.95.0](https://github.com/docker/actions-toolkit/releases/tag/v0.95.0), 2 weeks ago) - Toolkit for Docker (GitHub) Actions
-- [docker/compose](https://github.com/docker/compose) ([v5.5.0](https://github.com/docker/compose/releases/tag/v5.5.0), 2 weeks ago) - Define and run multi-container applications with Docker
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) ([v0.41.0](https://github.com/crazy-max/xgo/releases/tag/v0.41.0), 2 weeks ago) - Go CGO cross compiler
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v4.3.0](https://github.com/docker/setup-qemu-action/releases/tag/v4.3.0), 1 day ago) - GitHub Action to install QEMU static binaries
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.96.0](https://github.com/docker/actions-toolkit/releases/tag/v0.96.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [docker/login-action](https://github.com/docker/login-action) ([v4.6.0](https://github.com/docker/login-action/releases/tag/v4.6.0), 1 month ago) - GitHub Action to login against a Docker registry
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v5.4.0](https://github.com/docker/setup-docker-action/releases/tag/v5.4.0), 1 month ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v6.2.0](https://github.com/docker/metadata-action/releases/tag/v6.2.0), 2 months ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
