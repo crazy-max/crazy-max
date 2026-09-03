@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/cli](https://github.com/docker/cli) - The Docker CLI (1 month ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 month ago)
-- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (1 month ago)
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 month ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v4.3.0](https://github.com/docker/setup-qemu-action/releases/tag/v4.3.0), 1 day ago) - GitHub Action to install QEMU static binaries
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.96.0](https://github.com/docker/actions-toolkit/releases/tag/v0.96.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/login-action](https://github.com/docker/login-action) ([v4.6.0](https://github.com/docker/login-action/releases/tag/v4.6.0), 1 month ago) - GitHub Action to login against a Docker registry
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v5.4.0](https://github.com/docker/setup-docker-action/releases/tag/v5.4.0), 1 month ago) - GitHub Action to set up (download and install) Docker CE
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v6.2.0](https://github.com/docker/metadata-action/releases/tag/v6.2.0), 2 months ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.37.0-56](https://github.com/docker/packaging/releases/tag/buildx/v0.37.0-56), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/buildx](https://github.com/docker/buildx) ([v0.37.0](https://github.com/docker/buildx/releases/tag/v0.37.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.27.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.27.0-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.97.0](https://github.com/docker/actions-toolkit/releases/tag/v0.97.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [docker/github-builder](https://github.com/docker/github-builder) ([v1.17.0](https://github.com/docker/github-builder/releases/tag/v1.17.0), 1 week ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
