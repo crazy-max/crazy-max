@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (3 weeks ago)
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 month ago)
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 month ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 month ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.37.0-56](https://github.com/docker/packaging/releases/tag/buildx/v0.37.0-56), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/buildx](https://github.com/docker/buildx) ([v0.37.0](https://github.com/docker/buildx/releases/tag/v0.37.0), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.27.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.27.0-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.97.0](https://github.com/docker/actions-toolkit/releases/tag/v0.97.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.17.0](https://github.com/docker/github-builder/releases/tag/v1.17.0), 1 week ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.9](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.9), 1 week ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/metadata-action](https://github.com/docker/metadata-action) ([v6.2.0](https://github.com/docker/metadata-action/releases/tag/v6.2.0), 2 months ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.3.0](https://github.com/docker/bake-action/releases/tag/v7.3.0), 2 months ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/build-push-action](https://github.com/docker/build-push-action) ([v7.3.0](https://github.com/docker/build-push-action/releases/tag/v7.3.0), 2 months ago) - GitHub Action to build and push Docker images with Buildx
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) ([v2.3.0](https://github.com/docker/setup-compose-action/releases/tag/v2.3.0), 2 months ago) - GitHub Action to set up Docker Compose
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
