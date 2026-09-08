@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (5 days ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (6 days ago)
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (1 week ago)
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (2 months ago)
-- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (2 months ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (2 months ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 month ago)
+- [crazy-max/swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.27.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.27.0-labs), 5 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [docker/metadata-action](https://github.com/docker/metadata-action) ([v6.2.0](https://github.com/docker/metadata-action/releases/tag/v6.2.0), 2 months ago) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.5.1-56](https://github.com/docker/packaging/releases/tag/compose/v5.5.1-56), 5 days ago) - Docker Packaging (deb, rpm, static)
+- [docker/compose](https://github.com/docker/compose) ([v5.5.1](https://github.com/docker/compose/releases/tag/v5.5.1), 5 days ago) - Define and run multi-container applications with Docker
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.27.0-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.27.0-labs), 6 days ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.9](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.9), 1 week ago) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [docker/bake-action](https://github.com/docker/bake-action) ([v7.3.0](https://github.com/docker/bake-action/releases/tag/v7.3.0), 2 months ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
-- [docker/build-push-action](https://github.com/docker/build-push-action) ([v7.3.0](https://github.com/docker/build-push-action/releases/tag/v7.3.0), 2 months ago) - GitHub Action to build and push Docker images with Buildx
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) ([v2.3.0](https://github.com/docker/setup-compose-action/releases/tag/v2.3.0), 2 months ago) - GitHub Action to set up Docker Compose
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
