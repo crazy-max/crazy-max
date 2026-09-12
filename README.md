@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 week ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (2 weeks ago)
-- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 month ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.98.0](https://github.com/docker/actions-toolkit/releases/tag/v0.98.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/compose](https://github.com/docker/compose) ([v5.5.1](https://github.com/docker/compose/releases/tag/v5.5.1), 1 week ago) - Define and run multi-container applications with Docker
-- [docker/buildx](https://github.com/docker/buildx) ([v0.37.0](https://github.com/docker/buildx/releases/tag/v0.37.0), 1 week ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.17.0](https://github.com/docker/github-builder/releases/tag/v1.17.0), 2 weeks ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [docker/login-action](https://github.com/docker/login-action) ([v4.6.0](https://github.com/docker/login-action/releases/tag/v4.6.0), 1 month ago) - GitHub Action to login against a Docker registry
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.2-r0](https://github.com/anonaddy/docker/releases/tag/1.7.2-r0), 1 day ago) - AnonAddy Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.14-0.16.22-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.14-0.16.22-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.13.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.13.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
+- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([34.0.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/34.0.4-r0), 1 day ago) - Nextcloud Docker image
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.37.1-57](https://github.com/docker/packaging/releases/tag/buildx/v0.37.1-57), 1 day ago) - Docker Packaging (deb, rpm, static)
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
