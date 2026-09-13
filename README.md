@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.2-r0](https://github.com/anonaddy/docker/releases/tag/1.7.2-r0), 1 day ago) - AnonAddy Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.14-0.16.22-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.14-0.16.22-r0), 1 day ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.13.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.13.0-r0), 1 day ago) - Matomo (formerly Piwik) Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([34.0.4-r0](https://github.com/crazy-max/docker-nextcloud/releases/tag/34.0.4-r0), 1 day ago) - Nextcloud Docker image
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.37.1-57](https://github.com/docker/packaging/releases/tag/buildx/v0.37.1-57), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.1-r0](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.1-r0), 1 day ago) - Fail2ban Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.19-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.19-r0), 1 day ago) - Flarum Docker image
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.2-r0](https://github.com/anonaddy/docker/releases/tag/1.7.2-r0), 2 days ago) - AnonAddy Docker image
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.14-0.16.22-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.14-0.16.22-r0), 2 days ago) - rTorrent and ruTorrent Docker image
+- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.13.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.13.0-r0), 2 days ago) - Matomo (formerly Piwik) Docker image
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
