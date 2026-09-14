@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image (1 day ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (2 days ago)
+- [crazy-max/ghaction-xgo](https://github.com/crazy-max/ghaction-xgo) - GitHub Action for xgo, a Golang CGO cross compiler (2 months ago)
+- [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage (2 months ago)
+- [crazy-max/ghaction-virustotal](https://github.com/crazy-max/ghaction-virustotal) - GitHub Action to upload and scan files with VirusTotal (2 months ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (2 months ago)
+- [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg) - GitHub Action to import a GPG key (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.1-r0](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.1-r0), 1 day ago) - Fail2ban Docker image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.19-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.19-r0), 1 day ago) - Flarum Docker image
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.2-r0](https://github.com/anonaddy/docker/releases/tag/1.7.2-r0), 2 days ago) - AnonAddy Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.14-0.16.22-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.14-0.16.22-r0), 2 days ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) ([5.13.0-r0](https://github.com/crazy-max/docker-matomo/releases/tag/5.13.0-r0), 2 days ago) - Matomo (formerly Piwik) Docker image
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v4.3.0](https://github.com/docker/setup-buildx-action/releases/tag/v4.3.0), 3 weeks ago) - GitHub Action to set up Docker Buildx
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.3.0](https://github.com/docker/bake-action/releases/tag/v7.3.0), 2 months ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status) ([v4.1.0](https://github.com/crazy-max/ghaction-docker-status/releases/tag/v4.1.0), 2 months ago) - GitHub Action to check Docker system status in your workflow
+- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) ([v4.1.0](https://github.com/crazy-max/ghaction-container-scan/releases/tag/v4.1.0), 2 months ago) - GitHub Action to check for vulnerabilities in your container image
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) ([v4.1.0](https://github.com/crazy-max/ghaction-chocolatey/releases/tag/v4.1.0), 2 months ago) - GitHub Action for Chocolatey, the package manager for Windows
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
