@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (1 day ago)
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.17.1](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.17.1), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.100.0](https://github.com/docker/actions-toolkit/releases/tag/v0.100.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.139.0](https://github.com/docker/docker-agent/releases/tag/v1.139.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([153.0.8010.36-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/153.0.8010.36-1), 2 days ago) - Google Chromium, sans integration with Google
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) ([1.1.1-r0](https://github.com/crazy-max/docker-fail2ban/releases/tag/1.1.1-r0), 3 days ago) - Fail2ban Docker image
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([153.0.8010.47-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/153.0.8010.47-1), 1 day ago) - Google Chromium, sans integration with Google
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.8.1](https://github.com/moby/moby/releases/tag/docker-v29.8.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) ([v5.5.0](https://github.com/docker/setup-docker-action/releases/tag/v5.5.0), 1 day ago) - GitHub Action to set up (download and install) Docker CE
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) ([v4.4.0](https://github.com/docker/setup-qemu-action/releases/tag/v4.4.0), 1 day ago) - GitHub Action to install QEMU static binaries
+- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v4.4.0](https://github.com/docker/setup-buildx-action/releases/tag/v4.4.0), 1 day ago) - GitHub Action to set up Docker Buildx
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
