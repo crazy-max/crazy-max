@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (1 day ago)
+- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.2), today) - Release engineering, simplified
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.4.0](https://github.com/containerd/containerd/releases/tag/v2.4.0), 1 day ago) - An open and reliable container runtime
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.141.0](https://github.com/docker/docker-agent/releases/tag/v1.141.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) ([v2.4.0](https://github.com/docker/setup-compose-action/releases/tag/v2.4.0), 1 day ago) - GitHub Action to set up Docker Compose
-- [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) ([v4.4.1](https://github.com/docker/setup-buildx-action/releases/tag/v4.4.1), 1 day ago) - GitHub Action to set up Docker Buildx
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([153.0.8010.52-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/153.0.8010.52-1), 1 day ago) - Google Chromium, sans integration with Google
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.26.1-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.26.1-r0), 1 day ago) - Unbound Docker image
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.2), 1 day ago) - Release engineering, simplified
+- [containerd/containerd](https://github.com/containerd/containerd) ([v2.4.0](https://github.com/containerd/containerd/releases/tag/v2.4.0), 2 days ago) - An open and reliable container runtime
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.141.0](https://github.com/docker/docker-agent/releases/tag/v1.141.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
