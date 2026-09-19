@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (1 day ago)
-- [docker/bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([153.0.8010.52-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/153.0.8010.52-1), 1 day ago) - Google Chromium, sans integration with Google
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.26.1-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.26.1-r0), 1 day ago) - Unbound Docker image
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.2), 1 day ago) - Release engineering, simplified
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.4.0](https://github.com/containerd/containerd/releases/tag/v2.4.0), 2 days ago) - An open and reliable container runtime
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.141.0](https://github.com/docker/docker-agent/releases/tag/v1.141.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.101.0](https://github.com/docker/actions-toolkit/releases/tag/v0.101.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([153.0.8010.52-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/153.0.8010.52-1), 2 days ago) - Google Chromium, sans integration with Google
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.26.1-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.26.1-r0), 2 days ago) - Unbound Docker image
+- [actions/runner-images](https://github.com/actions/runner-images) ([xcode-27-arm64/20260912.0186](https://github.com/actions/runner-images/releases/tag/xcode-27-arm64/20260912.0186), 2 days ago) - GitHub Actions runner images
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.2), 2 days ago) - Release engineering, simplified
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
