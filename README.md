@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
-- [portapps/intellij-idea-ultimate-portable](https://github.com/portapps/intellij-idea-ultimate-portable) - ⚠️ Unified in https://github.com/portapps/intellij-idea-portable (1 day ago)
-- [portapps/intellij-idea-portable](https://github.com/portapps/intellij-idea-portable) - 🚀 IntelliJ IDEA portable for Windows (1 day ago)
-- [portapps/innosetup-portable](https://github.com/portapps/innosetup-portable) - 🚀 Inno Setup portable for Windows  (1 day ago)
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
 - [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) - 🚀 Ungoogled Chromium portable for Windows (1 day ago)
+- [portapps/intellij-idea-portable](https://github.com/portapps/intellij-idea-portable) - 🚀 IntelliJ IDEA portable for Windows (1 day ago)
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) - 🚀 Discord PTB portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.09.0](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.09.0), 1 day ago) - The official Pi-hole Docker image from pi-hole.net
-- [portapps/.github](https://github.com/portapps/.github) ([v1.4.1](https://github.com/portapps/.github/releases/tag/v1.4.1), 1 day ago) - 🐙 GitHub's org-wide settings
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.101.0](https://github.com/docker/actions-toolkit/releases/tag/v0.101.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([153.0.8010.52-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/153.0.8010.52-1), 3 days ago) - Google Chromium, sans integration with Google
-- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) ([1.26.1-r0](https://github.com/crazy-max/docker-unbound/releases/tag/1.26.1-r0), 3 days ago) - Unbound Docker image
+- [portapps/intellij-idea-portable](https://github.com/portapps/intellij-idea-portable) ([2026.2.3-61](https://github.com/portapps/intellij-idea-portable/releases/tag/2026.2.3-61), 1 day ago) - 🚀 IntelliJ IDEA portable for Windows
+- [portapps/ungoogled-chromium-portable](https://github.com/portapps/ungoogled-chromium-portable) ([150.0.7871.255-22](https://github.com/portapps/ungoogled-chromium-portable/releases/tag/150.0.7871.255-22), 1 day ago) - 🚀 Ungoogled Chromium portable for Windows
+- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) ([6.7.3-32](https://github.com/portapps/waterfox-portable/releases/tag/6.7.3-32), 1 day ago) - 🚀 Waterfox portable for Windows 
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.95.104-101](https://github.com/portapps/brave-portable/releases/tag/1.95.104-101), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/discord-ptb-portable](https://github.com/portapps/discord-ptb-portable) ([1.0.1221-32](https://github.com/portapps/discord-ptb-portable/releases/tag/1.0.1221-32), 1 day ago) - 🚀 Discord PTB portable for Windows
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
