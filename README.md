@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [portapps/wireshark-portable](https://github.com/portapps/wireshark-portable) - 🚀 Wireshark portable for Windows (1 day ago)
-- [portapps/wire-portable](https://github.com/portapps/wire-portable) - 🚀 Wire portable for Windows (1 day ago)
-- [portapps/waterfox-portable](https://github.com/portapps/waterfox-portable) - 🚀 Waterfox portable for Windows  (1 day ago)
-- [portapps/vscodium-portable](https://github.com/portapps/vscodium-portable) - 🚀 VSCodium portable for Windows (1 day ago)
-- [portapps/vscode-portable](https://github.com/portapps/vscode-portable) - 🚀 Visual Studio Code portable for Windows (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/element-portable](https://github.com/portapps/element-portable) - 🚀 Element portable for Windows (1 day ago)
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) - 🚀 Discord portable for Windows (1 day ago)
+- [portapps/transmission-portable](https://github.com/portapps/transmission-portable) - 🚀 Transmission portable for Windows (1 day ago)
+- [portapps/teamspeak-client-portable](https://github.com/portapps/teamspeak-client-portable) - 🚀 TeamSpeak Client portable for Windows  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.17.3](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.17.3), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.5.2](https://github.com/opencontainers/runc/releases/tag/v1.5.2), 2 days ago) - CLI tool for spawning and running containers according to the OCI specification
-- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.3.6-77](https://github.com/docker/packaging/releases/tag/containerd/v2.3.6-77), 2 days ago) - Docker Packaging (deb, rpm, static)
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.144.0](https://github.com/docker/docker-agent/releases/tag/v1.144.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
-- [containerd/containerd](https://github.com/containerd/containerd) ([v2.4.1](https://github.com/containerd/containerd/releases/tag/v2.4.1), 3 days ago) - An open and reliable container runtime
+- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.12.29-44](https://github.com/portapps/element-portable/releases/tag/1.12.29-44), 1 day ago) - 🚀 Element portable for Windows
+- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9259-28](https://github.com/portapps/discord-portable/releases/tag/1.0.9259-28), 1 day ago) - 🚀 Discord portable for Windows
+- [portapps/teamspeak-client-portable](https://github.com/portapps/teamspeak-client-portable) ([3.6.2-19](https://github.com/portapps/teamspeak-client-portable/releases/tag/3.6.2-19), 1 day ago) - 🚀 TeamSpeak Client portable for Windows 
+- [portapps/transmission-portable](https://github.com/portapps/transmission-portable) ([4.1.3-2](https://github.com/portapps/transmission-portable/releases/tag/4.1.3-2), 1 day ago) - 🚀 Transmission portable for Windows
+- [portapps/android-studio-portable](https://github.com/portapps/android-studio-portable) ([2026.1.4-18](https://github.com/portapps/android-studio-portable/releases/tag/2026.1.4-18), 1 day ago) - 🚀 Android Studio portable for Windows
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (5 months ago)
