@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [moby/policy-helpers](https://github.com/moby/policy-helpers) -  (2 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (2 days ago)
-- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [tonistiigi/go-actions-cache](https://github.com/tonistiigi/go-actions-cache) -  (1 day ago)
+- [moby/policy-helpers](https://github.com/moby/policy-helpers) -  (3 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.16.1](https://github.com/compose-spec/compose-go/releases/tag/v2.16.1), 1 day ago) - Reference library for parsing and loading Compose YAML files
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.145.0](https://github.com/docker/docker-agent/releases/tag/v1.145.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
-- [portapps/element-portable](https://github.com/portapps/element-portable) ([1.12.29-44](https://github.com/portapps/element-portable/releases/tag/1.12.29-44), 3 days ago) - 🚀 Element portable for Windows
-- [portapps/discord-portable](https://github.com/portapps/discord-portable) ([1.0.9259-28](https://github.com/portapps/discord-portable/releases/tag/1.0.9259-28), 3 days ago) - 🚀 Discord portable for Windows
-- [portapps/teamspeak-client-portable](https://github.com/portapps/teamspeak-client-portable) ([3.6.2-19](https://github.com/portapps/teamspeak-client-portable/releases/tag/3.6.2-19), 3 days ago) - 🚀 TeamSpeak Client portable for Windows 
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.8.2](https://github.com/moby/moby/releases/tag/docker-v29.8.2), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.37.2-58](https://github.com/docker/packaging/releases/tag/buildx/v0.37.2-58), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/buildx](https://github.com/docker/buildx) ([v0.37.2](https://github.com/docker/buildx/releases/tag/v0.37.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.27.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.27.1-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/rust/v0.21.10](https://github.com/dagger/dagger/releases/tag/sdk/rust/v0.21.10), 1 day ago) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
