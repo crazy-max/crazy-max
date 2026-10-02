@@ -4,9 +4,9 @@
 
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
-- [tonistiigi/go-actions-cache](https://github.com/tonistiigi/go-actions-cache) -  (1 day ago)
-- [moby/policy-helpers](https://github.com/moby/policy-helpers) -  (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) - 🚀 Tabby portable for Windows  (1 day ago)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.8.2](https://github.com/moby/moby/releases/tag/docker-v29.8.2), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.37.2-58](https://github.com/docker/packaging/releases/tag/buildx/v0.37.2-58), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/buildx](https://github.com/docker/buildx) ([v0.37.2](https://github.com/docker/buildx/releases/tag/v0.37.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([dockerfile/1.27.1-labs](https://github.com/moby/buildkit/releases/tag/dockerfile/1.27.1-labs), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/rust/v0.21.10](https://github.com/dagger/dagger/releases/tag/sdk/rust/v0.21.10), 1 day ago) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+- [moby/moby](https://github.com/moby/moby) ([client/v0.6.1](https://github.com/moby/moby/releases/tag/client/v0.6.1), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.17.4](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.17.4), 1 day ago) - The Secure CommsOS™ for mission-critical operations
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.103.0](https://github.com/docker/actions-toolkit/releases/tag/v0.103.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([154.0.8037.92-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/154.0.8037.92-1), 1 day ago) - Google Chromium, sans integration with Google
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.37.2-58](https://github.com/docker/packaging/releases/tag/buildx/v0.37.2-58), 2 days ago) - Docker Packaging (deb, rpm, static)
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
