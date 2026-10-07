@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
-- [portapps/tabby-portable](https://github.com/portapps/tabby-portable) - 🚀 Tabby portable for Windows  (5 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ([8.9.0](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.9.0), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.104.0](https://github.com/docker/actions-toolkit/releases/tag/v0.104.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.148.0](https://github.com/docker/docker-agent/releases/tag/v1.148.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [jenkinsci/rocketchatnotifier-plugin](https://github.com/jenkinsci/rocketchatnotifier-plugin) ([v2.2.3](https://github.com/jenkinsci/rocketchatnotifier-plugin/releases/tag/v2.2.3), 2 days ago) - Rocket Chat Notification Plugin for Jenkins
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([154.0.8037.97-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/154.0.8037.97-1), 4 days ago) - Google Chromium, sans integration with Google
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.9.0](https://github.com/crazy-max/gonfig/releases/tag/v0.9.0), 1 day ago) - Lightweight config handling for Go
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.7.3](https://github.com/anonaddy/anonaddy/releases/tag/v1.7.3), 1 day ago) - Anonymous email forwarding
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ([8.9.0](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.9.0), 2 days ago) - The Secure CommsOS™ for mission-critical operations
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.104.0](https://github.com/docker/actions-toolkit/releases/tag/v0.104.0), 2 days ago) - Toolkit for Docker (GitHub) Actions
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.148.0](https://github.com/docker/docker-agent/releases/tag/v1.148.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
