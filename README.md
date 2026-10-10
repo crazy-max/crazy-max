@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [docker/go-connections](https://github.com/docker/go-connections) - Utility package to work with network connections (1 day ago)
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.3), today) - Release engineering, simplified
-- [docker/packaging](https://github.com/docker/packaging) ([containerd/v2.4.1-81](https://github.com/docker/packaging/releases/tag/containerd/v2.4.1-81), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.9.0](https://github.com/moby/moby/releases/tag/docker-v29.9.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([155.0.8059.39-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/155.0.8059.39-1), 1 day ago) - Google Chromium, sans integration with Google
-- [docker/go-connections](https://github.com/docker/go-connections) ([v0.8.2](https://github.com/docker/go-connections/releases/tag/v0.8.2), 1 day ago) - Utility package to work with network connections
+- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.18.1](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.18.1), 1 day ago) - The Secure CommsOS™ for mission-critical operations
+- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.39.0](https://github.com/crazy-max/goxx/releases/tag/v0.39.0), 1 day ago) - Go CGO cross-compiler Docker image
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.10](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.10), 1 day ago) - Programs to keep Docker login credentials safe by storing in platform keystores
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.150.0](https://github.com/docker/docker-agent/releases/tag/v1.150.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.3), 1 day ago) - Release engineering, simplified
 
 #### ❤️ Latest sponsors
-- [Jens Roggenfelder](https://github.com/JRpersonal) (1 day ago)
+- [Jens Roggenfelder](https://github.com/JRpersonal) (2 days ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
