@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) - Go CGO cross-compiler Docker image (2 days ago)
-- [crazy-max/xgo](https://github.com/crazy-max/xgo) - Go CGO cross compiler (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [tonistiigi/fsutil](https://github.com/tonistiigi/fsutil) -  (3 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (1 day ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.18.2](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.18.2), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [crazy-max/goxx](https://github.com/crazy-max/goxx) ([v0.39.0](https://github.com/crazy-max/goxx/releases/tag/v0.39.0), 3 days ago) - Go CGO cross-compiler Docker image
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.10](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.10), 3 days ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.150.0](https://github.com/docker/docker-agent/releases/tag/v1.150.0), 3 days ago) - AI Agent Builder and Runtime by Docker Engineering
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.3), 3 days ago) - Release engineering, simplified
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.48.0](https://github.com/goreleaser/nfpm/releases/tag/v2.48.0), 1 day ago) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v7.3.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v7.3.0), 1 day ago) - GitHub Action for GoReleaser
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.105.0](https://github.com/docker/actions-toolkit/releases/tag/v0.105.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) ([v1.10.0](https://github.com/tonistiigi/xx/releases/tag/v1.10.0), 1 day ago) - Dockerfile cross-compilation helpers
+- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.18.2](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.18.2), 2 days ago) - The Secure CommsOS™ for mission-critical operations
 
 #### ❤️ Latest sponsors
-- [Jens Roggenfelder](https://github.com/JRpersonal) (4 days ago)
+- [Jens Roggenfelder](https://github.com/JRpersonal) (5 days ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
