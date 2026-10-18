@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [portapps/portapps](https://github.com/portapps/portapps) - 🛰 Collection of portable apps for Windows (1 day ago)
+- [portapps/.github](https://github.com/portapps/.github) - 🐙 GitHub's org-wide settings (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/phyrox-esr-portable](https://github.com/portapps/phyrox-esr-portable) - 🚀 Phyrox ESR (based on Mozilla Firefox ESR) portable for Windows (1 day ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ([8.5.4](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.5.4), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([155.0.8059.84-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/155.0.8059.84-1), 1 day ago) - Google Chromium, sans integration with Google
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.16-0.16.25-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.16-0.16.25-r0), 2 days ago) - rTorrent and ruTorrent Docker image
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.9.1](https://github.com/moby/moby/releases/tag/docker-v29.9.1), 3 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [sigstore/sigstore](https://github.com/sigstore/sigstore) ([v1.11.1](https://github.com/sigstore/sigstore/releases/tag/v1.11.1), 3 days ago) - Common go library shared across sigstore services and clients
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.10.0](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.10.0), 1 day ago) - The official Pi-hole Docker image from pi-hole.net
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ([8.5.4](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.5.4), 2 days ago) - The Secure CommsOS™ for mission-critical operations
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([155.0.8059.84-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/155.0.8059.84-1), 2 days ago) - Google Chromium, sans integration with Google
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.16-0.16.25-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.16-0.16.25-r0), 3 days ago) - rTorrent and ruTorrent Docker image
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.9.1](https://github.com/moby/moby/releases/tag/docker-v29.9.1), 4 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Jens Roggenfelder](https://github.com/JRpersonal) (1 week ago)
