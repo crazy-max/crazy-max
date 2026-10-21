@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
 - [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [moby/policy-helpers](https://github.com/moby/policy-helpers) -  (1 day ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [librenms/librenms](https://github.com/librenms/librenms) ([26.10.0](https://github.com/librenms/librenms/releases/tag/26.10.0), 1 day ago) - Community-based GPL-licensed network monitoring system
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.18.0](https://github.com/docker/github-builder/releases/tag/v1.18.0), 1 day ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.151.0](https://github.com/docker/docker-agent/releases/tag/v1.151.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.10.0](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.10.0), 3 days ago) - The official Pi-hole Docker image from pi-hole.net
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ([8.5.4](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.5.4), 4 days ago) - The Secure CommsOS™ for mission-critical operations
+- [regclient/regclient](https://github.com/regclient/regclient) ([v0.11.7](https://github.com/regclient/regclient/releases/tag/v0.11.7), today) - Docker and OCI Registry Client in Go and tooling using those libraries.
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.6.0-59](https://github.com/docker/packaging/releases/tag/compose/v5.6.0-59), today) - Docker Packaging (deb, rpm, static)
+- [docker/buildx](https://github.com/docker/buildx) ([v0.38.1](https://github.com/docker/buildx/releases/tag/v0.38.1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [moby/buildkit](https://github.com/moby/buildkit) ([v0.34.1](https://github.com/moby/buildkit/releases/tag/v0.34.1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.12](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.12), 1 day ago) - Programs to keep Docker login credentials safe by storing in platform keystores
 
 #### ❤️ Latest sponsors
 - [Jens Roggenfelder](https://github.com/JRpersonal) (1 week ago)
