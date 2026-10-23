@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 day ago)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
-- [crazy-max/docker-matomo](https://github.com/crazy-max/docker-matomo) - Matomo (formerly Piwik) Docker image (1 day ago)
+- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.18.4](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.18.4), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/rust/v0.21.11](https://github.com/dagger/dagger/releases/tag/sdk/rust/v0.21.11), 1 day ago) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.18-0.16.25-r1](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.18-0.16.25-r1), 1 day ago) - rTorrent and ruTorrent Docker image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.20-r2](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.20-r2), 1 day ago) - Flarum Docker image
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) ([35.0.2-r1](https://github.com/crazy-max/docker-nextcloud/releases/tag/35.0.2-r1), 1 day ago) - Nextcloud Docker image
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([156.0.8078.47-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/156.0.8078.47-1), today) - Google Chromium, sans integration with Google
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0), 1 day ago) - Release engineering, simplified
+- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.9](https://github.com/docker/model-runner/releases/tag/v1.2.9), 1 day ago) - Docker Model Runner
+- [docker/packaging](https://github.com/docker/packaging) ([model/v1.2.9-71](https://github.com/docker/packaging/releases/tag/model/v1.2.9-71), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [actions/runner-images](https://github.com/actions/runner-images) ([win25/20261021.299](https://github.com/actions/runner-images/releases/tag/win25/20261021.299), 1 day ago) - GitHub Actions runner images
 
 #### ❤️ Latest sponsors
-- [Madd.is](https://github.com/EyMaddis) (1 day ago)
+- [Madd.is](https://github.com/EyMaddis) (2 days ago)
 - [Jens Roggenfelder](https://github.com/JRpersonal) (2 weeks ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
