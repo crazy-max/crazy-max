@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) - GitHub Action for UPX, the Ultimate Packer for eXecutables (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (2 days ago)
+- [Splode/fname](https://github.com/Splode/fname) - Generate random, human-friendly names. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([156.0.8078.47-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/156.0.8078.47-1), today) - Google Chromium, sans integration with Google
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0), 1 day ago) - Release engineering, simplified
-- [docker/model-runner](https://github.com/docker/model-runner) ([v1.2.9](https://github.com/docker/model-runner/releases/tag/v1.2.9), 1 day ago) - Docker Model Runner
-- [docker/packaging](https://github.com/docker/packaging) ([model/v1.2.9-71](https://github.com/docker/packaging/releases/tag/model/v1.2.9-71), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [actions/runner-images](https://github.com/actions/runner-images) ([win25/20261021.299](https://github.com/actions/runner-images/releases/tag/win25/20261021.299), 1 day ago) - GitHub Actions runner images
+- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.18.5](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.18.5), 1 day ago) - The Secure CommsOS™ for mission-critical operations
+- [docker/login-action](https://github.com/docker/login-action) ([v4.7.0](https://github.com/docker/login-action/releases/tag/v4.7.0), 1 day ago) - GitHub Action to login against a Docker registry
+- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.16.1](https://github.com/crazy-max/ddns-route53/releases/tag/v2.16.1), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
+- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.29.1](https://github.com/oliverschwendener/ueli/releases/tag/v9.29.1), 1 day ago) - Cross-Platform Keystroke Launcher
+- [jenkinsci/rocketchatnotifier-plugin](https://github.com/jenkinsci/rocketchatnotifier-plugin) ([v2.2.4](https://github.com/jenkinsci/rocketchatnotifier-plugin/releases/tag/v2.2.4), 1 day ago) - Rocket Chat Notification Plugin for Jenkins
 
 #### ❤️ Latest sponsors
-- [Madd.is](https://github.com/EyMaddis) (2 days ago)
+- [Madd.is](https://github.com/EyMaddis) (3 days ago)
 - [Jens Roggenfelder](https://github.com/JRpersonal) (2 weeks ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
