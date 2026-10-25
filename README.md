@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [Splode/fname](https://github.com/Splode/fname) - Generate random, human-friendly names. (1 day ago)
+- [portapps/portapps.github.io](https://github.com/portapps/portapps.github.io) - 🌍 Portapps website (1 day ago)
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) - 🚀 Brave web browser portable for Windows (1 day ago)
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows (1 day ago)
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows (1 day ago)
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) - 🚀 Nextcloud portable for Windows (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.18.5](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.18.5), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [docker/login-action](https://github.com/docker/login-action) ([v4.7.0](https://github.com/docker/login-action/releases/tag/v4.7.0), 1 day ago) - GitHub Action to login against a Docker registry
-- [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) ([v2.16.1](https://github.com/crazy-max/ddns-route53/releases/tag/v2.16.1), 1 day ago) - Dynamic DNS for Amazon Route 53 on a time-based schedule
-- [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) ([v9.29.1](https://github.com/oliverschwendener/ueli/releases/tag/v9.29.1), 1 day ago) - Cross-Platform Keystroke Launcher
-- [jenkinsci/rocketchatnotifier-plugin](https://github.com/jenkinsci/rocketchatnotifier-plugin) ([v2.2.4](https://github.com/jenkinsci/rocketchatnotifier-plugin/releases/tag/v2.2.4), 1 day ago) - Rocket Chat Notification Plugin for Jenkins
+- [portapps/brave-portable](https://github.com/portapps/brave-portable) ([1.98.60-102](https://github.com/portapps/brave-portable/releases/tag/1.98.60-102), 1 day ago) - 🚀 Brave web browser portable for Windows
+- [portapps/stormhen-portable](https://github.com/portapps/stormhen-portable) ([158.0.1-48](https://github.com/portapps/stormhen-portable/releases/tag/158.0.1-48), 1 day ago) - 🚀 Stormhen (based on Mozilla Thunderbird) portable for Windows
+- [portapps/phyrox-portable](https://github.com/portapps/phyrox-portable) ([158.0.1-71](https://github.com/portapps/phyrox-portable/releases/tag/158.0.1-71), 1 day ago) - 🚀 Phyrox (based on Mozilla Firefox) portable for Windows
+- [portapps/nextcloud-portable](https://github.com/portapps/nextcloud-portable) ([35.0.0-26](https://github.com/portapps/nextcloud-portable/releases/tag/35.0.0-26), 1 day ago) - 🚀 Nextcloud portable for Windows
+- [portapps/smartgit-portable](https://github.com/portapps/smartgit-portable) ([26.1.056-45](https://github.com/portapps/smartgit-portable/releases/tag/26.1.056-45), 1 day ago) - 🚀 SmartGit portable for Windows 
 
 #### ❤️ Latest sponsors
-- [Madd.is](https://github.com/EyMaddis) (3 days ago)
+- [Madd.is](https://github.com/EyMaddis) (4 days ago)
 - [Jens Roggenfelder](https://github.com/JRpersonal) (2 weeks ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
