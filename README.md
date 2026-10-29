@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) - BuildKit Syft scanner (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
+- [crowdsecurity/hub](https://github.com/crowdsecurity/hub) - Main repository for crowdsec scenarios/parsers (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([156.0.8078.73-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/156.0.8078.73-1), today) - Google Chromium, sans integration with Google
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.19.0](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.19.0), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.12.1](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.12.1), 2 days ago) - BuildKit Syft scanner
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([2.0.2-r0](https://github.com/crazy-max/docker-flarum/releases/tag/2.0.2-r0), 3 days ago) - Flarum Docker image
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.18-0.16.25-r2](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.18-0.16.25-r2), 3 days ago) - rTorrent and ruTorrent Docker image
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.154.0](https://github.com/docker/docker-agent/releases/tag/v1.154.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([156.0.8078.73-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/156.0.8078.73-1), 1 day ago) - Google Chromium, sans integration with Google
+- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.19.0](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.19.0), 2 days ago) - The Secure CommsOS™ for mission-critical operations
+- [actions/runner-images](https://github.com/actions/runner-images) ([ubuntu26/20261026.180](https://github.com/actions/runner-images/releases/tag/ubuntu26/20261026.180), 3 days ago) - GitHub Actions runner images
+- [docker/buildkit-syft-scanner](https://github.com/docker/buildkit-syft-scanner) ([v1.12.1](https://github.com/docker/buildkit-syft-scanner/releases/tag/v1.12.1), 3 days ago) - BuildKit Syft scanner
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (1 week ago)
-- [Jens Roggenfelder](https://github.com/JRpersonal) (2 weeks ago)
+- [Jens Roggenfelder](https://github.com/JRpersonal) (3 weeks ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (6 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
