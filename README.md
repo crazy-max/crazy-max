@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
-- [crowdsecurity/hub](https://github.com/crowdsecurity/hub) - Main repository for crowdsec scenarios/parsers (2 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) ([v1.4.0](https://github.com/sigstore/sigstore-go/releases/tag/v1.4.0), 1 day ago) - Go library for Sigstore signing and verification
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.7.4](https://github.com/anonaddy/anonaddy/releases/tag/v1.7.4), 1 day ago) - Anonymous email forwarding
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.154.0](https://github.com/docker/docker-agent/releases/tag/v1.154.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([156.0.8078.73-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/156.0.8078.73-1), 2 days ago) - Google Chromium, sans integration with Google
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.19.0](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.19.0), 3 days ago) - The Secure CommsOS™ for mission-critical operations
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.10.1](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.10.1), today) - The official Pi-hole Docker image from pi-hole.net
+- [sigstore/sigstore](https://github.com/sigstore/sigstore) ([v1.11.2](https://github.com/sigstore/sigstore/releases/tag/v1.11.2), 1 day ago) - Common go library shared across sigstore services and clients
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([156.0.8078.79-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/156.0.8078.79-1), 1 day ago) - Google Chromium, sans integration with Google
+- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) ([v1.4.0](https://github.com/sigstore/sigstore-go/releases/tag/v1.4.0), 2 days ago) - Go library for Sigstore signing and verification
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.7.4](https://github.com/anonaddy/anonaddy/releases/tag/v1.7.4), 2 days ago) - Anonymous email forwarding
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (1 week ago)
