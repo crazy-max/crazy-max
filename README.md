@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation (4 days ago)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (4 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.10.1](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.10.1), 2 days ago) - The official Pi-hole Docker image from pi-hole.net
-- [sigstore/sigstore](https://github.com/sigstore/sigstore) ([v1.11.2](https://github.com/sigstore/sigstore/releases/tag/v1.11.2), 3 days ago) - Common go library shared across sigstore services and clients
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([156.0.8078.79-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/156.0.8078.79-1), 3 days ago) - Google Chromium, sans integration with Google
-- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) ([v1.4.0](https://github.com/sigstore/sigstore-go/releases/tag/v1.4.0), 4 days ago) - Go library for Sigstore signing and verification
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) ([v1.7.4](https://github.com/anonaddy/anonaddy/releases/tag/v1.7.4), 4 days ago) - Anonymous email forwarding
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.156.2](https://github.com/docker/docker-agent/releases/tag/v1.156.2), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.7.0-61](https://github.com/docker/packaging/releases/tag/compose/v5.7.0-61), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/compose](https://github.com/docker/compose) ([v5.7.0](https://github.com/docker/compose/releases/tag/v5.7.0), 1 day ago) - Define and run multi-container applications with Docker
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) ([2026.10.1](https://github.com/pi-hole/docker-pi-hole/releases/tag/2026.10.1), 3 days ago) - The official Pi-hole Docker image from pi-hole.net
+- [sigstore/sigstore](https://github.com/sigstore/sigstore) ([v1.11.2](https://github.com/sigstore/sigstore/releases/tag/v1.11.2), 4 days ago) - Common go library shared across sigstore services and clients
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (1 week ago)
