@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,15 +18,15 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.9.3](https://github.com/moby/moby/releases/tag/docker-v29.9.3), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [sigstore/sigstore](https://github.com/sigstore/sigstore) ([v1.11.3](https://github.com/sigstore/sigstore/releases/tag/v1.11.3), 1 day ago) - Common go library shared across sigstore services and clients
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.38.2-62](https://github.com/docker/packaging/releases/tag/buildx/v0.38.2-62), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [docker/buildx](https://github.com/docker/buildx) ([v0.38.2](https://github.com/docker/buildx/releases/tag/v0.38.2), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) ([v0.107.80](https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.80), 1 day ago) - Network-wide ads & trackers blocking DNS server
+- [sigstore/sigstore-js](https://github.com/sigstore/sigstore-js) ([sigstore@5.0.1](https://github.com/sigstore/sigstore-js/releases/tag/sigstore%405.0.1), today) - Code-signing for npm packages
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([157.0.8103.38-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/157.0.8103.38-1), 1 day ago) - Google Chromium, sans integration with Google
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) ([v0.108.0](https://github.com/docker/actions-toolkit/releases/tag/v0.108.0), 1 day ago) - Toolkit for Docker (GitHub) Actions
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.0), 1 day ago) - Release engineering, simplified
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.9.3](https://github.com/moby/moby/releases/tag/docker-v29.9.3), 2 days ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (2 weeks ago)
-- [Jens Roggenfelder](https://github.com/JRpersonal) (3 weeks ago)
+- [Jens Roggenfelder](https://github.com/JRpersonal) (4 weeks ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (7 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
