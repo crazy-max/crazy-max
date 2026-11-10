@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (3 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (4 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (4 days ago)
-- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (4 days ago)
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (4 days ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (4 days ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (5 days ago)
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (5 days ago)
+- [docker/setup-compose-action](https://github.com/docker/setup-compose-action) - GitHub Action to set up Docker Compose (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.2](https://github.com/gofrs/flock/releases/tag/v0.13.2), 1 day ago) - Thread-safe file locking library in Go
-- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([26.7.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/26.7.0), 2 days ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.8.1](https://github.com/squidfunk/mkdocs-material/releases/tag/9.8.1), 2 days ago) - Documentation that simply works
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ([8.9.1](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.9.1), 3 days ago) - The Secure CommsOS™ for mission-critical operations
-- [docker/github-builder](https://github.com/docker/github-builder) ([v1.19.0](https://github.com/docker/github-builder/releases/tag/v1.19.0), 4 days ago) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images
+- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.19.2](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.19.2), today) - The Secure CommsOS™ for mission-critical operations
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ([157.0.8103.50-1](https://github.com/ungoogled-software/ungoogled-chromium/releases/tag/157.0.8103.50-1), today) - Google Chromium, sans integration with Google
+- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([26.8.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/26.8.0), 1 day ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.158.0](https://github.com/docker/docker-agent/releases/tag/v1.158.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
+- [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.2](https://github.com/gofrs/flock/releases/tag/v0.13.2), 2 days ago) - Thread-safe file locking library in Go
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (2 weeks ago)
