@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support (today)
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
 - [crazy-max/cs-escalation-controller](https://github.com/crazy-max/cs-escalation-controller) - Escalate CrowdSec bans for repeat offenders (1 day ago)
-- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (5 days ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (5 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (6 days ago)
-- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries (6 days ago)
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.1), today) - Release engineering, simplified
-- [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) ([v0.9.13](https://github.com/docker/docker-credential-helpers/releases/tag/v0.9.13), 1 day ago) - Programs to keep Docker login credentials safe by storing in platform keystores
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ([8.7.2](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.7.2), 1 day ago) - The Secure CommsOS™ for mission-critical operations
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.159.0](https://github.com/docker/docker-agent/releases/tag/v1.159.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.19.2](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.19.2), 1 day ago) - The Secure CommsOS™ for mission-critical operations
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.49.0](https://github.com/goreleaser/nfpm/releases/tag/v2.49.0), today) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.54-r0](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.54-r0), today) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.39.0-63](https://github.com/docker/packaging/releases/tag/buildx/v0.39.0-63), today) - Docker Packaging (deb, rpm, static)
+- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.4-r0](https://github.com/anonaddy/docker/releases/tag/1.7.4-r0), 1 day ago) - AnonAddy Docker image
+- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.10.0](https://github.com/crazy-max/gonfig/releases/tag/v0.10.0), 1 day ago) - Lightweight config handling for Go
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (3 weeks ago)
