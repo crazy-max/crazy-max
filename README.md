@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support (today)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (1 day ago)
-- [crazy-max/cs-escalation-controller](https://github.com/crazy-max/cs-escalation-controller) - Escalate CrowdSec bans for repeat offenders (1 day ago)
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) - Lightweight config handling for Go (1 day ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [docker/github-builder](https://github.com/docker/github-builder) - Official Docker-maintained reusable GitHub Actions workflows to securely build container images (1 day ago)
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation (1 day ago)
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) ([v2.49.0](https://github.com/goreleaser/nfpm/releases/tag/v2.49.0), today) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.54-r0](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.54-r0), today) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.39.0-63](https://github.com/docker/packaging/releases/tag/buildx/v0.39.0-63), today) - Docker Packaging (deb, rpm, static)
-- [anonaddy/docker](https://github.com/anonaddy/docker) ([1.7.4-r0](https://github.com/anonaddy/docker/releases/tag/1.7.4-r0), 1 day ago) - AnonAddy Docker image
-- [crazy-max/gonfig](https://github.com/crazy-max/gonfig) ([v0.10.0](https://github.com/crazy-max/gonfig/releases/tag/v0.10.0), 1 day ago) - Lightweight config handling for Go
+- [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) ([26.9.0](https://github.com/mc1arke/sonarqube-community-branch-plugin/releases/tag/26.9.0), 1 day ago) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+- [RocketChat/Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) ([4.19.3](https://github.com/RocketChat/Rocket.Chat.Electron/releases/tag/4.19.3), 1 day ago) - The Secure CommsOS™ for mission-critical operations
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.2), 1 day ago) - Release engineering, simplified
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) ([1.0.54-r1](https://github.com/crazy-max/docker-pure-ftpd/releases/tag/1.0.54-r1), 1 day ago) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.3.7](https://github.com/opencontainers/runc/releases/tag/v1.3.7), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (3 weeks ago)
