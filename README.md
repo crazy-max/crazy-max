@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/gopls-analyzers](https://github.com/crazy-max/gopls-analyzers) - Run gopls analyzers with a single go vet-compatible tool (1 day ago)
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
+- [crazy-max/gopls-analyzers](https://github.com/crazy-max/gopls-analyzers) - Run gopls analyzers with a single go vet-compatible tool (1 day ago)
 - [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
-- [crazy-max/docker-alpine-s6](https://github.com/crazy-max/docker-alpine-s6) - Alpine Linux with s6 overlay (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/gopls-analyzers](https://github.com/crazy-max/gopls-analyzers) ([v0.1.0](https://github.com/crazy-max/gopls-analyzers/releases/tag/v0.1.0), 1 day ago) - Run gopls analyzers with a single go vet-compatible tool
-- [crazy-max/docker-rrdcached](https://github.com/crazy-max/docker-rrdcached) ([1.10.2-r0-r0](https://github.com/crazy-max/docker-rrdcached/releases/tag/1.10.2-r0-r0), 2 days ago) - RRDcached Docker image
-- [crazy-max/docker-msmtpd](https://github.com/crazy-max/docker-msmtpd) ([1.8.34-r2](https://github.com/crazy-max/docker-msmtpd/releases/tag/1.8.34-r2), 2 days ago) - Lightweight SMTP relay Docker image using msmtpd
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) ([v7.14.0](https://github.com/crazy-max/ftpgrab/releases/tag/v7.14.0), 3 days ago) - Grab your files periodically from a remote FTP or SFTP server easily
-- [crazy-max/cs-escalation-controller](https://github.com/crazy-max/cs-escalation-controller) ([v0.2.0](https://github.com/crazy-max/cs-escalation-controller/releases/tag/v0.2.0), 3 days ago) - Escalate CrowdSec bans for repeat offenders
+- [crazy-max/gopls-analyzers](https://github.com/crazy-max/gopls-analyzers) ([v0.3.0](https://github.com/crazy-max/gopls-analyzers/releases/tag/v0.3.0), 1 day ago) - Run gopls analyzers with a single go vet-compatible tool
+- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.17.0](https://github.com/compose-spec/compose-go/releases/tag/v2.17.0), 1 day ago) - Reference library for parsing and loading Compose YAML files
+- [docker/packaging](https://github.com/docker/packaging) ([docker-cli/v29.10.0-16](https://github.com/docker/packaging/releases/tag/docker-cli/v29.10.0-16), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [librenms/librenms](https://github.com/librenms/librenms) ([26.11.0](https://github.com/librenms/librenms/releases/tag/26.11.0), 1 day ago) - Community-based GPL-licensed network monitoring system
+- [moby/moby](https://github.com/moby/moby) ([docker-v29.10.0](https://github.com/moby/moby/releases/tag/docker-v29.10.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (3 weeks ago)
