@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
-- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
 - [crazy-max/gopls-analyzers](https://github.com/crazy-max/gopls-analyzers) - Run gopls analyzers with a single go vet-compatible tool (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
 - [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image (1 day ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,14 +18,14 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/gopls-analyzers](https://github.com/crazy-max/gopls-analyzers) ([v0.3.0](https://github.com/crazy-max/gopls-analyzers/releases/tag/v0.3.0), 1 day ago) - Run gopls analyzers with a single go vet-compatible tool
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) ([v2.17.0](https://github.com/compose-spec/compose-go/releases/tag/v2.17.0), 1 day ago) - Reference library for parsing and loading Compose YAML files
-- [docker/packaging](https://github.com/docker/packaging) ([docker-cli/v29.10.0-16](https://github.com/docker/packaging/releases/tag/docker-cli/v29.10.0-16), 1 day ago) - Docker Packaging (deb, rpm, static)
-- [librenms/librenms](https://github.com/librenms/librenms) ([26.11.0](https://github.com/librenms/librenms/releases/tag/26.11.0), 1 day ago) - Community-based GPL-licensed network monitoring system
-- [moby/moby](https://github.com/moby/moby) ([docker-v29.10.0](https://github.com/moby/moby/releases/tag/docker-v29.10.0), 1 day ago) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [dagger/dagger](https://github.com/dagger/dagger) ([sdk/rust/v0.21.12](https://github.com/dagger/dagger/releases/tag/sdk/rust/v0.21.12), 1 day ago) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+- [librenms/docker](https://github.com/librenms/docker) ([26.11.0-r1](https://github.com/librenms/docker/releases/tag/26.11.0-r1), 1 day ago) - LibreNMS Docker image
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.8.0-65](https://github.com/docker/packaging/releases/tag/compose/v5.8.0-65), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/compose](https://github.com/docker/compose) ([v5.8.0](https://github.com/docker/compose/releases/tag/v5.8.0), 1 day ago) - Define and run multi-container applications with Docker
+- [crazy-max/gopls-analyzers](https://github.com/crazy-max/gopls-analyzers) ([v0.3.0](https://github.com/crazy-max/gopls-analyzers/releases/tag/v0.3.0), 2 days ago) - Run gopls analyzers with a single go vet-compatible tool
 
 #### ❤️ Latest sponsors
-- [Madd.is](https://github.com/EyMaddis) (3 weeks ago)
+- [Madd.is](https://github.com/EyMaddis) (4 weeks ago)
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (7 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
 - [Don Pattee](https://github.com/DPattee) (1 year ago)
