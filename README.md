@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
+- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (1 day ago)
+- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (1 day ago)
 - [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (1 day ago)
-- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image (2 days ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.34.0](https://github.com/crazy-max/diun/releases/tag/v4.34.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.163.0](https://github.com/docker/docker-agent/releases/tag/v1.163.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/buildx](https://github.com/docker/buildx) ([v0.39.1](https://github.com/docker/buildx/releases/tag/v0.39.1), 1 day ago) - Docker CLI plugin for extended build capabilities with BuildKit
-- [moby/buildkit](https://github.com/moby/buildkit) ([v0.35.1](https://github.com/moby/buildkit/releases/tag/v0.35.1), 1 day ago) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) ([9.8.2](https://github.com/squidfunk/mkdocs-material/releases/tag/9.8.2), 1 day ago) - Documentation that simply works
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.3), 1 day ago) - Release engineering, simplified
+- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.39.1-64](https://github.com/docker/packaging/releases/tag/buildx/v0.39.1-64), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.34.0](https://github.com/crazy-max/diun/releases/tag/v4.34.0), 2 days ago) - Receive notifications when an image is updated on a Docker registry
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.163.0](https://github.com/docker/docker-agent/releases/tag/v1.163.0), 2 days ago) - AI Agent Builder and Runtime by Docker Engineering
+- [docker/buildx](https://github.com/docker/buildx) ([v0.39.1](https://github.com/docker/buildx/releases/tag/v0.39.1), 2 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
 
 #### ❤️ Latest sponsors
 - [Madd.is](https://github.com/EyMaddis) (1 month ago)
