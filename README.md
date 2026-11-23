@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
 - [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image (1 day ago)
-- [docker/packaging](https://github.com/docker/packaging) - Docker Packaging (deb, rpm, static) (2 days ago)
-- [moby/buildkit-bench](https://github.com/moby/buildkit-bench) - Set of benchmarks for BuildKit (2 days ago)
-- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (2 days ago)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
+- [crazy-max/.github](https://github.com/crazy-max/.github) -  (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,16 +18,16 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.3), 2 days ago) - Release engineering, simplified
-- [docker/packaging](https://github.com/docker/packaging) ([buildx/v0.39.1-64](https://github.com/docker/packaging/releases/tag/buildx/v0.39.1-64), 2 days ago) - Docker Packaging (deb, rpm, static)
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.34.0](https://github.com/crazy-max/diun/releases/tag/v4.34.0), 3 days ago) - Receive notifications when an image is updated on a Docker registry
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.163.0](https://github.com/docker/docker-agent/releases/tag/v1.163.0), 3 days ago) - AI Agent Builder and Runtime by Docker Engineering
-- [docker/buildx](https://github.com/docker/buildx) ([v0.39.1](https://github.com/docker/buildx/releases/tag/v0.39.1), 3 days ago) - Docker CLI plugin for extended build capabilities with BuildKit
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) ([5.3.23-0.16.28-r0](https://github.com/crazy-max/docker-rtorrent-rutorrent/releases/tag/5.3.23-0.16.28-r0), 1 day ago) - rTorrent and ruTorrent Docker image
+- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) ([v1.4.1](https://github.com/sigstore/sigstore-go/releases/tag/v1.4.1), 1 day ago) - Go library for Sigstore signing and verification
+- [crazy-max/undock](https://github.com/crazy-max/undock) ([v0.15.0](https://github.com/crazy-max/undock/releases/tag/v0.15.0), 1 day ago) - Extract contents of a container image in a local folder
+- [sigstore/sigstore](https://github.com/sigstore/sigstore) ([v1.11.4](https://github.com/sigstore/sigstore/releases/tag/v1.11.4), 1 day ago) - Common go library shared across sigstore services and clients
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.3), 3 days ago) - Release engineering, simplified
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (7 months ago)
 - [Jonathan Prusik](https://github.com/jprusik) (1 year ago)
-- [Don Pattee](https://github.com/DPattee) (1 year ago)
+- [Don Pattee](https://github.com/DPattee) (2 years ago)
 - [Seow Alex](https://github.com/seowalex) (2 years ago)
 - _Anonymous_ (3 years ago)
 
