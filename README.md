@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [crazy-max/docker-qbittorrent](https://github.com/crazy-max/docker-qbittorrent) - qBittorrent Docker image (today)
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) - MacOSX cross toolchain as Docker image (today)
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support (today)
-- [crazy-max/docker-nextcloud](https://github.com/crazy-max/docker-nextcloud) - Nextcloud Docker image (1 day ago)
-- [docker/actions-toolkit](https://github.com/docker/actions-toolkit) - Toolkit for Docker (GitHub) Actions (1 day ago)
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily (today)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry (today)
+- [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit (1 day ago)
+- [crazy-max/docker-unbound](https://github.com/crazy-max/docker-unbound) - Unbound Docker image (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,11 +18,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [crazy-max/docker-osxcross](https://github.com/crazy-max/docker-osxcross) ([26.5-r0](https://github.com/crazy-max/docker-osxcross/releases/tag/26.5-r0), today) - MacOSX cross toolchain as Docker image
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.11.7](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.11.7), 1 day ago) - Automated Nginx Reverse Proxy for Docker
-- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.166.0](https://github.com/docker/docker-agent/releases/tag/v1.166.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) ([26.06-r0](https://github.com/crazy-max/docker-7zip/releases/tag/26.06-r0), 2 days ago) - 7-Zip Docker image
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v3.1.6](https://github.com/sigstore/cosign/releases/tag/v3.1.6), 2 days ago) - Code signing and transparency for containers and binaries
+- [opencontainers/runc](https://github.com/opencontainers/runc) ([v1.6.0](https://github.com/opencontainers/runc/releases/tag/v1.6.0), 1 day ago) - CLI tool for spawning and running containers according to the OCI specification
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ([1.11.8](https://github.com/nginx-proxy/nginx-proxy/releases/tag/1.11.8), 1 day ago) - Automated Nginx Reverse Proxy for Docker
+- [docker/packaging](https://github.com/docker/packaging) ([compose/v5.8.1-66](https://github.com/docker/packaging/releases/tag/compose/v5.8.1-66), 1 day ago) - Docker Packaging (deb, rpm, static)
+- [docker/compose](https://github.com/docker/compose) ([v5.8.1](https://github.com/docker/compose/releases/tag/v5.8.1), 1 day ago) - Define and run multi-container applications with Docker
+- [docker/docker-agent](https://github.com/docker/docker-agent) ([v1.167.0](https://github.com/docker/docker-agent/releases/tag/v1.167.0), 1 day ago) - AI Agent Builder and Runtime by Docker Engineering
 
 #### ❤️ Latest sponsors
 - [Nazar Mokrynskyi](https://github.com/nazar-pc) (7 months ago)
